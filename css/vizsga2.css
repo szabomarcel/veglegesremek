@@ -1,0 +1,216 @@
+.cascading-right {
+    margin-right: -50px;
+}
+
+body {
+  font-family: 'Times New Roman', Times, serif;
+}
+
+a {
+  color: black;
+  text-decoration: none;
+}
+
+/* Hover stílus (amikor az egeret visszük a link fölé) */
+a:hover {
+  color: greenyellow;
+  text-decoration: none; /* Például húzzuk alá a linket */
+}
+
+/* Látogatott linkek stílusa */
+a:visited {
+  color: wheat;
+  text-decoration: none;
+}
+
+@media (max-width: 991.98px) {
+    .cascading-right {
+      margin-right: 0;
+    }
+}
+
+/* Contact Section Styles */
+.contact {
+  background-color: #f8f9fa; /* Set your desired background color */
+  padding: 80px 0;
+}
+
+.container {
+  width: 80%; /* Adjust the width as needed */
+  margin: 0 auto;
+}
+
+.section-header h2 {
+  font-size: 36px;
+  color: #343a40; /* Set your desired text color */
+}
+
+.section-header p {
+  font-size: 18px;
+  color: #6c757d; /* Set your desired text color */
+}
+
+.info-container {
+  text-align: center;
+}
+
+.info-item {
+  margin-bottom: 20px;
+}
+
+.info-item i {
+  font-size: 24px;
+  color: #007bff; /* Set your desired icon color */
+}
+
+.info-item h4 {
+  margin-top: 10px;
+  font-size: 18px;
+  color: #343a40; /* Set your desired text color */
+}
+
+.info-item p {
+  font-size: 16px;
+  color: #6c757d; /* Set your desired text color */
+}
+
+/* Contact Form Styles */
+.php-email-form {
+  background-color: #ffffff; /* Set your desired background color */
+  padding: 30px;
+  border-radius: 8px;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+}
+
+.php-email-form input,
+.php-email-form textarea {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 15px;
+  border: 1px solid #ced4da; /* Set your desired input border color */
+  border-radius: 4px;
+}
+
+.php-email-form button {
+  background-color: #007bff; /* Set your desired button color */
+  color: #ffffff; /* Set your desired button text color */
+  padding: 10px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.php-email-form button:hover {
+  background-color: #0056b3; /* Set your desired button hover color */
+}
+
+/* Adjust responsive styles as needed */
+/*@media (max-width: 768px) {
+  .container {
+    width: 90%;
+  }
+}*/
+
+@media screen and  (min-width: 600px) {
+  /*body{
+      background-color: blanchedalmond;
+      width: 90%;
+      border: blue solid thin;
+      border-radius: 50px;
+  }*/
+  .container {
+    width: 90%;
+  }
+}
+@media screen and  (min-width: 780px) {
+  /*body{
+      background-color: blue;        
+      width: 90%;
+      border: blue solid thin;
+      border-radius: 50px;
+  }*/
+  .container {
+    width: 90%;
+  }
+}
+@media screen and  (min-width: 992px) {
+  /*body{
+      background-color: blanchedalmond;
+      width: 100%;
+      border: blue solid thin;
+      border-radius: 50px;
+  }*/
+  .container {
+    width: 100%;
+  }
+}
+
+/*.portfolio-item {
+  overflow: hidden;
+  border-radius: 10px;
+  transition: transform 0.3s ease-in-out;
+}*/
+
+/*.portfolio-item:hover {
+  transform: scale(1.05);
+}*/
+
+.portfolio-content {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+.portfolio-info {
+  padding: 20px;
+}
+
+.portfolio-info p {
+  margin: 0;
+}
+
+.portfolio-info h4 {
+  margin-bottom: 10px;
+}
+
+.portfolio-info a {
+  color: #fff;
+  margin-right: 10px;
+}
+
+.portfolio-info a:hover {
+  color: #f8f9fa; /* Bootstrap light color */
+}
+
+.img-fluid {
+  width: 100%;
+  height: auto;
+  border-radius: 10px 10px 0 0;
+}
+
+/*.card {
+  background: 180deg, #618264, #79AC78, rgb(176, 217, 177);
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  width: 300px;
+  margin: 20px auto;
+  padding: 20px;
+}*/
+/*.card img {
+  width: 100%;
+  border-radius: 8px;
+  margin-bottom: 15px;
+}*/
+/*.card h2 {
+  color: #283747;
+  font-size: 24px;
+  margin-bottom: 10px;
+}*/
+/*.card p {
+  color: #283747;
+  font-size: 16px;
+  line-height: 1.6;
+}*/

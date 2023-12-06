@@ -1,0 +1,12 @@
+Fő téma: Magyar Foci Bajnokság
+Főoldal: főbb hírek (K)
+1.menüpont:Jegyvásárlás (regisztráció, adatbázis) (M)
+2.átigazolási hírek (M)
+3.Napi kvíz (R)
+4.Mérkőzések (az adott forduló meccsei) (R)
+5.Kell egy olyan weboldal is ahol beírja a emailímét meg a jelszavát egy olyan gomb ami tud regisztráéni meg egy másik gomb ahova tovább visszi a jegyvásárlós oldalra
+6.
+7.
+8.
+9.
+10.forrás (K)
