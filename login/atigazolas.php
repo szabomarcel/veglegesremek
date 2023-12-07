@@ -1,3 +1,60 @@
+<section>
+  <div class="container" data-aos="fade-up">
+    <div class="row">
+      <div class="col-12 text-center mb-5">
+        <div class="row justify-content-center">
+          <div class="col-lg-6">
+            <div class="section-header">
+              <h2>Játékosokról</h2>
+              <p>Játékosok történetük</p>
+            </div>
+            <!--<h2 class="display-4">Our Team</h2>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nihil sint sed, fugit distinctio ad eius itaque deserunt doloribus harum excepturi laudantium sit officiis et eaque blanditiis. Dolore natus excepturi recusandae.</p>-->
+          </div>
+        </div>
+      </div>
+      <div class="col-lg-4 text-center mb-5">
+        <img src="kepek/jatekosok/Szoboszlai_Dominik.jpg" alt="" class="img-fluid w-50 mb-5">
+        <h4>Szoboszlai Dominik</h4>
+        <span>2023-as 70 millió eurós, RB Leipzigtól a Liverpoolba történő átigazolásával lényegében saját rekordját döntötte meg. Korábban, 2021-ben 22 millió eurós vételárral ment az RB Salzburgtól az RB Leipzigbe.</span>
+      </div>
+      <div class="col-lg-4 text-center mb-5">
+        <img src="kepek/jatekosok/Dzsudzsak_Balazs.jpg" alt="" class="img-fluid w-50 mb-5">
+        <h4>Dzsudzsák Balázs</h4>
+        <span>Product Manager</span>
+      </div>
+      <div class="col-lg-4 text-center mb-5">
+        <img src="kepek/jatekosok/Puskas_Ferenc.jpg" alt="" class="img-fluid w-50 mb-4">
+        <h4>Puskás Ferenc</h4>
+        <span>Játékospályafutása: 1939-1956: Kispest, majd Bp. Honvéd, 1958-1967: Real Madrid
+          "Óriási presztízslépés ez az átigazolás. A magyar futball modern kori történetében még nem volt hasonló.
+          Puskás Ferenc Real Madridba, Kocsis Sándor és Czibor Zoltán Barcába igazolása volt hasonló volumenű.
+          Igaz, hogy mondjuk, korábban Kozma István is játszott a Liverpoolban, de érte nem fizettek 70 milliót eurót.
+          Akiért ennyit fizetnek, azt nem a kispadra veszik, annak komoly szerepet szánnak
+          - szögezte le a közgazdász.
+        </span>
+      </div>
+      <div class="col-lg-4 text-center mb-5">
+        <img src="kepek/jatekosok/Albert_Florian.jpg" alt="" class="img-fluid w-50 mb-4">
+        <h4>Cameron Williamson</h4>
+        <span class="d-block mb-3 text-uppercase">Editor Staff</span>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facilis, perspiciatis repellat maxime, adipisci non ipsam at itaque rerum vitae, necessitatibus nulla animi expedita cumque provident inventore? Voluptatum in tempora earum deleniti, culpa odit veniam, ea reiciendis sunt ullam temporibus aut!</p>
+      </div>
+      <div class="col-lg-4 text-center mb-5">
+        <img src="kepek/jatekosok/Balint_Laszlo.jpg" alt="" class="img-fluid w-50 mb-4">
+        <h4>Cameron Williamson</h4>
+        <span class="d-block mb-3 text-uppercase">Editor Staff</span>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facilis, perspiciatis repellat maxime, adipisci non ipsam at itaque rerum vitae, necessitatibus nulla animi expedita cumque provident inventore? Voluptatum in tempora earum deleniti, culpa odit veniam, ea reiciendis sunt ullam temporibus aut!</p>
+      </div>
+      <div class="col-lg-4 text-center mb-5">
+        <img src="kepek/jatekosok/Bene_Ferenc.jpg" alt="" class="img-fluid w-50 mb-4">
+        <h4>Cameron Williamson</h4>
+        <span class="d-block mb-3 text-uppercase">Editor Staff</span>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facilis, perspiciatis repellat maxime, adipisci non ipsam at itaque rerum vitae, necessitatibus nulla animi expedita cumque provident inventore? Voluptatum in tempora earum deleniti, culpa odit veniam, ea reiciendis sunt ullam temporibus aut!</p>
+      </div>
+    </div>
+  </div>
+</section>
 <section id="team" class="team section-bg">
       <div class="container" data-aos="fade-up">
         <div class="section-header">
@@ -15,11 +72,11 @@
                   <a href="#"><i class="bi bi-instagram"></i></a>
                   <a href="#"><i class="bi bi-linkedin"></i></a>
                 </div>
-              </div>
+              </div><hr>
               <div class="member-info">
                 <h4>Szoboszlai Dominik</h4>
-                <span>Chief Executive Officer</span>
-              </div>
+                <span>2023-as 70 millió eurós, RB Leipzigtól a Liverpoolba történő átigazolásával lényegében saját rekordját döntötte meg. Korábban, 2021-ben 22 millió eurós vételárral ment az RB Salzburgtól az RB Leipzigbe.</span>
+              </div><hr>
             </div>
           </div>
           <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
@@ -32,11 +89,11 @@
                   <a href="#"><i class="bi bi-instagram"></i></a>
                   <a href="#"><i class="bi bi-linkedin"></i></a>
                 </div>
-              </div>
+              </div><hr>
               <div class="member-info">
                 <h4>Dzsudzsák Balázs</h4>
                 <span>Product Manager</span>
-              </div>
+              </div><hr>
             </div>
           </div>
           <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
@@ -49,11 +106,17 @@
                   <a href="#"><i class="bi bi-instagram"></i></a>
                   <a href="#"><i class="bi bi-linkedin"></i></a>
                 </div>
-              </div>
+              </div><hr>
               <div class="member-info">
                 <h4>Puskás Ferenc</h4>
-                <span>CTO</span>
-              </div>
+                <span>Játékospályafutása: 1939-1956: Kispest, majd Bp. Honvéd, 1958-1967: Real Madrid
+                  "Óriási presztízslépés ez az átigazolás. A magyar futball modern kori történetében még nem volt hasonló.
+                  Puskás Ferenc Real Madridba, Kocsis Sándor és Czibor Zoltán Barcába igazolása volt hasonló volumenű.
+                  Igaz, hogy mondjuk, korábban Kozma István is játszott a Liverpoolban, de érte nem fizettek 70 milliót eurót.
+                  Akiért ennyit fizetnek, azt nem a kispadra veszik, annak komoly szerepet szánnak
+                  - szögezte le a közgazdász.
+                </span>
+              </div><hr>
             </div>
           </div>
           <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
@@ -66,11 +129,11 @@
                   <a href="#"><i class="bi bi-instagram"></i></a>
                   <a href="#"><i class="bi bi-linkedin"></i></a>
                 </div>
-              </div>
+              </div><hr>
               <div class="member-info">
                 <h4>Albert Florian</h4>
-                <span>Accountant</span>
-              </div>
+                <span>Albert Flórián pályafutása alatt végig, 1958-tól 1974-ig a Ferencváros játékosa volt. A Ferencvárosnál bajnoki és különböző kupamérkőzéseit összeszámolva összesen 537 mérkőzésen lépett pályára a felnőtt csapatnál, ezeken 383 gólt szerzett. Háromszor lett gólkirály, négyszer nyert magyar bajnokságot, egyszer nyert Magyar Népköztársasági-kupát. 1965-ben megnyerte a Vásárvárosok Kupáját, miután 1–0-ra győztek az olasz Juventus ellen.</span>
+              </div><hr>
             </div>
           </div>
           <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
@@ -83,11 +146,13 @@
                   <a href="#"><i class="bi bi-instagram"></i></a>
                   <a href="#"><i class="bi bi-linkedin"></i></a>
                 </div>
-              </div>
+              </div><hr>
               <div class="member-info">
                 <h4>Bálint László</h4>
-                <span>Chief Executive Officer</span>
-              </div>
+                <span><p><b>gazi fradista, aki a szocialista táborból első magyar futballistaként igazolt külföldre. Középső védőként a sportág egyik honi legendája. Jelenleg lovakat tart. A 76-szoros válogatott Bálint László február elsején lett 75 esztendős.</b>           
+                Az FTC híres volt remek középső védőiről: Kispéter Mihály, Mátrai Sándor, Páncsics Miklós, majd ön következett. 
+                Is-is. De szinte csak „kihalásos” alapon lehetett bekerülni, ki kellett várnom a soromat. A felnőttcsapat keretéhez 1967 végén csatlakozhattam, Mátrai akkor távozott az Egyetértésbe, de Páncsics Miklós előttem volt. Ám Lakat Károly magával vitt a csapat 1968. februári közép-amerikai túrájára.</p></span>
+              </div><hr>
             </div>
           </div>
           <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
@@ -100,11 +165,11 @@
                   <a href="#"><i class="bi bi-instagram"></i></a>
                   <a href="#"><i class="bi bi-linkedin"></i></a>
                 </div>
-              </div>
+              </div><hr>
               <div class="member-info">
                 <h4>Bene Ferenc</h4>
                 <span>Product Manager</span>
-              </div>
+              </div><hr>
             </div>
           </div>
           <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
@@ -117,11 +182,11 @@
                   <a href="#"><i class="bi bi-instagram"></i></a>
                   <a href="#"><i class="bi bi-linkedin"></i></a>
                 </div>
-              </div>
+              </div><hr>
               <div class="member-info">
                 <h4>Botka Endre</h4>
-                <span>CTO</span>
-              </div>
+                <span>A Budapest Honvéd csapatában debütált az NB I-ben. 2017 januárjában igazolt át az FTC csapatába, így – bár a szezon első felében a Honvédban lejátszott mérkőzéseinek köszönhetően – részese volt a kispestiek bajnoki győzelmének, azt azonban már nem ünnepelhette együtt egykori társaival.</span>
+              </div><hr>
             </div>
           </div>
           <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
@@ -134,11 +199,11 @@
                   <a href="#"><i class="bi bi-instagram"></i></a>
                   <a href="#"><i class="bi bi-linkedin"></i></a>
                 </div>
-              </div>
+              </div><hr>
               <div class="member-info">
                 <h4>Fenyvesi Máté</h4>
                 <span>Accountant</span>
-              </div>
+              </div><hr>
             </div>
           </div>
           <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
@@ -151,11 +216,11 @@
                   <a href="#"><i class="bi bi-instagram"></i></a>
                   <a href="#"><i class="bi bi-linkedin"></i></a>
                 </div>
-              </div>
+              </div><hr>
               <div class="member-info">
                 <h4>Fiola Attila</h4>
                 <span>Chief Executive Officer</span>
-              </div>
+              </div><hr>
             </div>
           </div>
           <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
@@ -168,11 +233,11 @@
                   <a href="#"><i class="bi bi-instagram"></i></a>
                   <a href="#"><i class="bi bi-linkedin"></i></a>
                 </div>
-              </div>
+              </div><hr>
               <div class="member-info">
                 <h4>Garaba Imre</h4>
                 <span>Product Manager</span>
-              </div>
+              </div><hr>
             </div>
           </div>
           <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
@@ -185,11 +250,11 @@
                   <a href="#"><i class="bi bi-instagram"></i></a>
                   <a href="#"><i class="bi bi-linkedin"></i></a>
                 </div>
-              </div>
+              </div><hr>
               <div class="member-info">
                 <h4>Horvath Krisztofer</h4>
                 <span>CTO</span>
-              </div>
+              </div><hr>
             </div>
           </div>
           <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
@@ -202,11 +267,11 @@
                   <a href="#"><i class="bi bi-instagram"></i></a>
                   <a href="#"><i class="bi bi-linkedin"></i></a>
                 </div>
-              </div>
+              </div><hr>
               <div class="member-info">
                 <h4>Kalmar Zsolt</h4>
                 <span>Accountant</span>
-              </div>
+              </div><hr>
             </div>
           </div>
           <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
@@ -219,11 +284,11 @@
                   <a href="#"><i class="bi bi-instagram"></i></a>
                   <a href="#"><i class="bi bi-linkedin"></i></a>
                 </div>
-              </div>
+              </div><hr>
               <div class="member-info">
                 <h4>Kata Mihály</h4>
                 <span>Chief Executive Officer</span>
-              </div>
+              </div><hr>
             </div>
           </div>
           <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
@@ -236,11 +301,11 @@
                   <a href="#"><i class="bi bi-instagram"></i></a>
                   <a href="#"><i class="bi bi-linkedin"></i></a>
                 </div>
-              </div>
+              </div><hr>
               <div class="member-info">
                 <h4>Kerkesz Milos</h4>
                 <span>Product Manager</span>
-              </div>
+              </div><hr>
             </div>
           </div>
           <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
@@ -253,11 +318,11 @@
                   <a href="#"><i class="bi bi-instagram"></i></a>
                   <a href="#"><i class="bi bi-linkedin"></i></a>
                 </div>
-              </div>
+              </div><hr>
               <div class="member-info">
                 <h4>Lang Ádám</h4>
                 <span>CTO</span>
-              </div>
+              </div><hr>
             </div>
           </div>
           <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
@@ -270,11 +335,13 @@
                   <a href="#"><i class="bi bi-instagram"></i></a>
                   <a href="#"><i class="bi bi-linkedin"></i></a>
                 </div>
-              </div>
+              </div><hr>
               <div class="member-info">
                 <h4>Mátrai Sándor</h4>
-                <span>Accountant</span>
-              </div>
+                <span><em>A labdarúgó NB I-ben szereplő Ferencváros hivatalos honlapján tudatta, hogy nem vezettek eredményre a Benficával folytatott tárgyalások Csoboth Kevin átigazolása kapcsán, így a zöld-fehérek a megoldás érdekében a FIFA vitarendező szervéhez fordulnak. 
+                  Emellett az FTC „fiktív átigazolás gyanúja miatt” a következő napokban büntetőfeljelentést tesz csalás, valamint okirat-hamisítás ügyében.</em></p>
+                </span>
+              </div><hr>
             </div>
           </div>
           <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
@@ -287,11 +354,12 @@
                   <a href="#"><i class="bi bi-instagram"></i></a>
                   <a href="#"><i class="bi bi-linkedin"></i></a>
                 </div>
-              </div>
+              </div><hr>
               <div class="member-info">
                 <h4>Nagy Ádám</h4>
-                <span>Chief Executive Officer</span>
-              </div>
+                <span>A magyar válogatott parádés teljesítményt nyújtott az utóbbi meccsein, ennek köszönhetően kijutott az Eb-re, valamint a Nemzetek Ligájában feljutott a legmagasabb osztályba. Együttesünkben Nagy Ádám ezúttal is letette a névjegyét. A 25 esztendős futballista 2016 és 2019 között a Bologna csapatát erősítette, majd ezt követően igazolt a Bristol Cityhez. Nagy a tuttomercatoweb.com-nak elmondta, szívesen visszatérne Olaszországba.
+                "Olaszországot a második otthonomnak tartom, így szívesen játszanék ismét ott. Amennyiben a klubomban és a válogatottban jó teljesítményt nyújtok, lesz is erre lehetőségem" – mutatott rá Nagy.</span>
+              </div><hr>
             </div>
           </div>
           <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
@@ -304,11 +372,11 @@
                   <a href="#"><i class="bi bi-instagram"></i></a>
                   <a href="#"><i class="bi bi-linkedin"></i></a>
                 </div>
-              </div>
+              </div><hr>
               <div class="member-info">
                 <h4>Sándor Károly</h4>
-                <span>Product Manager</span>
-              </div>
+                <span><p>Egyike azoknak, akik a Sándor Károly Labdarúgó Akadémiáról kikerülve lettek felnőtt válogatottak, a magyar labdarúgó-válogatott tagjaként mindhárom mérkőzésen pályára lépett a nyári Európa-bajnokságon, Németország ellen pedig emlékezetes gólt fejelt. Az ott nyújtott kiemelkedő teljesítményének is köszönhetően több klub érdeklődését felkeltette, és most a Bundesligában szereplő 1. FC Union Berlin együtteséhez szerződött. Az Aranycsapat idején Budai volt a vetélytársa a jobbszélső posztján. Sebes Gusztáv a Honvéd szélsőjét favorizálta, aki kiválóan összeszokott Kocsissal. Így lemaradt az 1952-es olimpiai aranyról, nem játszott az évszázad mérkőzésén, csak csere volt, és az 1954-es világbajnokságra sem nevezték, bár kiutazott a csapattal.</p></span>
+              </div><hr>
             </div>
           </div>
           <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
@@ -321,11 +389,11 @@
                   <a href="#"><i class="bi bi-instagram"></i></a>
                   <a href="#"><i class="bi bi-linkedin"></i></a>
                 </div>
-              </div>
+              </div><hr>
               <div class="member-info">
                 <h4>Sipos Ferenc</h4>
-                <span>CTO</span>
-              </div>
+                <span>Sipos Ferenc a budapesti Goldberger együtteséből került be az ifjúsági válogatottba, 1952-ben igazolt a Szolnoki Légierők együtteséhez. Négy év múlva az MTK szerződtette, ahol 1956 és 1963 között 177 mérkőzésen szerepelt, és 19 gólt ért el. Az MTK 87. válogatott futballistája, a nemzeti csapat 476. játékosa. Az MTK-val 1957-1958-ban bajnoki címet szerzett. Az 1961-1962-es idényben VVK elődöntős volt, a győztes Valenciaval szemben maradt  alul a kék-fehér együttes. 1958-ban ő volt az év játékosa Magyarországon.</span>
+              </div><hr>
             </div>
           </div>
           <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
@@ -338,11 +406,11 @@
                   <a href="#"><i class="bi bi-instagram"></i></a>
                   <a href="#"><i class="bi bi-linkedin"></i></a>
                 </div>
-              </div>
+              </div><hr>
               <div class="member-info">
                 <h4>Szalai Ádám</h4>
                 <span>Accountant</span>
-              </div>
+              </div><hr>
             </div>
           </div>
         </div>
@@ -364,8 +432,8 @@
             <li data-filter=".filter-design">Design</li>
           </ul><!-- End Projects Filters -->
           <div class="row gy-4 portfolio-container" data-aos="fade-up" data-aos-delay="200">
-            <div class="col-lg-4 col-md-6 portfolio-item filter-remodeling navbar-light bg-warning">
-              <div class="portfolio-content h-100 navbar-dark bg-secondary">
+            <div class="col-lg-4 col-md-6 portfolio-item filter-remodeling">
+              <div class="portfolio-content h-100 lista">
                 <img src="kepek/csapatok/DVSC1.png" class="img-fluid" alt="">
                 <div class="portfolio-info">
                   <h4><p class="card-text"><b>Teljes csapatnév: </b>Debreceni Vasutas Sport Club</p></h4>
@@ -379,8 +447,8 @@
                 </div>
               </div>
             </div><!-- End Projects Item -->
-            <div class="col-lg-4 col-md-6 portfolio-item filter-construction navbar-dark bg-secondary">
-              <div class="portfolio-content h-100 navbar-light bg-warning">
+            <div class="col-lg-4 col-md-6 portfolio-item filter-construction">
+              <div class="portfolio-content h-100 lista">
                 <img src="kepek/csapatok/DVTK1.png" class="img-fluid" alt="">
                 <div class="portfolio-info">
                   <h4 class="card-text"><p class="card-text"><b>Teljes csapatnév: </b>Diósgyőri VTK</p></h4>                  
@@ -394,8 +462,8 @@
                 </div>
               </div>
             </div><!-- End Projects Item -->
-            <div class="col-lg-4 col-md-6 portfolio-item navbar-light bg-warning">
-              <div class="portfolio-content h-100 navbar-dark bg-secondary">
+            <div class="col-lg-4 col-md-6 portfolio-item">
+              <div class="portfolio-content h-100 lista">
                 <img src="kepek/csapatok/fehervar1.png" class="img-fluid" alt="">
                 <div class="portfolio-info">
                   <h4><p class="card-text"><b>Teljes csapatnév: </b>Fehérvár FC</p></h4>
@@ -409,8 +477,8 @@
                 </div>
               </div>
             </div><!-- End Projects Item -->
-            <div class="col-lg-4 col-md-6 portfolio-item filter-construction navbar-dark bg-secondary">
-              <div class="portfolio-content h-100 navbar-light bg-warning">
+            <div class="col-lg-4 col-md-6 portfolio-item filter-construction">
+              <div class="portfolio-content h-100 lista">
                 <img src="kepek/csapatok/FTC1.png" class="img-fluid" alt="">
                 <div class="portfolio-info">
                   <h4 class="card-text"><p class="card-text"><b>Teljes csapatnév: </b>Ferencvárosi Torna Club</p></h4>                  
@@ -424,8 +492,8 @@
                 </div>
               </div>
             </div><!-- End Projects Item -->
-            <div class="col-lg-4 col-md-6 portfolio-item navbar-light bg-warning">
-              <div class="portfolio-content h-100 navbar-dark bg-secondary">
+            <div class="col-lg-4 col-md-6 portfolio-item">
+              <div class="portfolio-content h-100 lista">
                 <img src="kepek/csapatok/kisvarda1.png" class="img-fluid" alt="">
                 <div class="portfolio-info">
                   <h4><p class="card-text"><b>Teljes csapatnév: </b>Kisvárda Master Good</p></h4>
@@ -438,8 +506,8 @@
                 </div>
               </div>
             </div><!-- End Projects Item -->
-            <div class="col-lg-4 col-md-6 portfolio-item filter-construction navbar-dark bg-secondary">
-              <div class="portfolio-content h-100 navbar-light bg-warning">
+            <div class="col-lg-4 col-md-6 portfolio-item filter-construction">
+              <div class="portfolio-content h-100 lista">
                 <img src="kepek/csapatok/kovesd1.png" class="img-fluid" alt="">
                 <div class="portfolio-info">
                   <h4><p class="card-text"><b>Teljes csapatnév: </b>Mezőkövesd Zsóry Futball Club</p></h4>                  
@@ -452,8 +520,8 @@
                 </div>
               </div>
             </div><!-- End Projects Item -->
-            <div class="col-lg-4 col-md-6 portfolio-item navbar-light bg-warning">
-              <div class="portfolio-content h-100 navbar-dark bg-secondary">
+            <div class="col-lg-4 col-md-6 portfolio-item">
+              <div class="portfolio-content h-100 lista">
                 <img src="kepek/csapatok/KTE1.png" class="img-fluid" alt="">
                 <div class="portfolio-info">
                   <h4><p class="card-text"><b>Teljes csapatnév: </b>Kecskeméti Testedző Egyesület</p></h4>
@@ -467,8 +535,8 @@
                 </div>
               </div>
             </div><!-- End Projects Item -->
-            <div class="col-lg-4 col-md-6 portfolio-item filter-construction navbar-dark bg-secondary">
-              <div class="portfolio-content h-100 navbar-light bg-warning">
+            <div class="col-lg-4 col-md-6 portfolio-item filter-construction">
+              <div class="portfolio-content h-100 lista">
                 <img src="kepek/csapatok/MTK1.png" class="img-fluid" alt="">
                 <div class="portfolio-info">
                   <h4><p class="card-text"><b>Teljes csapatnév: </b>Magyar Testgyakorlók Köre Budapest</p></h4>
@@ -482,8 +550,8 @@
                 </div>
               </div>
             </div><!-- End Projects Item -->
-            <div class="col-lg-4 col-md-6 portfolio-item navbar-light bg-warning">
-              <div class="portfolio-content h-100 navbar-dark bg-secondary">
+            <div class="col-lg-4 col-md-6 portfolio-item">
+              <div class="portfolio-content h-100 lista">
                 <img src="kepek/csapatok/PAFC1.png" class="img-fluid" alt="">
                 <div class="portfolio-info">
                   <h4><p class="card-text"><b>Teljes csapatnév: </b>Puskás Akadémia FC</p></h4>
@@ -496,8 +564,8 @@
                 </div>
               </div>
             </div><!-- End Projects Item -->
-            <div class="col-lg-4 col-md-6 portfolio-item filter-construction navbar-dark bg-secondary">
-              <div class="portfolio-content h-100 navbar-light bg-warning">
+            <div class="col-lg-4 col-md-6 portfolio-item filter-construction">
+              <div class="portfolio-content h-100 lista">
                 <img src="kepek/csapatok/PFC1.png" class="img-fluid" alt="">
                 <div class="portfolio-info">
                   <h4><p class="card-text"><b>Teljes csapatnév: </b>Paksi Futball Club</p></h4>
@@ -511,8 +579,8 @@
                 </div>
               </div>
             </div><!-- End Projects Item -->
-            <div class="col-lg-4 col-md-6 portfolio-item navbar-light bg-warning">
-              <div class="portfolio-content h-100 navbar-dark bg-secondary">
+            <div class="col-lg-4 col-md-6 portfolio-item">
+              <div class="portfolio-content h-100 lista">
                 <img src="kepek/csapatok/UTE1.png" class="img-fluid" alt="">
                 <div class="portfolio-info">
                   <h4><p class="card-text"><b>Teljes csapatnév: </b>Újpest Football Club</p></h4>                  
@@ -526,8 +594,8 @@
                 </div>
               </div>
             </div><!-- End Projects Item -->
-            <div class="col-lg-4 col-md-6 portfolio-item filter-construction navbar-dark bg-secondary">
-              <div class="portfolio-content h-100 navbar-light bg-warning">
+            <div class="col-lg-4 col-md-6 portfolio-item filter-construction">
+              <div class="portfolio-content h-100 lista">
                 <img src="kepek/csapatok/zte1.png" class="img-fluid" alt="">
                 <div class="portfolio-info">
                   <h4><p class="card-text"><b>Teljes csapatnév: </b>Zalaegerszegi Torna Egylet Football Club</p></h4>

@@ -77,9 +77,9 @@ if (filter_input(INPUT_POST, "Adatmodositas", FILTER_VALIDATE_BOOL, FILTER_NULL_
 <div class="container py-4">
     <div class="row g-0 align-items-center">
         <div class="col-lg-6 mb-5 mb-lg-0">
-        <div class="card cascading-right" style="background: hsla(0, 0%, 100%, 0.55); backdrop-filter: blur(30px);">
+        <div class="cascading-right" style="background: hsla(0, 0%, 100%, 0.55); backdrop-filter: blur(30px);">
             <div class="card-body p-5 shadow-5 text-center">
-                <h2 class="fw-bold mb-5">Felhasználó számára módositható adatok</h2>
+                <h2 class="fw-bold mb-4">Felhasználó számára módositható adatok</h2>
                     <form method="post" action="index.php?menuItem=fooldal&id=<?php echo $adatok['id']; ?>" enctype="multipart/form-data">
                         <!-- 2 column grid layout with text inputs for the first and last names -->
                         <div class="row">
@@ -127,7 +127,7 @@ if (filter_input(INPUT_POST, "Adatmodositas", FILTER_VALIDATE_BOOL, FILTER_NULL_
                 </div>
             </div>
         </div>
-        <div class="col-lg-6 mb-5 mb-lg-0">
+        <div class="col-lg-6 mb-4 mb-lg-0">
           <img src="kepek/csapatok/Fehervar.png" class="w-100 rounded-4 shadow-4" alt="kepek" />
         </div>
     </div>
