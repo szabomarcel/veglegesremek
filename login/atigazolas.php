@@ -17,11 +17,23 @@
         <img src="kepek/jatekosok/Szoboszlai_Dominik.jpg" alt="" class="img-fluid w-50 mb-5">
         <h4>Szoboszlai Dominik</h4>
         <span>2023-as 70 millió eurós, RB Leipzigtól a Liverpoolba történő átigazolásával lényegében saját rekordját döntötte meg. Korábban, 2021-ben 22 millió eurós vételárral ment az RB Salzburgtól az RB Leipzigbe.</span>
+        <div class="social">
+          <a href="#"><i class="bi bi-twitter"></i></a>
+          <a href="#"><i class="bi bi-facebook"></i></a>
+          <a href="#"><i class="bi bi-instagram"></i></a>
+          <a href="#"><i class="bi bi-linkedin"></i></a>
+        </div>
       </div>
       <div class="col-lg-4 text-center mb-5">
         <img src="kepek/jatekosok/Dzsudzsak_Balazs.jpg" alt="" class="img-fluid w-50 mb-5">
         <h4>Dzsudzsák Balázs</h4>
         <span>Product Manager</span>
+        <div class="social">
+          <a href="#"><i class="bi bi-twitter"></i></a>
+          <a href="#"><i class="bi bi-facebook"></i></a>
+          <a href="#"><i class="bi bi-instagram"></i></a>
+          <a href="#"><i class="bi bi-linkedin"></i></a>
+        </div>
       </div>
       <div class="col-lg-4 text-center mb-5">
         <img src="kepek/jatekosok/Puskas_Ferenc.jpg" alt="" class="img-fluid w-50 mb-4">
@@ -33,18 +45,36 @@
           Akiért ennyit fizetnek, azt nem a kispadra veszik, annak komoly szerepet szánnak
           - szögezte le a közgazdász.
         </span>
+        <div class="social">
+          <a href="#"><i class="bi bi-twitter"></i></a>
+          <a href="#"><i class="bi bi-facebook"></i></a>
+          <a href="#"><i class="bi bi-instagram"></i></a>
+          <a href="#"><i class="bi bi-linkedin"></i></a>
+        </div>
       </div>
       <div class="col-lg-4 text-center mb-5">
         <img src="kepek/jatekosok/Albert_Florian.jpg" alt="" class="img-fluid w-50 mb-4">
         <h4>Cameron Williamson</h4>
         <span class="d-block mb-3 text-uppercase">Editor Staff</span>
         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facilis, perspiciatis repellat maxime, adipisci non ipsam at itaque rerum vitae, necessitatibus nulla animi expedita cumque provident inventore? Voluptatum in tempora earum deleniti, culpa odit veniam, ea reiciendis sunt ullam temporibus aut!</p>
+        <div class="social">
+          <a href="#"><i class="bi bi-twitter"></i></a>
+          <a href="#"><i class="bi bi-facebook"></i></a>
+          <a href="#"><i class="bi bi-instagram"></i></a>
+          <a href="#"><i class="bi bi-linkedin"></i></a>
+        </div>
       </div>
       <div class="col-lg-4 text-center mb-5">
         <img src="kepek/jatekosok/Balint_Laszlo.jpg" alt="" class="img-fluid w-50 mb-4">
         <h4>Cameron Williamson</h4>
         <span class="d-block mb-3 text-uppercase">Editor Staff</span>
         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facilis, perspiciatis repellat maxime, adipisci non ipsam at itaque rerum vitae, necessitatibus nulla animi expedita cumque provident inventore? Voluptatum in tempora earum deleniti, culpa odit veniam, ea reiciendis sunt ullam temporibus aut!</p>
+        <div class="social">
+          <a href="#"><i class="bi bi-twitter"></i></a>
+          <a href="#"><i class="bi bi-facebook"></i></a>
+          <a href="#"><i class="bi bi-instagram"></i></a>
+          <a href="#"><i class="bi bi-linkedin"></i></a>
+        </div>
       </div>
       <div class="col-lg-4 text-center mb-5">
         <img src="kepek/jatekosok/Bene_Ferenc.jpg" alt="" class="img-fluid w-50 mb-4">
