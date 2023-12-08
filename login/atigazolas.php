@@ -7,13 +7,12 @@
             <div class="section-header">
               <h2>Játékosokról</h2>
               <p>Játékosok történetük</p>
-            </div>
-            <!--<h2 class="display-4">Our Team</h2>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nihil sint sed, fugit distinctio ad eius itaque deserunt doloribus harum excepturi laudantium sit officiis et eaque blanditiis. Dolore natus excepturi recusandae.</p>-->
+            </div>            
           </div>
         </div>
       </div>
       <div class="col-lg-4 text-center mb-5">
+        <hr>
         <img src="kepek/jatekosok/Szoboszlai_Dominik.jpg" alt="" class="img-fluid w-50 mb-5">
         <h4>Szoboszlai Dominik</h4>
         <span>2023-as 70 millió eurós, RB Leipzigtól a Liverpoolba történő átigazolásával lényegében saját rekordját döntötte meg. Korábban, 2021-ben 22 millió eurós vételárral ment az RB Salzburgtól az RB Leipzigbe.</span>
@@ -23,8 +22,10 @@
           <a href="#"><i class="bi bi-instagram"></i></a>
           <a href="#"><i class="bi bi-linkedin"></i></a>
         </div>
+        <hr>
       </div>
       <div class="col-lg-4 text-center mb-5">
+        <hr>
         <img src="kepek/jatekosok/Dzsudzsak_Balazs.jpg" alt="" class="img-fluid w-50 mb-5">
         <h4>Dzsudzsák Balázs</h4>
         <span>Product Manager</span>
@@ -34,8 +35,10 @@
           <a href="#"><i class="bi bi-instagram"></i></a>
           <a href="#"><i class="bi bi-linkedin"></i></a>
         </div>
+        <hr>
       </div>
       <div class="col-lg-4 text-center mb-5">
+        <hr>
         <img src="kepek/jatekosok/Puskas_Ferenc.jpg" alt="" class="img-fluid w-50 mb-4">
         <h4>Puskás Ferenc</h4>
         <span>Játékospályafutása: 1939-1956: Kispest, majd Bp. Honvéd, 1958-1967: Real Madrid
@@ -51,6 +54,7 @@
           <a href="#"><i class="bi bi-instagram"></i></a>
           <a href="#"><i class="bi bi-linkedin"></i></a>
         </div>
+        <hr>
       </div>
       <div class="col-lg-4 text-center mb-5">
         <img src="kepek/jatekosok/Albert_Florian.jpg" alt="" class="img-fluid w-50 mb-4">
@@ -619,10 +623,17 @@
     </section>  -->
     <!-- ======= Our Projects Section ======= -->
     <section id="projects" class="projects">
-      <div class="container" data-aos="fade-up">
-        <div class="section-header">
-          <h2>Csapatokról</h2>
-          <p>Csapatok történetük</p>
+    <div class="container" data-aos="fade-up">
+      <div class="row">
+        <div class="col-12 text-center mb-5">
+          <div class="row justify-content-center">
+            <div class="col-lg-6">
+              <div class="section-header">
+                <h2>Csapatokról</h2>
+                <p>Csapatok történetük</p>
+              </div>            
+            </div>
+          </div>
         </div>
         <div class="portfolio-isotope" data-portfolio-filter="*" data-portfolio-layout="masonry" data-portfolio-sort="original-order">
           <ul class="portfolio-flters" data-aos="fade-up" data-aos-delay="100">
