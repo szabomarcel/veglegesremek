@@ -16,6 +16,7 @@
     <link href="css/modify.css" rel="stylesheet">
     <link href="css/login.css" rel="stylesheet">
     <link href="css/register.css" rel="stylesheet">
+    <link href="css/foci.css" rel="stylesheet">
     <link href="assets/css/variables.css" rel="stylesheet">
     <link href="assets/css/main.css" rel="stylesheet">    
     <!-- Vendor CSS Files -->

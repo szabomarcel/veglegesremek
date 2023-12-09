@@ -11,7 +11,7 @@
                 require_once("./login/kviz.php");
                 break;     
             case "foci":
-                require_once("#.php");
+                require_once("login/focisjatek.php");
                 break;
             case "felhasznalo":
                 require_once("./login/felhasznalo.php");

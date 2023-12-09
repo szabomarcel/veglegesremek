@@ -17,7 +17,7 @@
                             <a class="nav-link navbar navbar-light bg-light'. ($menuItem == 'kwiz'?' active ': '') .'" href="index.php?menuItem=kwiz">Napi kwiz</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link navbar navbar-light bg-light'. ($menuItem == 'foci'?' active ': '') .'" href="index.php?menuItem=foci">Mini Játék focival kapcsolatos</a>
+                            <a class="nav-link navbar navbar-light bg-light'. ($menuItem == 'foci'?' active ': '') .'" href="index.php?menuItem=foci">Mini Game</a>
                         </li>
                         <div class="dropdown">
                             <a data-mdb-dropdown-init class="dropdown-toggle d-flex align-items-center hidden-arrow" href="#" id="navbarDropdownMenuAvatar" role="button" aria-expanded="false">

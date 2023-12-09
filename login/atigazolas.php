@@ -57,6 +57,7 @@
         <hr>
       </div>
       <div class="col-lg-4 text-center mb-5">
+        <hr>
         <img src="kepek/jatekosok/Albert_Florian.jpg" alt="" class="img-fluid w-50 mb-4">
         <h4>Albert Florian</h4>
         <span class="d-block mb-3 text-uppercase">Editor Staff</span>
@@ -67,8 +68,10 @@
           <a href="#"><i class="bi bi-instagram"></i></a>
           <a href="#"><i class="bi bi-linkedin"></i></a>
         </div>
+        <hr>
       </div>
       <div class="col-lg-4 text-center mb-5">
+        <hr>
         <img src="kepek/jatekosok/Balint_Laszlo.jpg" alt="" class="img-fluid w-50 mb-4">
         <h4>Bálint László</h4>
         <span class="d-block mb-3 text-uppercase">Editor Staff</span>
@@ -79,8 +82,10 @@
           <a href="#"><i class="bi bi-instagram"></i></a>
           <a href="#"><i class="bi bi-linkedin"></i></a>
         </div>
+        <hr>        
       </div>
       <div class="col-lg-4 text-center mb-5">
+        <hr>
         <img src="kepek/jatekosok/Bene_Ferenc.jpg" alt="" class="img-fluid w-50 mb-4">
         <h4>Bene Ferenc</h4>
         <span class="d-block mb-3 text-uppercase">Editor Staff</span>
@@ -91,6 +96,7 @@
           <a href="#"><i class="bi bi-instagram"></i></a>
           <a href="#"><i class="bi bi-linkedin"></i></a>
         </div>
+        <hr>
       </div>
       <div class="col-lg-4 text-center mb-5">
         <img src="kepek/jatekosok/Botka_Endre.jpg" alt="" class="img-fluid w-50 mb-5">
@@ -102,8 +108,10 @@
           <a href="#"><i class="bi bi-instagram"></i></a>
           <a href="#"><i class="bi bi-linkedin"></i></a>
         </div>
+        <hr>
       </div>
       <div class="col-lg-4 text-center mb-5">
+        <hr>
         <img src="kepek/jatekosok/Fenyvesi_Mate.jpg" alt="" class="img-fluid w-50 mb-5">
         <h4>Fenyvesi MÁté</h4>
         <span>2023-as 70 millió eurós, RB Leipzigtól a Liverpoolba történő átigazolásával lényegében saját rekordját döntötte meg. Korábban, 2021-ben 22 millió eurós vételárral ment az RB Salzburgtól az RB Leipzigbe.</span>
@@ -113,8 +121,10 @@
           <a href="#"><i class="bi bi-instagram"></i></a>
           <a href="#"><i class="bi bi-linkedin"></i></a>
         </div>
+        <hr>
       </div>
       <div class="col-lg-4 text-center mb-5">
+        <hr>
         <img src="kepek/jatekosok/Fiola_Attila.jpg" alt="" class="img-fluid w-50 mb-5">
         <h4>Fióla Attila</h4>
         <span>2023-as 70 millió eurós, RB Leipzigtól a Liverpoolba történő átigazolásával lényegében saját rekordját döntötte meg. Korábban, 2021-ben 22 millió eurós vételárral ment az RB Salzburgtól az RB Leipzigbe.</span>
@@ -124,8 +134,10 @@
           <a href="#"><i class="bi bi-instagram"></i></a>
           <a href="#"><i class="bi bi-linkedin"></i></a>
         </div>
+        <hr>
       </div>
       <div class="col-lg-4 text-center mb-5">
+        <hr>
         <img src="kepek/jatekosok/Garaba_Imre.jpg" alt="" class="img-fluid w-50 mb-5">
         <h4>Garaba Imre</h4>
         <span>2023-as 70 millió eurós, RB Leipzigtól a Liverpoolba történő átigazolásával lényegében saját rekordját döntötte meg. Korábban, 2021-ben 22 millió eurós vételárral ment az RB Salzburgtól az RB Leipzigbe.</span>
@@ -135,8 +147,10 @@
           <a href="#"><i class="bi bi-instagram"></i></a>
           <a href="#"><i class="bi bi-linkedin"></i></a>
         </div>
+        <hr>
       </div>
       <div class="col-lg-4 text-center mb-5">
+        <hr>
         <img src="kepek/jatekosok/Horvath_Krisztofer.jpg" alt="" class="img-fluid w-50 mb-5">
         <h4>Szoboszlai Dominik</h4>
         <span>2023-as 70 millió eurós, RB Leipzigtól a Liverpoolba történő átigazolásával lényegében saját rekordját döntötte meg. Korábban, 2021-ben 22 millió eurós vételárral ment az RB Salzburgtól az RB Leipzigbe.</span>
@@ -146,8 +160,10 @@
           <a href="#"><i class="bi bi-instagram"></i></a>
           <a href="#"><i class="bi bi-linkedin"></i></a>
         </div>
+        <hr>
       </div>
       <div class="col-lg-4 text-center mb-5">
+        <hr>
         <img src="kepek/jatekosok/Kalmar_Zsolt.jpg" alt="" class="img-fluid w-50 mb-5">
         <h4>Szoboszlai Dominik</h4>
         <span>2023-as 70 millió eurós, RB Leipzigtól a Liverpoolba történő átigazolásával lényegében saját rekordját döntötte meg. Korábban, 2021-ben 22 millió eurós vételárral ment az RB Salzburgtól az RB Leipzigbe.</span>
@@ -157,8 +173,10 @@
           <a href="#"><i class="bi bi-instagram"></i></a>
           <a href="#"><i class="bi bi-linkedin"></i></a>
         </div>
+        <hr>
       </div>
       <div class="col-lg-4 text-center mb-5">
+        <hr>
         <img src="kepek/jatekosok/Kata_Mihaly.jpg" alt="" class="img-fluid w-50 mb-5">
         <h4>Szoboszlai Dominik</h4>
         <span>2023-as 70 millió eurós, RB Leipzigtól a Liverpoolba történő átigazolásával lényegében saját rekordját döntötte meg. Korábban, 2021-ben 22 millió eurós vételárral ment az RB Salzburgtól az RB Leipzigbe.</span>
@@ -168,6 +186,7 @@
           <a href="#"><i class="bi bi-instagram"></i></a>
           <a href="#"><i class="bi bi-linkedin"></i></a>
         </div>
+        <hr>
       </div>
       <div class="col-lg-4 text-center mb-5">
         <img src="kepek/jatekosok/Kerkesz_Milos.jpg" alt="" class="img-fluid w-50 mb-5">

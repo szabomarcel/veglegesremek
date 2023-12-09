@@ -121,7 +121,6 @@ if (filter_input(INPUT_POST, "Adatmodositas", FILTER_VALIDATE_BOOL, FILTER_NULL_
 
                         <!-- Submit button -->                        
                         <button type="submit" class="btn btn-info btn-block mb-4" value="1" name="Adatmodositas">Módosítás</button>
-                        <a href="index.php?menuItem=felhasznalo&id=<?php echo $adatok['id'];?>" class="btn btn-dark btn-block mb-4">Megvásárlom</a>
                         <button type="submit" class="btn btn-info btn-block mb-4" value="1" name="Egyszarvu">Törlés</button>
                     </form>
                 </div>
