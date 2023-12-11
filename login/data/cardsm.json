@@ -1,0 +1,38 @@
+[
+    {
+        "image": "./kepek/jatekosok/Albert_Florian.jpg",
+        "name": "chili"
+    },
+    {
+        "image": "./kepek/jatekosok/Balint_Laszlo.jpg",
+        "name": "grapes"
+    },
+    {
+        "image": "./kepek/jatekosok/Bene_Ferenc.jpg",
+        "name": "lemon"
+    },
+    {
+        "image": "./kepek/jatekosok/Botka_Endre.jpg",
+        "name": "orange"
+    },
+    {
+        "image": "./kepek/jatekosok/Dzsudzsak_Balazs.jpg",
+        "name": "pineapple"
+    },
+    {
+        "image": "./kepek/jatekosok/Fenyvesi_Mate.jpg",
+        "name": "strawberry"
+    },
+    {
+        "image": "./kepek/jatekosok/Fiola_Attila.jpg",
+        "name": "tomato"
+    },
+    {
+        "image": "./kepek/jatekosok/Garaba_Imre.jpg",
+        "name": "watermelon"
+    },
+    {
+        "image": "./kepek/jatekosok/Horvath_Krisztofer.jpg",
+        "name": "cherries"
+    }
+]

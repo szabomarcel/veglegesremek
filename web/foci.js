@@ -1,70 +1,99 @@
-// Példa adatok focijátékosokról
-const footballPlayers = [
-    { name: 'Cristiano Ronaldo', team: 'Manchester United', image: 'ronaldo.jpg' },
-    { name: 'Lionel Messi', team: 'Paris Saint-Germain', image: 'messi.jpg' },
-    { name: 'Neymar Jr.', team: 'Paris Saint-Germain', image: 'neymar.jpg' },
-    // További játékosok...
-];
+const gridContainer = document.querySelector(".grid-container");
+let cards = [];
+let firstCard, secondCard;
+let lockBoard = false;
+let score = 0;
 
-// Kártyák létrehozása és hozzáadása a DOM-hoz
-const cardContainer = document.getElementById('card-container');
-let selectedCards = [];
+document.querySelector(".score").textContent = score;
 
-footballPlayers.forEach(player => {
-    const card = document.createElement('div');
-    card.classList.add('card');
+fetch("./login/data/cardsm.json")
+  .then((res) => res.json())
+  .then((data) => {
+    cards = [...data, ...data];
+    shuffleCards();
+    generateCards();
+  });
 
-    const image = document.createElement('img');
-    image.src = player.image;
-    image.alt = player.name;
+function shuffleCards() {
+  let currentIndex = cards.length,
+    randomIndex,
+    temporaryValue;
+  while (currentIndex !== 0) {
+    randomIndex = Math.floor(Math.random() * currentIndex);
+    currentIndex -= 1;
+    temporaryValue = cards[currentIndex];
+    cards[currentIndex] = cards[randomIndex];
+    cards[randomIndex] = temporaryValue;
+  }
+}
 
-    const playerName = document.createElement('h2');
-    playerName.textContent = player.name;
+function generateCards() {
+  for (let card of cards) {
+    const cardElement = document.createElement("div");
+    cardElement.classList.add("cardm");
+    cardElement.setAttribute("data-name", card.name);
+    cardElement.innerHTML = `
+      <div class="frontt">
+        <img class="frontt-image" src=${card.image} />
+      </div>
+      <div class="backs"></div>
+    `;
+    gridContainer.appendChild(cardElement);
+    cardElement.addEventListener("click", flipCard);
+  }
+}
 
-    const team = document.createElement('p');
-    team.textContent = `Team: ${player.team}`;
+function flipCard() {
+  if (lockBoard) return;
+  if (this === firstCard) return;
 
-    card.appendChild(image);
-    card.appendChild(playerName);
-    card.appendChild(team);
+  this.classList.add("flipped");
 
-    card.addEventListener('click', () => onCardClick(card, player));
+  if (!firstCard) {
+    firstCard = this;
+    return;
+  }
 
-    cardContainer.appendChild(card);
-});
+  secondCard = this;
+  score++;
+  document.querySelector(".score").textContent = score;
+  lockBoard = true;
 
-function onCardClick(card, player) {
-    // Ellenőrizzük, hogy a kártya már kiválasztásra került-e
-    if (card.classList.contains('selected')) {
-        return;
-    }
+  checkForMatch();
+}
 
-    // Kiválasztott kártya stílusának változtatása
-    card.classList.add('selected');
+function checkForMatch() {
+  let isMatch = firstCard.dataset.name === secondCard.dataset.name;
 
-    // Kiválasztott kártya hozzáadása a kiválasztott kártyák tömbhöz
-    selectedCards.push({ card, player });
+  isMatch ? disableCards() : unflipCards();
+}
 
-    // Ellenőrzés, ha két kártya van kiválasztva
-    if (selectedCards.length === 2) {
-        const [firstCard, secondCard] = selectedCards;
-        
-        // Ellenőrzés, ha a két kártya ugyanazt a játékost mutatja
-        if (firstCard.player.name === secondCard.player.name) {
-            // Ha találat van, eltűntetjük a kártyákat
-            setTimeout(() => {
-                firstCard.card.style.display = 'none';
-                secondCard.card.style.display = 'none';
-            }, 1000);
-        } else {
-            // Ha nincs találat, visszaállítjuk a kiválasztott kártyákat
-            setTimeout(() => {
-                firstCard.card.classList.remove('selected');
-                secondCard.card.classList.remove('selected');
-            }, 1000);
-        }
+function disableCards() {
+  firstCard.removeEventListener("click", flipCard);
+  secondCard.removeEventListener("click", flipCard);
 
-        // Kiválasztott kártyák tömb ürítése
-        selectedCards = [];
-    }
+  resetBoard();
+}
+
+function unflipCards() {
+  setTimeout(() => {
+    firstCard.classList.remove("flipped");
+    secondCard.classList.remove("flipped");
+    resetBoard();
+  }, 1000);
+}
+
+function resetBoard() {
+  firstCard = null;
+  secondCard = null;
+  lockBoard = false;
+}
+
+function restart() {
+  resetBoard();
+  shuffleCards();
+  score = 0;
+  document.querySelector(".score").textContent = score;
+  gridContainer.innerHTML = "";
+  generateCards();
 }

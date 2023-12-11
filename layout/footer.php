@@ -12,7 +12,7 @@
             <ul class="footer-links list-unstyled">
               <li><a href="index.php?menuItem=fooldal"><i class="bi bi-chevron-right"></i> Home</a></li>
               <li><a href="index.php?menuItem=felhasznalo"><i class="bi bi-chevron-right"></i> Blog</a></li>
-              <li><a href="atigazolas.php"><i class="bi bi-chevron-right"></i> Categories</a></li>
+              <li><a href="index.php?menuItem=atigazolas"><i class="bi bi-chevron-right"></i> Categories</a></li>
               <li><a href="#"><i class="bi bi-chevron-right"></i> Single Post</a></li>
               <li><a href="#"><i class="bi bi-chevron-right"></i> About us</a></li>
               <li><a href="index.php?menuItem=felhasznalo"><i class="bi bi-chevron-right"></i> Contact</a></li>
