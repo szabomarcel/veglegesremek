@@ -44,7 +44,7 @@
         <hr>
         <img src="kepek/jatekosok/Puskas_Ferenc.jpg" alt="" class="img-fluid w-50 mb-4">
         <h4>Puskás Ferenc</h4>
-        <span class="d-block mb-3 text-uppercase">Született: 1927. április 1., Budapest - Meghalt: 2006. november 17., Budapes</span>
+        <span class="d-block mb-3 text-uppercase">Született: 1927. április 1., Budapest - Meghalt: 2006. november 17., Budapest</span>
         <p>Játékospályafutása: 1939-1956: Kispest, majd Bp. Honvéd, 1958-1967: Real Madrid
           "Óriási presztízslépés ez az átigazolás. A magyar futball modern kori történetében még nem volt hasonló.
           Puskás Ferenc Real Madridba, Kocsis Sándor és Czibor Zoltán Barcába igazolása volt hasonló volumenű.
@@ -63,7 +63,7 @@
         <hr>
         <img src="kepek/jatekosok/Albert_Florian.jpg" alt="" class="img-fluid w-50 mb-4">
         <h4>Albert Florian</h4>
-        <span class="d-block mb-3 text-uppercase">Editor Staff</span>
+        <span class="d-block mb-3 text-uppercase">Született: 1941. szeptember 15., Hercegszántó Meghalt: 2011. október 31., Budapest</span>
         <p>Albert Flórián pályafutása alatt végig, 1958-tól 1974-ig a Ferencváros játékosa volt. A Ferencvárosnál bajnoki és különböző kupamérkőzéseit összeszámolva összesen 537 mérkőzésen lépett pályára a felnőtt csapatnál, ezeken 383 gólt szerzett. Háromszor lett gólkirály, négyszer nyert magyar bajnokságot, egyszer nyert Magyar Népköztársasági-kupát. 1965-ben megnyerte a Vásárvárosok Kupáját, miután 1–0-ra győztek az olasz Juventus ellen.</p>
         <div class="social">
           <a href="#"><i class="bi bi-twitter"></i></a>
@@ -77,7 +77,7 @@
         <hr>
         <img src="kepek/jatekosok/Balint_Laszlo.jpg" alt="" class="img-fluid w-50 mb-4">
         <h4>Bálint László</h4>
-        <span class="d-block mb-3 text-uppercase">Editor Staff</span>
+        <span class="d-block mb-3 text-uppercase">Született: 1948. február 1. (életkor 75 év), Budapest</span>
         <p><b>gazi fradista, aki a szocialista táborból első magyar futballistaként igazolt külföldre. Középső védőként a sportág egyik honi legendája. Jelenleg lovakat tart. A 76-szoros válogatott Bálint László február elsején lett 75 esztendős.</b>           
         Az FTC híres volt remek középső védőiről: Kispéter Mihály, Mátrai Sándor, Páncsics Miklós, majd ön következett. 
         Is-is. De szinte csak „kihalásos” alapon lehetett bekerülni, ki kellett várnom a soromat. A felnőttcsapat keretéhez 1967 végén csatlakozhattam, Mátrai akkor távozott az Egyetértésbe, de Páncsics Miklós előttem volt. Ám Lakat Károly magával vitt a csapat 1968. februári közép-amerikai túrájára.</p>
@@ -93,7 +93,7 @@
         <hr>
         <img src="kepek/jatekosok/Bene_Ferenc.jpg" alt="" class="img-fluid w-50 mb-4">
         <h4>Bene Ferenc</h4>
-        <span class="d-block mb-3 text-uppercase">Editor Staff</span>
+        <span class="d-block mb-3 text-uppercase">Született: 1944. december 17., Balatonújlak Meghalt: 2006. február 27., Budapest</span>
         <p class="card-text"><b>Az NB II-ben szereplő Vasas decemberben kinevezett új vezetőedzője, ifjabb Bene Ferenc az M4 Sport vadonatúj, Átigazolás című műsorában elmondta, az egyesület célja egy nyugat-európai klubmodell kidolgozása, valamint egy olyan csapat felépítése, amely legkésőbb jövőre fel tud jutni az NB I-be.</b><br>        
         <i>- Elsősorban szeretném megköszönni Krisztofernek, az ő képviselőinek, és a Torinónak a szakszerűséget és a közreműködést ehhez az egyezményhez. További sikereket és sérülésmentes karriert kívánunk Krisztofernek! Ugyanakkor sajnálom, hogy a hivatalos bejelentés előtt elterjedt a hír Krisztofer átigazolásáról. A jogi eljárásokat követnünk kell és szigorúan be kell tartanunk, mielőtt bejelentést teszünk. Arra kérem a szurkolóinkat, hogy kövessék a DVSC hivatalos csatornáit, és az ott megjelent információt tekintsék kézzel foghatónak</i> - fogalmazott.<br>
         Horváth klubváltása az elmúlt napokban már sejthető volt, hiszen a DVSC - már csak volt - támadója nem utazott el csapata törökországi edzőtáborába, helyette egy másik NB I-es gárdával, az OTP Bank Liga második helyén telelő Kecskeméttel indult útnak Belekbe, sőt, <a href="https://www.csakfoci.hu/magyar-foci/nb-i-a-serie-a-csapat-magyar-tamadoja-a-dobogos-kezdojeben-tunt-fel-az-edzomeccsen">már egy hete pályára lépett lila-fehérben.</a></p>        
@@ -109,7 +109,7 @@
         <hr>
         <img src="kepek/jatekosok/Botka_Endre.jpg" alt="" class="img-fluid w-50 mb-5">
         <h4>Botka Endre</h4>
-        <span></span>
+        <span class="d-block mb-3 text-uppercase">Született: 1994. augusztus 25. (életkor 29 év), Budapest</span>
           <p>A Budapest Honvéd csapatában debütált az NB I-ben. 2017 januárjában igazolt át az FTC csapatába, így – bár a szezon első felében a Honvédban lejátszott mérkőzéseinek köszönhetően – részese volt a kispestiek bajnoki győzelmének, azt azonban már nem ünnepelhette együtt egykori társaival.</p>
           <p class="card-text">
           A jövőben is az FTC-t erősíti a 20-szoros magyar válogatott hátvéd, Botka Endre – az erről szóló megállapodást pénteken írták alá a felek. A Fradi hivatalos bejelentése nem tér ki arra, hogy meddig szól a védő új szerződése.</p><br>
@@ -127,7 +127,7 @@
         <hr>
         <img src="kepek/jatekosok/Fenyvesi_Mate.jpg" alt="" class="img-fluid w-50 mb-5">
         <h4>Fenyvesi Máté</h4>
-        <span></span>
+        <span class="d-block mb-3 text-uppercase">Született: 1933. szeptember 20., Magyarország Meghalt: 2022. február 17.</span>
           <p class="card-text"><i>88 éves korában meghalt Fenyvesi Máté, az FTC egykori kiváló, válogatott labdarúgója, sportvezetője, a klub örökös bajnoka.</i>
           <b>Fenyvesi Máté Jánoshalmán született 1933. szeptember 19-én, s a Kecskeméti Kinizsin keresztül vezetett az útja a Fradiba, igaz a Honvéd is csábította. 1953-ban debütált az FTC-ben, amelyet akkor még Budapesti Kinizsinek neveztek.</b>
           1954 szeptemberében debütált az Aranycsapatban Románia ellen. Nem volt könnyű helyzetben, ez volt a válogatott első mérkőzése az elvesztett világbajnoki döntő.
@@ -144,7 +144,7 @@
         <hr>
         <img src="kepek/jatekosok/Fiola_Attila.jpg" alt="" class="img-fluid w-50 mb-5">
         <h4>Fióla Attila</h4>
-        <span></span>
+        <span class="d-block mb-3 text-uppercase">Született: 1990. február 17. (életkor 33 év), Szekszárd</span>
           <p class="card-text"><b>Mi vár Fehérváron az újpesti igazolásokra? 23 érkezőből összesen 5 vált be, avagy Fiola esete nagyon ritka.</b>
           <em>A MOL Fehérvár az átigazolási időszak utolsó napján Csongvai Áron és Katona Mátyás személyében két játékost is szerződtetett az Újpesttől. A transzfer komoly érzelmeket váltott ki mindkét klub szurkolóinál, sokakban felmerült a kérdés, hogy a két tehetséges fiatal valóban felfelé lépett-e. A labdarúgók mindenesetre abszolút így tekintenek a transzferre, hiszen a Vidinél az elmúlt időszak gyengébb teljesítménye ellenére is mások a lehetőségek, mint a lila-fehéreknél voltak.</em>
           Mivel Fehérváron az elmúlt években megszokottá vált, hogy hazai kluboktól szerződtetnek játékosokat, így honlapunk a két friss átigazolás apropóján megnézte, milyen arányban válnak be ezek az üzletek a Vidinél. Addig az évig (2016-ig) mentünk vissza, amikor a legjobb üzletet kötötték a fehérváriak Fiola Attila megszerzésével.<br>
@@ -161,7 +161,7 @@
         <hr>
         <img src="kepek/jatekosok/Garaba_Imre.jpg" alt="" class="img-fluid w-50 mb-5">
         <h4>Garaba Imre</h4>
-        <span></span>
+        <span class="d-block mb-3 text-uppercase">Született: 1958. július 29. (életkor 65 év), Vác</span>
         <p class="card-text"><b>Budapesti Honvéd SE, 1979-1987</b>
         A 21 éves védő tagja volt már a <a href="https://www.magyarfutball.hu/hu/bajnoki-vegeredmeny/44">kispestiek 1980-as bajnokcsapatának</a>, 1987-ig szinte csak sérülése esetén hiányzott a csapatból. Alapember volt a piros-fehérek Andrusch – Sallai, Nagy A., Garaba, Varga – Gyimesi, Sikesdi, Détári – Bodonyi, Dajka, Esterházy (Kovács K.) összeállítású, Komora Imre irányításával sorozatban három bajnoki címet is nyert együttesének. A Honvéddal a négy bajnoki cím mellett 1985-ben MNK-győztes is lett, 1982-ben, a spanyolországi világbajnokság után az MLSZ az Év játékosának választotta.
         A válogatottban Lakat Károly kapitánysága idején, 1980. április 30-án, Kassán, a csehszlovákok ellen mutatkozott be, az első gólját egy bő évvel később, a Puskás Ferenc hazatérése utáni gálameccset követően játszott, angolok elleni világbajnoki selejtezőn lőtte.</p>
@@ -177,7 +177,7 @@
         <hr>
         <img src="kepek/jatekosok/Horvath_Krisztofer.jpg" alt="" class="img-fluid w-50 mb-5">
         <h4>Horváth Krisztofer</h4>
-        <span></span>
+        <span class="d-block mb-3 text-uppercase">Született: 2002. január 8. (életkor 21 év), Hévíz</span>
           <p class="card-text">Kedden hivatalossá vált, hogy közös megegyezéssel megszűnt <b>Horváth Krisztofer</b> debreceni kölcsönszerződése. A 21 éves futballista az olasz Torino kölcsönjátékosaként tavaly augusztusban érkezett a DVSC-hez, melynek színeiben 7 első osztályú bajnokin lépett pályára, a kupában pedig 2 mérkőzésen 1 gólt ért el - írja a dvsc.hu.
           <b>Hayk Hovakimyan</b>, a DVSC klubigazgatója így nyilatkozott az U21-es válogatott játékos búcsúja kapcsán:</p>
         <div class="social">
@@ -192,7 +192,7 @@
         <hr>
         <img src="kepek/jatekosok/Kalmar_Zsolt.jpg" alt="" class="img-fluid w-50 mb-5">
         <h4>Kalmár Zsolt</h4>
-        <span></span>
+        <span class="d-block mb-3 text-uppercase">Született: 1995. június 9. (életkor 28 év), Győr</span>
         <p class="card-text">Bejelentették Kalmár Zsolt érkezését
         Kalmár Zsolt a Fehérvár FC labdarúgócsapatában folytatja pályafutását – jelentette be a klub hivatalos honlapján.                
         32-szeres válogatott középpályás, aki meghatározó játékosa volt a Dunaszerdahelyi AC együttesének, kettő plusz egy évre szóló szerződést írt alá a székesfehérvári klub honlapjának pénteki közlése szerint. Minden további részlet, és a játékos nyilatkozata alább!
@@ -211,7 +211,7 @@
         <hr>
         <img src="kepek/jatekosok/Kata_Mihaly.jpg" alt="" class="img-fluid w-50 mb-5">
         <h4>Kata Mihály</h4>
-        <span></span>
+        <span class="d-block mb-3 text-uppercase">Született: 2002. április 13. (életkor 21 év), Budapest</span>
         <p class="card-text">A jelenleg az NB I második helyén álló MTK klubigazgatója, Dr. Selei András a klubhonlapon értékelte a csapat eddigi szereplését, az átigazolásokat, a csatárkérdést, de a sportvezető beszélt arról is, mi a legfontosabb cél, mit értenek értékteremtés alatt, és természetesen szóba került Kata Mihály sikeres debütálása a válogatottban, a játékos további sorsa, valamint a "fiatalpercek" is témát szolgáltattak.</p><br>
         <p><b>A jelenleg az NB I második helyén álló MTK klubigazgatója, Dr. Selei András a klubhonlapon értékelte a csapat eddigi szereplését, az átigazolásokat, a csatárkérdést, de a sportvezető beszélt arról is, mi a legfontosabb cél, mit értenek értékteremtés alatt, és természetesen szóba került Kata Mihály sikeres debütálása a válogatottban, a játékos további sorsa, valamint a "fiatalpercek" is témát szolgáltattak.                
         A szezon első három fordulójában nem tudtunk nyerni, most pedig zsinórban négy tétmeccsen győztünk. A külvilág érthető módon ezt előbb egyfajta azonnali hullámvölgyként, majd pedig szárnyalásként élte meg, de hogyan kezeljük ezt mi házon belül?</b></p>
@@ -228,7 +228,7 @@
         <hr>
         <img src="kepek/jatekosok/Kerkesz_Milos.jpg" alt="" class="img-fluid w-50 mb-5">
         <h4>Kerkesz Milos</h4>
-        <span></span>
+        <span class="d-block mb-3 text-uppercase">Született: 2003. november 7. (életkor 20 év), Verbász, Szerbia</span>
         <p class="card-text"><b>Sajtóhírek szerint a Premier League-ben szereplő Bournemouth is megegyezett a magyar válogatott Kerkez Milossal a személyes feltételekről.</b></p><br>
         <p>Úgy tűnik, nem tett le Kerkez Milos megszerzéséről az angol együttes. Kerkez átigazolási ügye a nyári egyik slágertémája, hiszen korábban a Benfica érdeklődéséről lehetett hallani, majd úgy tűnt, a Lazio lesz a befutó. Az olaszoknak azonban keresztbe tehet a Bournemouth, amely ugyancsak jól áll a holland AZ Alkamaar 19 éves magyarjáért folytatott versenyben. Az átigazolási hírekben rendre jól értesült Fabrizio Romano úgy értesült, hogy a PL-csapat megegyezett Kerkezzel a személyes feltételekről, így gyakorlatilag most már a holland klubokon múlik, hogy a Bournemouthnak vagy a Lazionak adja el a magyar válogatott futballistát.</p><br>              
         <p><i>Kerkez szerződése 2026 nyaráig szól az AZ Alkmaarral, a játékos értékét a transfermarkt.de piaci portál 15 millió euróra becsüli.</i></p>
@@ -244,7 +244,7 @@
         <hr>
         <img src="kepek/jatekosok/Lang_Adam.jpg" alt="" class="img-fluid w-50 mb-5">
         <h4>Lang Ádám</h4>
-        <span></span>
+        <span class="d-block mb-3 text-uppercase">Született: 1993. január 17. (életkor 30 év), Veszprém</span>
         <p class="card-text">Lang Ádám, az Omonia Nicosia labdarúgócsapatának hátvédje a következő két évben maradna jelenlegi klubjánál, a válogatottban pedig szeretne legalább olyan teljesítményt nyújtani, mint eddig.
         <p><i>„A saját teljesítményem is hullámzó volt, igaz, magammal szinte sosem vagyok elégedett”</i> – fogalmazott az 57-szeres válogatott védő.
         A 30 éves játékos a Kossuth Rádiónak elmondta, a Ciprusi Kupa megnyerése némi gyógyírt jelentett számukra a hektikus szezon végén, amiben ugyan az Európa-liga csoportkörében helyt álltak, a bajnokságban megszerzett hatodik hely viszont csalódást jelentett.</p><br>
@@ -262,7 +262,7 @@
         <hr>
         <img src="kepek/jatekosok/Matrai_Sandor.jpg" alt="" class="img-fluid w-50 mb-5">
         <h4>Mátrai Sándor</h4>
-        <span></span>
+        <span class="d-block mb-3 text-uppercase"></span>
         <p><em>A labdarúgó NB I-ben szereplő Ferencváros hivatalos honlapján tudatta, hogy nem vezettek eredményre a Benficával folytatott tárgyalások Csoboth Kevin átigazolása kapcsán, így a zöld-fehérek a megoldás érdekében a FIFA vitarendező szervéhez fordulnak. 
         Emellett az FTC „fiktív átigazolás gyanúja miatt” a következő napokban büntetőfeljelentést tesz csalás, valamint okirat-hamisítás ügyében.</em></p>
         <div class="social">
@@ -277,7 +277,7 @@
         <hr>
         <img src="kepek/jatekosok/Nagy_Adam.jpg" alt="" class="img-fluid w-50 mb-5">
         <h4>Nagy Ádám</h4>
-        <span></span>
+        <span class="d-block mb-3 text-uppercase"></span>
         <p class="card-text"><i>A magyar válogatott parádés teljesítményt nyújtott az utóbbi meccsein, ennek köszönhetően kijutott az Eb-re, valamint a Nemzetek Ligájában feljutott a legmagasabb osztályba. Együttesünkben Nagy Ádám ezúttal is letette a névjegyét. A 25 esztendős futballista 2016 és 2019 között a Bologna csapatát erősítette, majd ezt követően igazolt a Bristol Cityhez. Nagy a tuttomercatoweb.com-nak elmondta, szívesen visszatérne Olaszországba.
         "Olaszországot a második otthonomnak tartom, így szívesen játszanék ismét ott. Amennyiben a klubomban és a válogatottban jó teljesítményt nyújtok, lesz is erre lehetőségem" – mutatott rá Nagy.</i></p>
         <div class="social">
@@ -292,7 +292,7 @@
         <hr>
         <img src="kepek/jatekosok/Sandor_Karoly.jpg" alt="" class="img-fluid w-50 mb-5">
         <h4>Sándor Károly</h4>
-        <span></span>
+        <span class="d-block mb-3 text-uppercase"></span>
         <p class="card-text">Gyors felfutásairól és éles szögből elért góljairól emlékezetes. Szinte mindenki csak becenevén emlegette: Csikar.</p>
         <p>Becenevét saját bevallása szerint onnan kapta, hogy nem volt olyan labda, amit ne próbált volna megszerezni, kicsikarni. Mások szerint viszont csapattársai labdakérései során kiabált Karcsi-Karcsi alakult Csikarrá.</p><br>
         <p>Saját nevelésű középpályásunk 2019 januárjában klubunktól szerződött külföldre, a Genoa csapatához, majd 2022 januárjában, dunaszerdahelyi kitérő a Bundesligába igazolt. Egyike azoknak, akik a Sándor Károly Labdarúgó Akadémiáról kikerülve lettek felnőtt válogatottak, a magyar labdarúgó-válogatott tagjaként mindhárom mérkőzésen pályára lépett a nyári Európa-bajnokságon, Németország ellen pedig emlékezetes gólt fejelt. Az ott nyújtott kiemelkedő teljesítményének is köszönhetően több klub érdeklődését felkeltette, és most a Bundesligában szereplő 1. FC Union Berlin együtteséhez szerződött.</p><br>  
@@ -310,7 +310,7 @@
         <hr>
         <img src="kepek/jatekosok/Sipos_Ferenc.jpg" alt="" class="img-fluid w-50 mb-5">
         <h4>Sipos Ferenc</h4>
-        <span></span>
+        <span class="d-block mb-3 text-uppercase"></span>
         <p class="card-text">Sipos tartja a magyar rekordot: 1957. szeptember 15. és 1963. május 19. között egyetlen hivatalos válogatott találkozót sem hagyott ki. Így sorozatban 57 mérkőzésen lépett pályára. Utolsó meccse a válogatottban az 1966-os Magyarország-Ausztria (3–1) mérkőzés volt.</p><br>
         <p>A nemzeti csapatban 1957 és 1966 között 77 mérkőzésen játszott. Egyetlen gólját 1964-ben a Franciaország elleni Európa-bajnoki selejtezőn szerezte. Sipos három világbajnokságon (1958, 1962, 1966) szerepelt a válogatottal. Az 1958-as tornán a Wales ellen játszott „csoportdöntőn” a játékvezető kiállította a 85. percben, 1962-ben és 1966-ban a vb-negyeddöntőig jutott a válogatottal. 1964-ben Európa-bajnoki bronzérmes volt a nemzeti együttes tagjaként.</p>
         <div class="social">
@@ -325,7 +325,7 @@
         <hr>
         <img src="kepek/jatekosok/Szalai_Adam.jpg" alt="" class="img-fluid w-50 mb-5">
         <h4>Szalai Ádám</h4>
-        <span></span>
+        <span class="d-block mb-3 text-uppercase"></span>
         <p class="card-text">A magyar válogatott Szalai Attila a Hoffenheim labdarúgócsapatában folytatja pályafutását. A 25 éves védő átigazolását a német klub a közösségi oldalán jelentette be, és a videóban szerepelt Szalai Ádám is, aki 2014 és 2019 között volt a Hoffenheim játékosa. A gödi nevelésű középhátvéd az Austria Wienben lett profi játékos, az osztrák klub után Mezőkövesden, majd a ciprusi Apollon Limasszolban játszott, mielőtt 2021 januárjában Törökországba igazolt, és a Fenerbahcében 117 mérkőzésen szerepelt. </p>
         <div class="social">
           <a href="#"><i class="bi bi-twitter"></i></a>
@@ -339,7 +339,7 @@
         <hr>
         <img src="kepek/jatekosok/Vinczak_Vilmos.jpg" alt="" class="img-fluid w-50 mb-5">
         <h4>Vinczák Vilmos</h4>
-        <span></span>
+        <span class="d-block mb-3 text-uppercase"></span>
         <p class="card-text"><b>Felcsút – Mozgalmas napon van túl a Puskás Akadémia.</b></p><br>
           <p><i>A Nemzeti Sport Online értesülései szerint a 79-szeres válogatott Vanczák Vilmos is távozik a labdarúgó NB I rajtjára készülő Puskás Akadémiától. Úgy tudni, Vanczák Vilmos már el sem utazik a Puskás Akadémia jövő heti ausztriai edzőtáborozására.</i></p><br>
           <p>A Svájcból hazatérő Vanczák tavaly két esztendőre írt alá a felcsútiaknak, méghozzá abban a reményben, hogy a klub a visszavonulása után is számít rá.</p><br>
