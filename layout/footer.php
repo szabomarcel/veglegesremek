@@ -11,22 +11,22 @@
             <h3 class="footer-heading">Navigation</h3>
             <ul class="footer-links list-unstyled">
               <li><a href="index.php?menuItem=fooldal"><i class="bi bi-chevron-right"></i> Home</a></li>
-              <li><a href="index.php?menuItem=felhasznalo"><i class="bi bi-chevron-right"></i> Blog</a></li>
-              <li><a href="index.php?menuItem=atigazolas"><i class="bi bi-chevron-right"></i> Categories</a></li>
-              <li><a href="#"><i class="bi bi-chevron-right"></i> Single Post</a></li>
-              <li><a href="#"><i class="bi bi-chevron-right"></i> About us</a></li>
-              <li><a href="index.php?menuItem=felhasznalo"><i class="bi bi-chevron-right"></i> Contact</a></li>
+              <li><a href="index.php?menuItem=atigazolas"><i class="bi bi-chevron-right"></i> Blog</a></li>
+              <li><a href="index.php?menuItem=#foci"><i class="bi bi-chevron-right"></i> Focizás</a></li>
+              <li><a href="index.php?menuItem=#forma"><i class="bi bi-chevron-right"></i> Forma-1</a></li>
+              <li><a href="index.php?menuItem=#kosarropi"><i class="bi bi-chevron-right"></i> Kosár és Röplabda</a></li>
+              <li><a href="index.php?menuItem=#id"><i class="bi bi-chevron-right"></i> Contact</a></li>
             </ul>
           </div>
           <div class="col-6 col-lg-2">
             <h3 class="footer-heading">Categories</h3>
             <ul class="footer-links list-unstyled">
-              <li><a href="#"><i class="bi bi-chevron-right"></i> Business</a></li>
-              <li><a href="#"><i class="bi bi-chevron-right"></i> Culture</a></li>
+              <li><a href="index.php?menuItem=felhasznalo"><i class="bi bi-chevron-right"></i> Módosítások</a></li>
+              <li><a href="index.php?menuItem=video"><i class="bi bi-chevron-right"></i> Videók mérközésekről</a></li>
               <li><a href="index.php?menuItem=atigazolas"><i class="bi bi-chevron-right"></i> Sport</a></li>
               <li><a href="https://www.tippmixpro.hu/"><i class="bi bi-chevron-right"></i> Tipmixek</a></li>
-              <li><a href="#"><i class="bi bi-chevron-right"></i> Politics</a></li>
-              <li><a href="#"><i class="bi bi-chevron-right"></i> Celebrity</a></li>
+              <li><a href="index.php?menuItem=kwiz"><i class="bi bi-chevron-right"></i> Kviz</a></li>
+              <li><a href="index.php?menuItem=atigazolas"><i class="bi bi-chevron-right"></i> Képek</a></li>
               <li><a href="#"><i class="bi bi-chevron-right"></i> Startups</a></li>
               <li><a href="#"><i class="bi bi-chevron-right"></i> Travel</a></li>
             </ul>

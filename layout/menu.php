@@ -15,6 +15,9 @@
                 break;
             case "felhasznalo":
                 require_once("./login/felhasznalo.php");
+                break;  
+            case "videokepek":
+                require_once("./login/videokepek.php");
                 break;      
             case "login":
                 require_once("./login/login.php");

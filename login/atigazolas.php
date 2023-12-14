@@ -262,7 +262,7 @@
         <hr>
         <img src="kepek/jatekosok/Matrai_Sandor.jpg" alt="" class="img-fluid w-50 mb-5">
         <h4>Mátrai Sándor</h4>
-        <span class="d-block mb-3 text-uppercase"></span>
+        <span class="d-block mb-3 text-uppercase">Született: 1932. november 20., Nagyszénás Meghalt: 2002. május 29., Budapest</span>
         <p><em>A labdarúgó NB I-ben szereplő Ferencváros hivatalos honlapján tudatta, hogy nem vezettek eredményre a Benficával folytatott tárgyalások Csoboth Kevin átigazolása kapcsán, így a zöld-fehérek a megoldás érdekében a FIFA vitarendező szervéhez fordulnak. 
         Emellett az FTC „fiktív átigazolás gyanúja miatt” a következő napokban büntetőfeljelentést tesz csalás, valamint okirat-hamisítás ügyében.</em></p>
         <div class="social">
@@ -277,7 +277,7 @@
         <hr>
         <img src="kepek/jatekosok/Nagy_Adam.jpg" alt="" class="img-fluid w-50 mb-5">
         <h4>Nagy Ádám</h4>
-        <span class="d-block mb-3 text-uppercase"></span>
+        <span class="d-block mb-3 text-uppercase">Született: 1995. június 17. (életkor 28 év), Budapest</span>
         <p class="card-text"><i>A magyar válogatott parádés teljesítményt nyújtott az utóbbi meccsein, ennek köszönhetően kijutott az Eb-re, valamint a Nemzetek Ligájában feljutott a legmagasabb osztályba. Együttesünkben Nagy Ádám ezúttal is letette a névjegyét. A 25 esztendős futballista 2016 és 2019 között a Bologna csapatát erősítette, majd ezt követően igazolt a Bristol Cityhez. Nagy a tuttomercatoweb.com-nak elmondta, szívesen visszatérne Olaszországba.
         "Olaszországot a második otthonomnak tartom, így szívesen játszanék ismét ott. Amennyiben a klubomban és a válogatottban jó teljesítményt nyújtok, lesz is erre lehetőségem" – mutatott rá Nagy.</i></p>
         <div class="social">
@@ -292,7 +292,7 @@
         <hr>
         <img src="kepek/jatekosok/Sandor_Karoly.jpg" alt="" class="img-fluid w-50 mb-5">
         <h4>Sándor Károly</h4>
-        <span class="d-block mb-3 text-uppercase"></span>
+        <span class="d-block mb-3 text-uppercase">Született: 1928. november 26., Szeged Meghalt: 2014. szeptember 10., Budapest</span>
         <p class="card-text">Gyors felfutásairól és éles szögből elért góljairól emlékezetes. Szinte mindenki csak becenevén emlegette: Csikar.</p>
         <p>Becenevét saját bevallása szerint onnan kapta, hogy nem volt olyan labda, amit ne próbált volna megszerezni, kicsikarni. Mások szerint viszont csapattársai labdakérései során kiabált Karcsi-Karcsi alakult Csikarrá.</p><br>
         <p>Saját nevelésű középpályásunk 2019 januárjában klubunktól szerződött külföldre, a Genoa csapatához, majd 2022 januárjában, dunaszerdahelyi kitérő a Bundesligába igazolt. Egyike azoknak, akik a Sándor Károly Labdarúgó Akadémiáról kikerülve lettek felnőtt válogatottak, a magyar labdarúgó-válogatott tagjaként mindhárom mérkőzésen pályára lépett a nyári Európa-bajnokságon, Németország ellen pedig emlékezetes gólt fejelt. Az ott nyújtott kiemelkedő teljesítményének is köszönhetően több klub érdeklődését felkeltette, és most a Bundesligában szereplő 1. FC Union Berlin együtteséhez szerződött.</p><br>  
@@ -310,7 +310,7 @@
         <hr>
         <img src="kepek/jatekosok/Sipos_Ferenc.jpg" alt="" class="img-fluid w-50 mb-5">
         <h4>Sipos Ferenc</h4>
-        <span class="d-block mb-3 text-uppercase"></span>
+        <span class="d-block mb-3 text-uppercase">Született: 1932. december 13., Budapest Meghalt: 1997. március 17., Budapest</span>
         <p class="card-text">Sipos tartja a magyar rekordot: 1957. szeptember 15. és 1963. május 19. között egyetlen hivatalos válogatott találkozót sem hagyott ki. Így sorozatban 57 mérkőzésen lépett pályára. Utolsó meccse a válogatottban az 1966-os Magyarország-Ausztria (3–1) mérkőzés volt.</p><br>
         <p>A nemzeti csapatban 1957 és 1966 között 77 mérkőzésen játszott. Egyetlen gólját 1964-ben a Franciaország elleni Európa-bajnoki selejtezőn szerezte. Sipos három világbajnokságon (1958, 1962, 1966) szerepelt a válogatottal. Az 1958-as tornán a Wales ellen játszott „csoportdöntőn” a játékvezető kiállította a 85. percben, 1962-ben és 1966-ban a vb-negyeddöntőig jutott a válogatottal. 1964-ben Európa-bajnoki bronzérmes volt a nemzeti együttes tagjaként.</p>
         <div class="social">
@@ -325,7 +325,7 @@
         <hr>
         <img src="kepek/jatekosok/Szalai_Adam.jpg" alt="" class="img-fluid w-50 mb-5">
         <h4>Szalai Ádám</h4>
-        <span class="d-block mb-3 text-uppercase"></span>
+        <span class="d-block mb-3 text-uppercase">Született: 1987. december 9. (életkor 36 év), Budapest</span>
         <p class="card-text">A magyar válogatott Szalai Attila a Hoffenheim labdarúgócsapatában folytatja pályafutását. A 25 éves védő átigazolását a német klub a közösségi oldalán jelentette be, és a videóban szerepelt Szalai Ádám is, aki 2014 és 2019 között volt a Hoffenheim játékosa. A gödi nevelésű középhátvéd az Austria Wienben lett profi játékos, az osztrák klub után Mezőkövesden, majd a ciprusi Apollon Limasszolban játszott, mielőtt 2021 januárjában Törökországba igazolt, és a Fenerbahcében 117 mérkőzésen szerepelt. </p>
         <div class="social">
           <a href="#"><i class="bi bi-twitter"></i></a>
@@ -339,7 +339,7 @@
         <hr>
         <img src="kepek/jatekosok/Vinczak_Vilmos.jpg" alt="" class="img-fluid w-50 mb-5">
         <h4>Vinczák Vilmos</h4>
-        <span class="d-block mb-3 text-uppercase"></span>
+        <span class="d-block mb-3 text-uppercase">Született: 1983. június 20. (életkor 40 év), Miskolc</span>
         <p class="card-text"><b>Felcsút – Mozgalmas napon van túl a Puskás Akadémia.</b></p><br>
           <p><i>A Nemzeti Sport Online értesülései szerint a 79-szeres válogatott Vanczák Vilmos is távozik a labdarúgó NB I rajtjára készülő Puskás Akadémiától. Úgy tudni, Vanczák Vilmos már el sem utazik a Puskás Akadémia jövő heti ausztriai edzőtáborozására.</i></p><br>
           <p>A Svájcból hazatérő Vanczák tavaly két esztendőre írt alá a felcsútiaknak, méghozzá abban a reményben, hogy a klub a visszavonulása után is számít rá.</p><br>
