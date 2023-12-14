@@ -296,8 +296,8 @@
             </div>
             <div class="post-entry-1">
               <a href="#"><img src="kepek/vollayball/ropi.jpg" alt="" class="img-fluid"></a>
-              <div class="post-meta"><span class="date">Röplabda mérközésről</span> <span class="mx-1">&bullet;</span> <span>Jul 5th '22</span></div>
-              <h2 class="mb-2"><a href="#">5 Great Startup Tips for Female Founders</a></h2>
+              <div class="post-meta"><span class="date">Röplabda mérközésről</span> <span class="mx-1">&bullet;</span> <span>23.Febr.24. </span></div>
+              <h2 class="mb-2"><a href="#">A Vasas Óbuda nyerte az alapszakaszt a női röplabda Extraligában</a></h2>
               <span class="author mb-3 d-block">Jenny Wilson</span>
             </div>
           </div>
@@ -307,7 +307,7 @@
               <div class="post-meta"><span class="date">Még több információ</span> <span class="mx-1">&bullet;</span> <span>2023.Febr.03.</span></div>
               <h2 class="mb-2"><a href="#">Második mérkőzését is megnyerte a Kaposvár a férfi röplabda Extraligában</a></h2>
               <span class="author mb-3 d-block">férfi röplabda Extraliga középszakaszában</span>
-              <p class="mb-4 d-block">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Vero temporibus repudiandae, inventore pariatur numquam cumque possimus</p>
+              <p class="mb-4 d-block">A Kaposvár 3-1-re legyőzte a Kecskemét együttesét pénteken a férfi röplabda Extraliga középszakaszában, az alsóház 2. fordulójában.</p>
             </div>
           </div>
         </div>
