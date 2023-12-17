@@ -95,7 +95,6 @@
         <h4>Bene Ferenc</h4>
         <span class="d-block mb-3 text-uppercase">Született: 1944. december 17., Balatonújlak Meghalt: 2006. február 27., Budapest</span>
         <p class="card-text"><b>Az NB II-ben szereplő Vasas decemberben kinevezett új vezetőedzője, ifjabb Bene Ferenc az M4 Sport vadonatúj, Átigazolás című műsorában elmondta, az egyesület célja egy nyugat-európai klubmodell kidolgozása, valamint egy olyan csapat felépítése, amely legkésőbb jövőre fel tud jutni az NB I-be.</b><br>        
-        <i>- Elsősorban szeretném megköszönni Krisztofernek, az ő képviselőinek, és a Torinónak a szakszerűséget és a közreműködést ehhez az egyezményhez. További sikereket és sérülésmentes karriert kívánunk Krisztofernek! Ugyanakkor sajnálom, hogy a hivatalos bejelentés előtt elterjedt a hír Krisztofer átigazolásáról. A jogi eljárásokat követnünk kell és szigorúan be kell tartanunk, mielőtt bejelentést teszünk. Arra kérem a szurkolóinkat, hogy kövessék a DVSC hivatalos csatornáit, és az ott megjelent információt tekintsék kézzel foghatónak</i> - fogalmazott.<br>
         Horváth klubváltása az elmúlt napokban már sejthető volt, hiszen a DVSC - már csak volt - támadója nem utazott el csapata törökországi edzőtáborába, helyette egy másik NB I-es gárdával, az OTP Bank Liga második helyén telelő Kecskeméttel indult útnak Belekbe, sőt, <a href="https://www.csakfoci.hu/magyar-foci/nb-i-a-serie-a-csapat-magyar-tamadoja-a-dobogos-kezdojeben-tunt-fel-az-edzomeccsen">már egy hete pályára lépett lila-fehérben.</a></p>        
         <div class="social">
           <a href="#"><i class="bi bi-twitter"></i></a>
@@ -110,11 +109,10 @@
         <img src="kepek/jatekosok/Botka_Endre.jpg" alt="" class="img-fluid w-50 mb-5">
         <h4>Botka Endre</h4>
         <span class="d-block mb-3 text-uppercase">Született: 1994. augusztus 25. (életkor 29 év), Budapest</span>
-          <p>A Budapest Honvéd csapatában debütált az NB I-ben. 2017 januárjában igazolt át az FTC csapatába, így – bár a szezon első felében a Honvédban lejátszott mérkőzéseinek köszönhetően – részese volt a kispestiek bajnoki győzelmének, azt azonban már nem ünnepelhette együtt egykori társaival.</p>
-          <p class="card-text">
-          A jövőben is az FTC-t erősíti a 20-szoros magyar válogatott hátvéd, Botka Endre – az erről szóló megállapodást pénteken írták alá a felek. A Fradi hivatalos bejelentése nem tér ki arra, hogy meddig szól a védő új szerződése.</p><br>
-          <p>A 28 éves futballista 2017 januárjában szerződött a Ferencvároshoz, amelynek színeiben 2017. február 11-én, egy Budapest Honvéd elleni kupameccsen mutatkozott be, azóta pedig négy bajnoki címet és két Magyar Kupa-győzelmet ünnepelhetett a kilencedik kerületiekkel, így összesen ötszörös NB I-es bajnoknak mondhatja magát.</p>
-          <p>Minden sorozatot és felkészülési időszakot figyelembe véve Botka eddig 230 mérkőzésen lépett pályára az FTC-ben - írja a <a href="https://www.fradi.hu/labdarugas/elso-csapat/hirek/tovabbra-is-a-fradiban-valogatott-vedonk-hivatalos" class="link">fradi.hu.</a></p>
+          <p class="card-text">A Budapest Honvéd csapatában debütált az NB I-ben. 2017 januárjában igazolt át az FTC csapatába, így – bár a szezon első felében a Honvédban lejátszott mérkőzéseinek köszönhetően – részese volt a kispestiek bajnoki győzelmének, azt azonban már nem ünnepelhette együtt egykori társaival.
+          A jövőben is az FTC-t erősíti a 20-szoros magyar válogatott hátvéd, Botka Endre – az erről szóló megállapodást pénteken írták alá a felek. A Fradi hivatalos bejelentése nem tér ki arra, hogy meddig szól a védő új szerződése.<br>
+          A 28 éves futballista 2017 januárjában szerződött a Ferencvároshoz, amelynek színeiben 2017. február 11-én, egy Budapest Honvéd elleni kupameccsen mutatkozott be, azóta pedig négy bajnoki címet és két Magyar Kupa-győzelmet ünnepelhetett a kilencedik kerületiekkel, így összesen ötszörös NB I-es bajnoknak mondhatja magát.
+          Minden sorozatot és felkészülési időszakot figyelembe véve Botka eddig 230 mérkőzésen lépett pályára az FTC-ben - írja a <a href="https://www.fradi.hu/labdarugas/elso-csapat/hirek/tovabbra-is-a-fradiban-valogatott-vedonk-hivatalos" class="link">fradi.hu.</a></p>
         <div class="social">
           <a href="#"><i class="bi bi-twitter"></i></a>
           <a href="#"><i class="bi bi-facebook"></i></a>
@@ -212,10 +210,9 @@
         <img src="kepek/jatekosok/Kata_Mihaly.jpg" alt="" class="img-fluid w-50 mb-5">
         <h4>Kata Mihály</h4>
         <span class="d-block mb-3 text-uppercase">Született: 2002. április 13. (életkor 21 év), Budapest</span>
-        <p class="card-text">A jelenleg az NB I második helyén álló MTK klubigazgatója, Dr. Selei András a klubhonlapon értékelte a csapat eddigi szereplését, az átigazolásokat, a csatárkérdést, de a sportvezető beszélt arról is, mi a legfontosabb cél, mit értenek értékteremtés alatt, és természetesen szóba került Kata Mihály sikeres debütálása a válogatottban, a játékos további sorsa, valamint a "fiatalpercek" is témát szolgáltattak.</p><br>
-        <p><b>A jelenleg az NB I második helyén álló MTK klubigazgatója, Dr. Selei András a klubhonlapon értékelte a csapat eddigi szereplését, az átigazolásokat, a csatárkérdést, de a sportvezető beszélt arról is, mi a legfontosabb cél, mit értenek értékteremtés alatt, és természetesen szóba került Kata Mihály sikeres debütálása a válogatottban, a játékos további sorsa, valamint a "fiatalpercek" is témát szolgáltattak.                
+        <p class="card-text">A jelenleg az NB I második helyén álló MTK klubigazgatója, Dr. Selei András a klubhonlapon értékelte a csapat eddigi szereplését, az átigazolásokat, a csatárkérdést, de a sportvezető beszélt arról is, mi a legfontosabb cél, mit értenek értékteremtés alatt, és természetesen szóba került Kata Mihály sikeres debütálása a válogatottban, a játékos további sorsa, valamint a "fiatalpercek" is témát szolgáltattak.<br>
+        <b>A jelenleg az NB I második helyén álló MTK klubigazgatója, Dr. Selei András a klubhonlapon értékelte a csapat eddigi szereplését, az átigazolásokat, a csatárkérdést, de a sportvezető beszélt arról is, mi a legfontosabb cél, mit értenek értékteremtés alatt, és természetesen szóba került Kata Mihály sikeres debütálása a válogatottban, a játékos további sorsa, valamint a "fiatalpercek" is témát szolgáltattak.                
         A szezon első három fordulójában nem tudtunk nyerni, most pedig zsinórban négy tétmeccsen győztünk. A külvilág érthető módon ezt előbb egyfajta azonnali hullámvölgyként, majd pedig szárnyalásként élte meg, de hogyan kezeljük ezt mi házon belül?</b></p>
-        <p><i>A szezon előtti szurkolói ankéton is elmondtam, hogy eredményes, fenntartható, működőképes klubként szeretnénk az MTK-t látni, ehhez kell stratégia, ehhez kell tartós gondolkodás, állandóság és persze, megfelelő szellemi és anyagi háttér - kezdte Dr. Selei az mtkbudapest.hu-n megjelent interjúban. - Fontos, hogy a kapkodó döntéseket kerüljük el, akkor is, ha lesz holtpont, mivel krízis sajnos mindig van. De ha éppen pozitív hullámban van a csapat, azt is szükséges a helyén kezelni. Hat bajnoki forduló elteltével ugyanezt mondom: sem az első három, sem az azt követő három fordulót nem értékeljük túl. Játszottunk nagyjából hat ugyanolyan mérkőzést, látható volt, hogy bárkivel felvesszük a versenyt, senki nem dominált le minket játékban. A feljutás utáni első évben ez lehet a reális elvárás a csapattól, és ahogy telnek a fordulók, oda szeretnénk elérni, hogy ne legyünk folyamatos eredménykényszerben.</i></p>
         <div class="social">
           <a href="#"><i class="bi bi-twitter"></i></a>
           <a href="#"><i class="bi bi-facebook"></i></a>
@@ -229,9 +226,9 @@
         <img src="kepek/jatekosok/Kerkesz_Milos.jpg" alt="" class="img-fluid w-50 mb-5">
         <h4>Kerkesz Milos</h4>
         <span class="d-block mb-3 text-uppercase">Született: 2003. november 7. (életkor 20 év), Verbász, Szerbia</span>
-        <p class="card-text"><b>Sajtóhírek szerint a Premier League-ben szereplő Bournemouth is megegyezett a magyar válogatott Kerkez Milossal a személyes feltételekről.</b></p><br>
-        <p>Úgy tűnik, nem tett le Kerkez Milos megszerzéséről az angol együttes. Kerkez átigazolási ügye a nyári egyik slágertémája, hiszen korábban a Benfica érdeklődéséről lehetett hallani, majd úgy tűnt, a Lazio lesz a befutó. Az olaszoknak azonban keresztbe tehet a Bournemouth, amely ugyancsak jól áll a holland AZ Alkamaar 19 éves magyarjáért folytatott versenyben. Az átigazolási hírekben rendre jól értesült Fabrizio Romano úgy értesült, hogy a PL-csapat megegyezett Kerkezzel a személyes feltételekről, így gyakorlatilag most már a holland klubokon múlik, hogy a Bournemouthnak vagy a Lazionak adja el a magyar válogatott futballistát.</p><br>              
-        <p><i>Kerkez szerződése 2026 nyaráig szól az AZ Alkmaarral, a játékos értékét a transfermarkt.de piaci portál 15 millió euróra becsüli.</i></p>
+        <p class="card-text"><b>Sajtóhírek szerint a Premier League-ben szereplő Bournemouth is megegyezett a magyar válogatott Kerkez Milossal a személyes feltételekről.</b><br>
+        Úgy tűnik, nem tett le Kerkez Milos megszerzéséről az angol együttes. Kerkez átigazolási ügye a nyári egyik slágertémája, hiszen korábban a Benfica érdeklődéséről lehetett hallani, majd úgy tűnt, a Lazio lesz a befutó. Az olaszoknak azonban keresztbe tehet a Bournemouth, amely ugyancsak jól áll a holland AZ Alkamaar 19 éves magyarjáért folytatott versenyben. Az átigazolási hírekben rendre jól értesült Fabrizio Romano úgy értesült, hogy a PL-csapat megegyezett Kerkezzel a személyes feltételekről, így gyakorlatilag most már a holland klubokon múlik, hogy a Bournemouthnak vagy a Lazionak adja el a magyar válogatott futballistát.<br>              
+        <i>Kerkez szerződése 2026 nyaráig szól az AZ Alkmaarral, a játékos értékét a transfermarkt.de piaci portál 15 millió euróra becsüli.</i></p>
         <div class="social">
           <a href="#"><i class="bi bi-twitter"></i></a>
           <a href="#"><i class="bi bi-facebook"></i></a>
@@ -246,10 +243,10 @@
         <h4>Lang Ádám</h4>
         <span class="d-block mb-3 text-uppercase">Született: 1993. január 17. (életkor 30 év), Veszprém</span>
         <p class="card-text">Lang Ádám, az Omonia Nicosia labdarúgócsapatának hátvédje a következő két évben maradna jelenlegi klubjánál, a válogatottban pedig szeretne legalább olyan teljesítményt nyújtani, mint eddig.
-        <p><i>„A saját teljesítményem is hullámzó volt, igaz, magammal szinte sosem vagyok elégedett”</i> – fogalmazott az 57-szeres válogatott védő.
-        A 30 éves játékos a Kossuth Rádiónak elmondta, a Ciprusi Kupa megnyerése némi gyógyírt jelentett számukra a hektikus szezon végén, amiben ugyan az Európa-liga csoportkörében helyt álltak, a bajnokságban megszerzett hatodik hely viszont csalódást jelentett.</p><br>
-        Lang hozzátette, tervei szerint kitölti 2025 nyaráig szóló szerződését az Omoniánál, ahol jól érzi magát, vannak elvárások, és adott, hogy akár minden évben valamelyik európai kupasorozat főtábláján szerepeljenek.</p><br>
-        <p><i>„Hosszabb távra több tervem is van, megfelelő ajánlat esetén nyilván kipróbálnám magam máshol is, de jól érzem magam Cipruson. Később ugyanakkor szívesen zárnám le futball-pályafutásomat akár odahaza is”</i> – jelentette ki a hátvéd.</p>
+        <i>„A saját teljesítményem is hullámzó volt, igaz, magammal szinte sosem vagyok elégedett”</i> – fogalmazott az 57-szeres válogatott védő.
+        A 30 éves játékos a Kossuth Rádiónak elmondta, a Ciprusi Kupa megnyerése némi gyógyírt jelentett számukra a hektikus szezon végén, amiben ugyan az Európa-liga csoportkörében helyt álltak, a bajnokságban megszerzett hatodik hely viszont csalódást jelentett.<br>
+        Lang hozzátette, tervei szerint kitölti 2025 nyaráig szóló szerződését az Omoniánál, ahol jól érzi magát, vannak elvárások, és adott, hogy akár minden évben valamelyik európai kupasorozat főtábláján szerepeljenek.<br>
+        <i>„Hosszabb távra több tervem is van, megfelelő ajánlat esetén nyilván kipróbálnám magam máshol is, de jól érzem magam Cipruson. Később ugyanakkor szívesen zárnám le futball-pályafutásomat akár odahaza is”</i> – jelentette ki a hátvéd.</p>
         <div class="social">
           <a href="#"><i class="bi bi-twitter"></i></a>
           <a href="#"><i class="bi bi-facebook"></i></a>
@@ -293,11 +290,9 @@
         <img src="kepek/jatekosok/Sandor_Karoly.jpg" alt="" class="img-fluid w-50 mb-5">
         <h4>Sándor Károly</h4>
         <span class="d-block mb-3 text-uppercase">Született: 1928. november 26., Szeged Meghalt: 2014. szeptember 10., Budapest</span>
-        <p class="card-text">Gyors felfutásairól és éles szögből elért góljairól emlékezetes. Szinte mindenki csak becenevén emlegette: Csikar.</p>
-        <p>Becenevét saját bevallása szerint onnan kapta, hogy nem volt olyan labda, amit ne próbált volna megszerezni, kicsikarni. Mások szerint viszont csapattársai labdakérései során kiabált Karcsi-Karcsi alakult Csikarrá.</p><br>
-        <p>Saját nevelésű középpályásunk 2019 januárjában klubunktól szerződött külföldre, a Genoa csapatához, majd 2022 januárjában, dunaszerdahelyi kitérő a Bundesligába igazolt. Egyike azoknak, akik a Sándor Károly Labdarúgó Akadémiáról kikerülve lettek felnőtt válogatottak, a magyar labdarúgó-válogatott tagjaként mindhárom mérkőzésen pályára lépett a nyári Európa-bajnokságon, Németország ellen pedig emlékezetes gólt fejelt. Az ott nyújtott kiemelkedő teljesítményének is köszönhetően több klub érdeklődését felkeltette, és most a Bundesligában szereplő 1. FC Union Berlin együtteséhez szerződött.</p><br>  
-        <p>Schäfer András ezzel Gulácsi Péter és Szoboszlai Dominik mellett már a harmadik olyan labdarúgó, aki megfordult a Sándor Károly Labdarúgó Akadémián és jelenleg a német labdarúgó-bajnokság élvonalában szerepel.</p>
-        <p>Az Aranycsapat idején Budai volt a vetélytársa a jobbszélső posztján. Sebes Gusztáv a Honvéd szélsőjét favorizálta, aki kiválóan összeszokott Kocsissal. Így lemaradt az 1952-es olimpiai aranyról, nem játszott az évszázad mérkőzésén, csak csere volt, és az 1954-es világbajnokságra sem nevezték, bár kiutazott a csapattal.</p><br>
+        <p class="card-text">Gyors felfutásairól és éles szögből elért góljairól emlékezetes. Szinte mindenki csak becenevén emlegette: Csikar.
+        Becenevét saját bevallása szerint onnan kapta, hogy nem volt olyan labda, amit ne próbált volna megszerezni, kicsikarni. Mások szerint viszont csapattársai labdakérései során kiabált Karcsi-Karcsi alakult Csikarrá.<br>
+        Saját nevelésű középpályásunk 2019 januárjában klubunktól szerződött külföldre, a Genoa csapatához, majd 2022 januárjában, dunaszerdahelyi kitérő a Bundesligába igazolt. Egyike azoknak, akik a Sándor Károly Labdarúgó Akadémiáról kikerülve lettek felnőtt válogatottak, a magyar labdarúgó-válogatott tagjaként mindhárom mérkőzésen pályára lépett a nyári Európa-bajnokságon, Németország ellen pedig emlékezetes gólt fejelt. Az ott nyújtott kiemelkedő teljesítményének is köszönhetően több klub érdeklődését felkeltette, és most a Bundesligában szereplő 1. FC Union Berlin együtteséhez szerződött.</p><br>
         <div class="social">
           <a href="#"><i class="bi bi-twitter"></i></a>
           <a href="#"><i class="bi bi-facebook"></i></a>
@@ -311,8 +306,8 @@
         <img src="kepek/jatekosok/Sipos_Ferenc.jpg" alt="" class="img-fluid w-50 mb-5">
         <h4>Sipos Ferenc</h4>
         <span class="d-block mb-3 text-uppercase">Született: 1932. december 13., Budapest Meghalt: 1997. március 17., Budapest</span>
-        <p class="card-text">Sipos tartja a magyar rekordot: 1957. szeptember 15. és 1963. május 19. között egyetlen hivatalos válogatott találkozót sem hagyott ki. Így sorozatban 57 mérkőzésen lépett pályára. Utolsó meccse a válogatottban az 1966-os Magyarország-Ausztria (3–1) mérkőzés volt.</p><br>
-        <p>A nemzeti csapatban 1957 és 1966 között 77 mérkőzésen játszott. Egyetlen gólját 1964-ben a Franciaország elleni Európa-bajnoki selejtezőn szerezte. Sipos három világbajnokságon (1958, 1962, 1966) szerepelt a válogatottal. Az 1958-as tornán a Wales ellen játszott „csoportdöntőn” a játékvezető kiállította a 85. percben, 1962-ben és 1966-ban a vb-negyeddöntőig jutott a válogatottal. 1964-ben Európa-bajnoki bronzérmes volt a nemzeti együttes tagjaként.</p>
+        <p class="card-text">Sipos tartja a magyar rekordot: 1957. szeptember 15. és 1963. május 19. között egyetlen hivatalos válogatott találkozót sem hagyott ki. Így sorozatban 57 mérkőzésen lépett pályára. Utolsó meccse a válogatottban az 1966-os Magyarország-Ausztria (3–1) mérkőzés volt.<br>
+        A nemzeti csapatban 1957 és 1966 között 77 mérkőzésen játszott. Egyetlen gólját 1964-ben a Franciaország elleni Európa-bajnoki selejtezőn szerezte. Sipos három világbajnokságon (1958, 1962, 1966) szerepelt a válogatottal. Az 1958-as tornán a Wales ellen játszott „csoportdöntőn” a játékvezető kiállította a 85. percben, 1962-ben és 1966-ban a vb-negyeddöntőig jutott a válogatottal. 1964-ben Európa-bajnoki bronzérmes volt a nemzeti együttes tagjaként.</p>
         <div class="social">
           <a href="#"><i class="bi bi-twitter"></i></a>
           <a href="#"><i class="bi bi-facebook"></i></a>
@@ -340,10 +335,10 @@
         <img src="kepek/jatekosok/Vinczak_Vilmos.jpg" alt="" class="img-fluid w-50 mb-5">
         <h4>Vinczák Vilmos</h4>
         <span class="d-block mb-3 text-uppercase">Született: 1983. június 20. (életkor 40 év), Miskolc</span>
-        <p class="card-text"><b>Felcsút – Mozgalmas napon van túl a Puskás Akadémia.</b></p><br>
-          <p><i>A Nemzeti Sport Online értesülései szerint a 79-szeres válogatott Vanczák Vilmos is távozik a labdarúgó NB I rajtjára készülő Puskás Akadémiától. Úgy tudni, Vanczák Vilmos már el sem utazik a Puskás Akadémia jövő heti ausztriai edzőtáborozására.</i></p><br>
-          <p>A Svájcból hazatérő Vanczák tavaly két esztendőre írt alá a felcsútiaknak, méghozzá abban a reményben, hogy a klub a visszavonulása után is számít rá.</p><br>
-          <p>Mint korábban beszámoltunk róla, alighanem két további válogatott játékos, Forró Gyula és Sándor György is távozik a PFLA-tól. A felcsútiak nem mindennapi, mai igazolásairól, kattintás után lehet tájékozódni.</p>
+        <p class="card-text"><b>Felcsút – Mozgalmas napon van túl a Puskás Akadémia.</b><br>
+        <i>A Nemzeti Sport Online értesülései szerint a 79-szeres válogatott Vanczák Vilmos is távozik a labdarúgó NB I rajtjára készülő Puskás Akadémiától. Úgy tudni, Vanczák Vilmos már el sem utazik a Puskás Akadémia jövő heti ausztriai edzőtáborozására.</i><br>
+        A Svájcból hazatérő Vanczák tavaly két esztendőre írt alá a felcsútiaknak, méghozzá abban a reményben, hogy a klub a visszavonulása után is számít rá.<br>
+        Mint korábban beszámoltunk róla, alighanem két további válogatott játékos, Forró Gyula és Sándor György is távozik a PFLA-tól. A felcsútiak nem mindennapi, mai igazolásairól, kattintás után lehet tájékozódni.</p>
         <div class="social">
           <a href="#"><i class="bi bi-twitter"></i></a>
           <a href="#"><i class="bi bi-facebook"></i></a>
@@ -571,23 +566,20 @@
         <h3>Sok szeretettel várjuk a vendégeinket.</h3>
         <img src="assets/img/about.jpg" class="img-fluid rounded-4 mb-4" alt="">
         <p>Célunk az, hogy a legjobb minőségben és egyedi választékban kínáljuk vevőink felé a focit és megszeressék. Cégünk 2023 óta folyamatosan működik, ez is garancia arra, hogy hosszú távon gondolkodunk. Ha kérdésük van örömmel állunk mindig rendelkezésedre!</p>
-        <p>Temporibus nihil enim deserunt sed ea. Provident sit expedita aut cupiditate nihil vitae quo officia vel. Blanditiis eligendi possimus et in cum. Quidem eos ut sint rem veniam qui. Ut ut repellendus nobis tempore doloribus debitis explicabo similique sit. Accusantium sed ut omnis beatae neque deleniti repellendus.</p>
+        <p>TEgy futballcsapat (...) nem 11 egyéni játékos, aki összevissza szaladgál a pályán, hogy a lehető legtöbb gólt szerezze, és ehhez, ha kell, elszedik a labdát a saját csapattársaiktól is. Ehelyett 11 játékos csapatáról van szó, akik összehangolják cselekvésüket annak érdekében, hogy gólt érjenek el. A rendes fociban a csatároknak és a hátvédeknek más-más szerepük van, s ehhez a feladathoz kell ragaszkodniuk, nem pedig, mint a grundon, csak a labda után rohangálnak. Az igazán sikeres csapatoknál mindegyik játékos annyira rá van hangolva, hogy a többiek mit játszanak a csapatban, hogy pontosan tudják, bármely pillanatban ki hol lesz; pontosan tudják, hogy akinél a labda van, hova fogja azt rúgni, s még a labda érkezése előtt már azon a helyen várják azt. Ehhez arra van szükség, hogy kívülről tudják, mit is gondol a másik.</p>
       </div>
       <div class="col-lg-6">
         <div class="content ps-0 ps-lg-5">
           <p class="fst-italic">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-            magna aliqua.
+            Reméljük hogy legközelebb is visszatér/visszatlnek oldalunkra és minket választanak a jövőben is.
           </p>
           <ul>
-            <li><i class="bi bi-check-circle-fill"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat.</li>
-            <li><i class="bi bi-check-circle-fill"></i> Duis aute irure dolor in reprehenderit in voluptate velit.</li>
-            <li><i class="bi bi-check-circle-fill"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate trideta storacalaperda mastiro dolore eu fugiat nulla pariatur.</li>
+            <li><i class="bi bi-check-circle-fill"></i> Megbeszélés</li>
+            <li><i class="bi bi-check-circle-fill"></i> Barátság</li>
+            <li><i class="bi bi-check-circle-fill"></i> Vidámság</li>
           </ul>
-          <p>
-            Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-            velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident
-          </p>
+          <p> "Van-e bármi a világon a focin kívül, ami egyszerre tanít meg már az első percben arra, hogy akármi történik is, elfogadjuk a sorsunkat, de az utolsó percig higgyünk a csodában?"</p>
+          <p>"Ha meghalok, és újjászületek, megint focista akarok lenni. És ismét Diego Armando Maradona. Olyan játékos vagyok, aki örömet okozott az embereknek, és ez nekem elég."</p>
 
           <div class="position-relative mt-4">
             <img src="assets/img/about-2.jpg" class="img-fluid rounded-4" alt="">
