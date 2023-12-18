@@ -85,8 +85,8 @@ if (filter_input(INPUT_POST, "Adatmodositas", FILTER_VALIDATE_BOOL, FILTER_NULL_
                         <div class="row">
                             <div class="col-md-6 mb-4">
                                 <div class="form-outline">
-                                    <label for="neve" class="form-label">Név módosítás:</label>
-                                    <input type="text" class="form-control" name="neve" id="neve" value="<?php echo $adatok['name']; ?>">
+                                    <label for="mennyiseg" style="color:white;" pattern="[1-100]{1}" required>Mennyiség: </label>
+                                    <input type="number" id="mennyiseg" name="mennyiseg" placeholder="mennyiseg" value="<?php echo $adatok['mennyiseg']; ?>" required>
                                 </div>
                             </div>
                             <div class="col-md-6 mb-4">
@@ -103,20 +103,13 @@ if (filter_input(INPUT_POST, "Adatmodositas", FILTER_VALIDATE_BOOL, FILTER_NULL_
                         <!-- Email input -->
                         <div class="form-outline mb-4">
                             <label for="email" class="form-label">Email módosítás:</label>
-                            <input type="email" class="form-control" name="email" id="email" value="<?php echo $adatok['email']; 
-                            $adatok = $db->getKivalasztotttorlottfocista($id);
-                            if ($adatok !== null) {
-                              var_dump($adatok);
-                                // További kód...   
-                            } else {
-                              echo 'Hiba: Nem sikerült lekérni az adatokat.';
-                            }?>">
+                            <input type="email" class="form-control" name="email" id="email" value="<?php echo $adatok['email']; ?>" required>
                         </div>
 
                         <!-- Date input -->
                         <div class="form-outline mb-4">
                             <label for="date" class="form-label">Dátum módosítás:</label>
-                            <input type="date" class="form-control" name="date" id="date" value="<?php echo $adatok['date']; ?>">
+                            <input type="date" class="form-control" name="date" id="date" value="<?php echo $adatok['date']; ?>" required>
                         </div>
 
                         <!-- Submit button -->                        
