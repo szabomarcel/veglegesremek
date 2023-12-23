@@ -103,7 +103,7 @@ if (filter_input(INPUT_POST, "Adatmodositas", FILTER_VALIDATE_BOOL, FILTER_NULL_
                         <div class="row">
                             <div class="col-md-6 mb-4">
                                 <div class="form-outline">
-                                    <label for="mennyiseg" class="form-label">Mennyiség:</label>
+                                    <label for="mennyiseg" class="form-label">Mennyiség módosítás:</label>
                                     <label for="mennyiseg" style="color:white;" pattern="[1-100]{1}" required>Mennyiség: </label>
                                     <input type="number" id="mennyiseg" name="mennyiseg" placeholder="mennyiseg" value="<?php echo $adatok['mennyiseg']; ?>" class="form-control form-control-lg" required>
                                 </div>
