@@ -366,11 +366,17 @@
     </div>
     <div class="portfolio-isotope" data-portfolio-filter="*" data-portfolio-layout="masonry" data-portfolio-sort="original-order">
       <ul class="portfolio-flters" data-aos="fade-up" data-aos-delay="100">
-        <li data-filter="*" class="filter-active">All</li>
+        <li data-filter="*">All</li>
         <li data-filter=".filter-remodeling">Remodeling</li>
         <li data-filter=".filter-construction">Construction</li>
         <li data-filter=".filter-repairs">Repairs</li>
         <li data-filter=".filter-design">Design</li>
+        <li data-filter="*">All</li>
+        <li data-filter=".filter-remodeling">Remodeling</li>
+        <li data-filter=".filter-construction">Construction</li>
+        <li data-filter=".filter-repairs">Repairs</li>
+        <li data-filter=".filter-design">Design</li>
+        <li data-filter=".filter-construction">Construction</li>
       </ul><!-- End Projects Filters -->
       <div class="row gy-4 portfolio-container" data-aos="fade-up" data-aos-delay="200">
         <div class="col-lg-4 col-md-6 portfolio-item filter-remodeling">
