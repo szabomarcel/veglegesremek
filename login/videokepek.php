@@ -5,97 +5,64 @@
         <div class="row gy-4 justify-content-center">
             <div class="col-xl-3 col-lg-4 col-md-6">
                 <div class="gallery-item h-100">
-                    <div class="gallery-links d-flex align-items-center justify-content-center">
+                    <!--<div class="gallery-links d-flex align-items-center justify-content-center">
                         <p class="stadion">DVSC arénája</p>
-                    </div>
-                    <img src="assets/img/gallery/gallery-6.jpg" class="img-fluid" alt="">
+                    </div>-->
+                    <img src="kepek/arena/DVSC.jpg" class="img-fluid" alt="" title="DVSC arénája">
                 </div>
           </div><!-- End Gallery Item -->
           <div class="col-xl-3 col-lg-4 col-md-6">
             <div class="gallery-item h-100">
-                <div class="gallery-links d-flex align-items-center justify-content-center">
-                    <p class="stadion">DVSC arénája</p>
-                </div>
-                <img src="assets/img/gallery/gallery-2.jpg" class="img-fluid" alt="">
+                <img src="kepek/arena/DVSC.jpg" class="img-fluid" alt="">
             </div>
         </div><!-- End Gallery Item -->
           <div class="col-xl-3 col-lg-4 col-md-6">
-              <div class="gallery-item h-100">
-                    <div class="gallery-links d-flex align-items-center justify-content-center">
-                        <p class="stadion">DVSC arénája</p>
-                    </div>
+                <div class="gallery-item h-100">
                     <img src="kepek/jatekosok/Albert_Florian.jpg" class="img-fluid" alt="" title="DVSC arénája">
                 </div>
             </div><!-- End Gallery Item -->
           <div class="col-xl-3 col-lg-4 col-md-6">
-            <div class="gallery-item h-100">
-                <div class="gallery-links d-flex align-items-center justify-content-center">
-                    <p class="stadion">DVSC arénája</p>
-                </div>                
+            <div class="gallery-item h-100">                
                 <img src="assets/img/gallery/gallery-4.jpg" class="img-fluid" alt="">
             </div>
         </div><!-- End Gallery Item -->
         <div class="col-xl-3 col-lg-4 col-md-6">
             <div class="gallery-item h-100">
-                <div class="gallery-links d-flex align-items-center justify-content-center">
-                    <p class="stadion">DVSC arénája</p>
-                </div>
                 <img src="assets/img/gallery/gallery-5.jpg" class="img-fluid" alt="">
             </div>
         </div><!-- End Gallery Item -->
         <div class="col-xl-3 col-lg-4 col-md-6">
             <div class="gallery-item h-100">
-                <div class="gallery-links d-flex align-items-center justify-content-center">
-                    <p class="stadion">DVSC arénája</p>
-                </div>
                 <img src="assets/img/gallery/gallery-6.jpg" class="img-fluid" alt="">
             </div>
         </div><!-- End Gallery Item -->
         <div class="col-xl-3 col-lg-4 col-md-6">
             <div class="gallery-item h-100">
-                <div class="gallery-links d-flex align-items-center justify-content-center">
-                    <p class="stadion">DVSC arénája</p>
-                </div>
                 <img src="assets/img/gallery/gallery-6.jpg" class="img-fluid" alt="">
             </div>
         </div><!-- End Gallery Item -->
         <div class="col-xl-3 col-lg-4 col-md-6">
             <div class="gallery-item h-100">
-                <div class="gallery-links d-flex align-items-center justify-content-center">
-                    <p class="stadion">DVSC arénája</p>
-                </div>
                 <img src="assets/img/gallery/gallery-6.jpg" class="img-fluid" alt="">
             </div>
         </div><!-- End Gallery Item -->
         <div class="col-xl-3 col-lg-4 col-md-6">
             <div class="gallery-item h-100">
-                <div class="gallery-links d-flex align-items-center justify-content-center">
-                    <p class="stadion">DVSC arénája</p>
-                </div>
+                <img src="assets/img/gallery/gallery-6.jpg" class="img-fluid" alt="">
+            </div>
+        </div><!-- End Gallery Item -->
+        <div class="col-xl-3 col-lg-4 col-md-6">
+            <div class="gallery-item h-100">                
                 <img src="assets/img/gallery/gallery-6.jpg" class="img-fluid" alt="">
             </div>
         </div><!-- End Gallery Item -->
         <div class="col-xl-3 col-lg-4 col-md-6">
             <div class="gallery-item h-100">
-                <div class="gallery-links d-flex align-items-center justify-content-center">
-                    <p class="stadion">DVSC arénája</p>
-                </div>
                 <img src="assets/img/gallery/gallery-6.jpg" class="img-fluid" alt="">
             </div>
         </div><!-- End Gallery Item -->
         <div class="col-xl-3 col-lg-4 col-md-6">
-            <div class="gallery-item h-100">
-                <div class="gallery-links d-flex align-items-center justify-content-center">
-                    <p class="stadion">DVSC arénája</p>
-                </div>
-                <img src="assets/img/gallery/gallery-6.jpg" class="img-fluid" alt="">
-            </div>
-        </div><!-- End Gallery Item -->
-        <div class="col-xl-3 col-lg-4 col-md-6">
-            <div class="gallery-item h-100">
-                <div class="gallery-links d-flex align-items-center justify-content-center">
-                    <p class="stadion">DVSC arénája</p>
-                </div>
+            <div class="gallery-item h-100">                
                 <img src="assets/img/gallery/gallery-6.jpg" class="img-fluid" alt="">
             </div>
         </div><!-- End Gallery Item -->
