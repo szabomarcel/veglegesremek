@@ -375,7 +375,7 @@
       <div class="row gy-4 portfolio-container" data-aos="fade-up" data-aos-delay="200">
         <div class="col-lg-4 col-md-6 portfolio-item filter-remodeling">
           <div class="portfolio-content h-100 lista">
-            <img src="kepek/csapatok/DVSC1.png" class="img-fluid" alt="">
+            <img src="kepek/csapatok/DVSC1.png" class="img-fluid" alt="DVSC1">
             <div class="portfolio-info" id="csapat1">
               <h4><p class="card-text"><b>Teljes csapatnév: </b>Debreceni Vasutas Sport Club</p></h4>
               <p class="card-text"><b>Becenév: </b> Loki</p>
@@ -390,7 +390,7 @@
         </div><!-- End Projects Item -->
         <div class="col-lg-4 col-md-6 portfolio-item filter-construction">
           <div class="portfolio-content h-100 lista">
-            <img src="kepek/csapatok/DVTK1.png" class="img-fluid" alt="">
+            <img src="kepek/csapatok/DVTK1.png" class="img-fluid" alt="DVTK1">
             <div class="portfolio-info" id="csapat1">
               <h4 class="card-text"><p class="card-text"><b>Teljes csapatnév: </b>Diósgyőri VTK</p></h4>                  
               <p class="card-text"><b>Becenév: </b>Diók</p>
@@ -405,7 +405,7 @@
         </div><!-- End Projects Item -->
         <div class="col-lg-4 col-md-6 portfolio-item">
           <div class="portfolio-content h-100 lista">
-            <img src="kepek/csapatok/fehervar1.png" class="img-fluid" alt="">
+            <img src="kepek/csapatok/fehervar1.png" class="img-fluid" alt="fehervar1">
             <div class="portfolio-info" id="csapat1">
               <h4><p class="card-text"><b>Teljes csapatnév: </b>Fehérvár FC</p></h4>
               <p class="card-text"><b>Becenév: </b>Vidi, Videoton</p>
@@ -420,14 +420,14 @@
         </div><!-- End Projects Item -->
         <div class="col-lg-4 col-md-6 portfolio-item filter-construction">
           <div class="portfolio-content h-100 lista">
-            <img src="kepek/csapatok/FTC1.png" class="img-fluid" alt="">
+            <img src="kepek/csapatok/FTC1.png" class="img-fluid" alt="FTC1">
             <div class="portfolio-info" id="csapat2">
               <h4 class="card-text"><p class="card-text"><b>Teljes csapatnév: </b>Ferencvárosi Torna Club</p></h4>                  
               <p class="card-text"><b>Becenév: </b> FTC, Fradi,Zöld Sasok, zöld-fehérek</p>
               <p class="card-text"><b>Székhely: </b> Budapest IX. kerület, Magyarország</p>
               <p class="card-text"><b>Alapítva: </b> 1899. május 3.</p>
               <p class="card-text"><b>Stadion: </b> Groupama Aréna</p>
-              <p class="card-text"><b>Vezetőedző: </b> Dejan Stankovic(Szerb)</p>
+              <p class="card-text"><b>Vezetőedző: </b> Dejan Stankovic(Szeerb)</p>
               <a href="kepek/csapatok/DVTK1.png" title="Construction 1" data-gallery="portfolio-gallery-construction" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
               <a href="kepek/csapatok/DVTK1.png" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
             </div>
@@ -435,7 +435,7 @@
         </div><!-- End Projects Item -->
         <div class="col-lg-4 col-md-6 portfolio-item">
           <div class="portfolio-content h-100 lista">
-            <img src="kepek/csapatok/kisvarda1.png" class="img-fluid" alt="">
+            <img src="kepek/csapatok/kisvarda1.png" class="img-fluid" alt="kisvarda1">
             <div class="portfolio-info" id="csapat2">
               <h4><p class="card-text"><b>Teljes csapatnév: </b>Kisvárda Master Good</p></h4>
               <p class="card-text"><b>Székhely: </b>Kisvárda, Magyarország</p>
@@ -449,7 +449,7 @@
         </div><!-- End Projects Item -->
         <div class="col-lg-4 col-md-6 portfolio-item filter-construction">
           <div class="portfolio-content h-100 lista">
-            <img src="kepek/csapatok/kovesd1.png" class="img-fluid" alt="">
+            <img src="kepek/csapatok/kovesd1.png" class="img-fluid" alt="kovesd1">
             <div class="portfolio-info" id="csapat2">
               <h4><p class="card-text"><b>Teljes csapatnév: </b>Mezőkövesd Zsóry Futball Club</p></h4>                  
               <p class="card-text"><b>Székhely: </b>Mezőkövesd, Magyarország</p>
@@ -463,7 +463,7 @@
         </div><!-- End Projects Item -->
         <div class="col-lg-4 col-md-6 portfolio-item">
           <div class="portfolio-content h-100 lista">
-            <img src="kepek/csapatok/KTE1.png" class="img-fluid" alt="">
+            <img src="kepek/csapatok/KTE1.png" class="img-fluid" alt="KTE1">
             <div class="portfolio-info" id="csapat3">
               <h4><p class="card-text"><b>Teljes csapatnév: </b>Kecskeméti Testedző Egyesület</p></h4>
               <p class="card-text"><b>Becenév: </b>Kecskemét, Lila-fehérek, KTE</p>
@@ -478,7 +478,7 @@
         </div><!-- End Projects Item -->
         <div class="col-lg-4 col-md-6 portfolio-item filter-construction">
           <div class="portfolio-content h-100 lista">
-            <img src="kepek/csapatok/MTK1.png" class="img-fluid" alt="">
+            <img src="kepek/csapatok/MTK1.png" class="img-fluid" alt="MTK">
             <div class="portfolio-info" id="csapat3">
               <h4><p class="card-text"><b>Teljes csapatnév: </b>Magyar Testgyakorlók Köre Budapest</p></h4>
               <p class="card-text"><b>Becenév: </b>MTK</p>
@@ -493,7 +493,7 @@
         </div><!-- End Projects Item -->
         <div class="col-lg-4 col-md-6 portfolio-item">
           <div class="portfolio-content h-100 lista">
-            <img src="kepek/csapatok/PAFC1.png" class="img-fluid" alt="">
+            <img src="kepek/csapatok/PAFC1.png" class="img-fluid" alt="PAFC1">
             <div class="portfolio-info" id="csapat3">
               <h4><p class="card-text"><b>Teljes csapatnév: </b>Puskás Akadémia FC</p></h4>
               <p class="card-text"><b>Székhely: </b>Felcsút, Magyarország</p>
@@ -507,7 +507,7 @@
         </div><!-- End Projects Item -->
         <div class="col-lg-4 col-md-6 portfolio-item filter-construction">
           <div class="portfolio-content h-100 lista">
-            <img src="kepek/csapatok/PFC1.png" class="img-fluid" alt="">
+            <img src="kepek/csapatok/PFC1.png" class="img-fluid" alt="PFC1">
             <div class="portfolio-info" id="csapat4">
               <h4><p class="card-text"><b>Teljes csapatnév: </b>Paksi Futball Club</p></h4>
               <p class="card-text"><b>Becenév: </b>Atomváros</p>
@@ -522,7 +522,7 @@
         </div><!-- End Projects Item -->
         <div class="col-lg-4 col-md-6 portfolio-item">
           <div class="portfolio-content h-100 lista">
-            <img src="kepek/csapatok/UTE1.png" class="img-fluid" alt="">
+            <img src="kepek/csapatok/UTE1.png" class="img-fluid" alt="UTE1">
             <div class="portfolio-info" id="csapat4">
               <h4><p class="card-text"><b>Teljes csapatnév: </b>Újpest Football Club</p></h4>                  
               <p class="card-text"><b>Becenév </b>UTE, lila-fehérek</p>
@@ -537,7 +537,7 @@
         </div><!-- End Projects Item -->
         <div class="col-lg-4 col-md-6 portfolio-item filter-construction">
           <div class="portfolio-content h-100 lista">
-            <img src="kepek/csapatok/zte1.png" class="img-fluid" alt="">
+            <img src="kepek/csapatok/zte1.png" class="img-fluid" alt="zte1">
             <div class="portfolio-info" id="csapat4">
               <h4><p class="card-text"><b>Teljes csapatnév: </b>Zalaegerszegi Torna Egylet Football Club</p></h4>
               <p class="card-text"><b>Becenév: </b>Zete</p>

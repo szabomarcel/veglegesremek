@@ -14,7 +14,7 @@
                             <a class="nav-link navbar navbar-light bg-light'. ($menuItem == 'atigazolas'?' active ': '') .'" href="index.php?menuItem=atigazolas">Átigazolási hírek</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link navbar navbar-light bg-light'. ($menuItem == 'kwiz'?' active ': '') .'" href="index.php?menuItem=kwiz">Napi kwiz</a>
+                            <a class="nav-link navbar navbar-light bg-light'. ($menuItem == 'csapatok'?' active ': '') .'" href="index.php?menuItem=csapatok">Csapatainkról</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link navbar navbar-light bg-light'. ($menuItem == 'foci'?' active ': '') .'" href="index.php?menuItem=foci">Mini Game</a>

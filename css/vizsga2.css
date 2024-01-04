@@ -374,3 +374,17 @@ h2{
   border-radius: 5px;
   background: linear-gradient(#e96874, #6e3663, #2b0830);
 }
+
+#video-container {
+  position: fixed;
+  bottom: 10px;
+  right: 10px;
+  z-index: 1000; /* Biztosítja, hogy a videó mindig a tartalom felett legyen */
+}
+
+/* Testreszabás: opcionális, a stílusokat a saját igényeidhez igazíthatod */
+#video-container iframe {
+  border: 2px solid #333;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}

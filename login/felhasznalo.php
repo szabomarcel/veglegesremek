@@ -50,7 +50,7 @@ if (filter_input(INPUT_POST, "Adatmodositas", FILTER_VALIDATE_BOOL, FILTER_NULL_
     $adatok = $db->getKivalasztotttorlottfocista($id);
     var_dump($adatok);
 
-    if ($db->setKivalasztotttorlottfocista($id, $name, $email, $jegyt, $pass1, $gender, $date)) {
+    if ($db->setKivalasztotttorlottfocista($id)) {
         echo '<p>Az adatok módosítása sikeres</p>';
         header("Location: index.php?menuItem=fooldal");
         exit;
@@ -61,7 +61,7 @@ if (filter_input(INPUT_POST, "Adatmodositas", FILTER_VALIDATE_BOOL, FILTER_NULL_
     $adatok = $db->getKivalasztotttorlottfocista($id);
     var_dump($adatok);
 
-    if ($db->setKivalasztotttorlottfocista($id, $name, $email, $jegyt, $pass1, $gender, $date)) {
+    if ($db->setKivalasztotttorlottfocista($id)) {
         echo '<p>Az adatok módosítása sikeres</p>';
         header("Location: index.php?menuItem=fooldal");
         exit;

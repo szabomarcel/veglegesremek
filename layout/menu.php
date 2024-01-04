@@ -7,8 +7,8 @@
             case "atigazolas":
                 require_once("./login/atigazolas.php");
                 break;   
-            case "kwiz":
-                require_once("./login/kviz.php");
+            case "csapatok":
+                require_once("./login/csapatok.php");
                 break;     
             case "foci":
                 require_once("login/focisjatek.php");
