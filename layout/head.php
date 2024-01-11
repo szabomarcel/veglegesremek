@@ -21,6 +21,7 @@
     <link href="assets/css/variables.css" rel="stylesheet">
     <link href="assets/css/main.css" rel="stylesheet"> 
     <link rel="stylesheet" href="css/gallary.css">   
+    <link rel="stylesheet" href="css/canvas.css">
     <!-- Vendor CSS Files -->
     <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
     <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">

@@ -1,0 +1,70 @@
+.post-container {
+    width: 80%;
+    margin: 20px auto;
+    padding: 20px;
+    border: 2px solid black;
+    border-radius: 5px;
+    background: linear-gradient(#525252, #414141, #313131, #CA3E47);
+}
+
+.post-content {
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+.comments-container {
+    margin-top: 20px;
+}
+
+#comment-list {
+    list-style: none;
+    padding: 0;
+}
+
+#comment-input {
+    width: 70%;
+    padding: 8px;
+}
+
+button {
+    padding: 8px 12px;
+    background-color: #4285f4;
+    color: black;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #1a73e8;
+}
+
+#qrcode {
+    border: 2px solid #333;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+ /* A videó stílusai */
+ .fixed-video {
+    position: fixed;
+    top: 840px; /* A videó felső távolsága az oldal tetejétől */
+    left: 1600px; /* A videó bal oldali távolsága az oldal bal szélétől */
+    z-index: 1000; /* Z-index a réteg rendezéséhez */
+    width: 100%; /* A videó szélessége 100%-ra van állítva az elérhető hely kihasználása érdekében */
+    max-width: 300px; /* Az esetleges nagyobb képernyők esetén a videó maximális szélessége */
+    height: auto; /* A magasság automatikusan méreteződik a szélesség arányában */
+}
+
+.csillag {
+    font-size: 30px;
+    color: #ccc;
+    cursor: pointer;
+    transition: color 0.3s;
+}
+
+.csillag:hover,
+.csillag.checked {
+    color: #ffcc00;
+}

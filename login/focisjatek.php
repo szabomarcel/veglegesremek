@@ -1,7 +1,6 @@
 <div class="container div" style="text-align: center;">
     <h1>Focista kártyák tulajdonságaikkal</h1>    
     <div id="card-container" class="card-container">
-        
     </div class="row">
         <div class="cards">
             <div class="content">
@@ -50,6 +49,7 @@
             </div>
         </div>
     </div>
+    <hr>
     <h1>Memory Cards</h1>
     <div class="grid-container">
     </div>
@@ -58,6 +58,26 @@
         <button onclick="restart()">Restart</button>
     </div>
     <hr>
+    <div class="post-container">
+        <h1>Football Mérközés Vélemény</h1>
+        <p class="post-content">Értékelje a mecset.</p>
+        <div>
+            <span class="csillag" onclick="ertekeles(1)" id="csillag1">&#9733;</span>
+            <span class="csillag" onclick="ertekeles(2)" id="csillag2">&#9733;</span>
+            <span class="csillag" onclick="ertekeles(3)" id="csillag3">&#9733;</span>
+            <span class="csillag" onclick="ertekeles(4)" id="csillag4">&#9733;</span>
+            <span class="csillag" onclick="ertekeles(5)" id="csillag5">&#9733;</span>
+        </div>
+        <div class="comments-container">
+            <h2>Comments</h2>
+            <ul id="comment-list"></ul>
+            <input type="text" id="comment-input" placeholder="Add a comment...">
+            <button onclick="addComment()">Add Comment</button>
+        </div>
+    </div>
+    <hr>
+    <div id="qrcode"></div>
 </div>
 </div>
+<script src="web/main.js"></script>
 <script src="web/foci.js"></script>   

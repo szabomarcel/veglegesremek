@@ -99,6 +99,12 @@
         </div>
       </div>
     </div>
+    <pre>
+      <video class="fixed-video" controls autoplay>
+        <source src="https://www.youtube.com/watch?v=pv5K28zVepE.WebM" type="video/mp4">
+        A böngésződ nem támogatja a videó lejátszását.
+      </video>
+    </pre>
     <div class="footer-legal">
       <div class="container">
         <div class="row justify-content-between">
@@ -110,12 +116,12 @@
               <!-- All the links in the footer should remain intact. -->
               <!-- You can delete the links only if you purchased the pro version. -->
               <!-- Licensing information: https://bootstrapmade.com/license/ -->
-              <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/herobiz-bootstrap-business-template/ -->
+                <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/herobiz-bootstrap-business-template/ -->
                 A <a href="https://getbootstrap.com/docs/5.3/getting-started/download/">BootstrapMade</a> tervezte. 
             </div>
           </div>
           <div class="col-md-6">
-          <div class="social-links mb-3 mb-lg-0 text-center text-md-end">
+            <div class="social-links mb-3 mb-lg-0 text-center text-md-end">
               <a href="#" class="twitter"><i class="bi bi-twitter"></i></a>
               <a href="#" class="facebook"><i class="bi bi-facebook"></i></a>
               <a href="#" class="instagram"><i class="bi bi-instagram"></i></a>
