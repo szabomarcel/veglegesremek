@@ -1,8 +1,8 @@
 const videoData = [
-    { src: "video1.mp4", type: "video/mp4" },
-    { src: "video2.mp4", type: "video/mp4" },
-    { src: "video3.mp4", type: "video/mp4" },
-    { src: "video4.mp4", type: "video/mp4" }
+    { src: "kepek/video/FOCI EB ! Pamkutya.mp4", type: "video/mp4" },
+    { src: "kepek/video/Top 5. legnagyobb szabadrúgás gól!.mp4", type: "video/mp4" },
+    { src: "kepek/video/Legszebb magyar stadionok!🇭🇺🇭🇺.mp4", type: "video/mp4" },
+    { src: "kepek/video/5. legnagyobb magyar öngól!🔥.mp4", type: "video/mp4" }
     // További videók hozzáadhatók
 ];
 
@@ -45,8 +45,8 @@ function autoPaginate() {
     displayVideos(currentPage);
 }
 
-// Indítsd el az automatikus lapozást minden 5 másodpercenként
-const autoPaginateInterval = setInterval(autoPaginate, 5000);
+// Indítsd el az automatikus lapozást minden 4:50 perc múlva vált a következő videókhoz
+const autoPaginateInterval = setInterval(autoPaginate, 216000);
 
 // Állítsd le az automatikus lapozást, ha az oldal bezárul vagy más tevékenység történik
 window.onbeforeunload = function () {

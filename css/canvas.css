@@ -49,7 +49,7 @@ button:hover {
  /* A videó stílusai */
  .fixed-video {
     position: fixed;
-    top: 840px; /* A videó felső távolsága az oldal tetejétől */
+    top: 480px; /* A videó felső távolsága az oldal tetejétől */
     left: 1600px; /* A videó bal oldali távolsága az oldal bal szélétől */
     z-index: 1000; /* Z-index a réteg rendezéséhez */
     width: 100%; /* A videó szélessége 100%-ra van állítva az elérhető hely kihasználása érdekében */
