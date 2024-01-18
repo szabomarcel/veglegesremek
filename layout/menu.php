@@ -25,6 +25,9 @@
             case 'logout':
                 require_once './login/logout.php';
                 break;                   
+            case 'velemeny':
+                require_once './login/velemeny.php';
+                break;                   
             default:
             require_once('./layout/fooldal.php');
         }            

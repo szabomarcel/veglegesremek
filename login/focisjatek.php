@@ -59,8 +59,8 @@
     </div>
     <hr>
     <div class="post-container">
-        <h1>Football Mérközés Vélemény</h1>
-        <p class="post-content">Értékelje a mecset.</p>
+        <h1>Football Mérközés Vélemények</h1>
+        <p class="post-content">Értékelje a memory cardot.</p>
         <div>
             <span class="csillag" onclick="ertekeles(1)" id="csillag1">&#9733;</span>
             <span class="csillag" onclick="ertekeles(2)" id="csillag2">&#9733;</span>
@@ -72,11 +72,11 @@
             <h2>Comments</h2>
             <ul id="comment-list"></ul>
             <input type="text" id="comment-input" placeholder="Add a comment...">
-            <button onclick="addComment()">Add Comment</button>
+            <a href="index.php?menuItem=velemeny&nev_id=<?php echo $adatok['nev_id'];?>" class="btn btn-dark" onclick="addComment()">Add Comment</a>
+            <!--<button onclick="addComment()">Add Comment</button>-->
         </div>
     </div>
     <hr>
-    <div id="qrcode"></div>
 </div>
 </div>
 <script src="web/main.js"></script>
