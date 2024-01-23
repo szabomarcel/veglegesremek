@@ -1,10 +1,10 @@
-<nav class="navbar navbar-expand-lg navbar-dark bg-secondary"> <!--fixed-top-->
+<nav class="navbar navbar-expand-lg bg-body-tertiary navbar-dark bg-secondary"> <!--fixed-top-->
     <div class="container-fluid">
     <a class="navbar-brand" href="index.php?menuItem=fooldal"><img src="kepek/pele-focilabda.svg" alt="pele-focilabda.svg" style="width: 30px; height: 30px;"></a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" arial-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
-        <div class="collapse navbar-collapse navbar-dark bg-secondary" id="navbarNav">
+        <div class="collapse navbar-collapse navbar-dark bg-secondary" id="navbarSupportedContect">
             <ul class="navbar-nav me-auto mb-2 mb-lg-0" >
                 <?php
                     echo '<li class="nav-item navbar navbar-light bg-light">
