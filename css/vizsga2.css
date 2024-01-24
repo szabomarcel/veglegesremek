@@ -412,32 +412,3 @@ h2{
 .navbar-default .navbar-toggle .icon-bar {
   background-color: #fff;
 }
-
-ul.nav {
-  margin: 21px 0 0 0;
-  height: 39px;
-  font-size: 18px;
-  font-weight: 700;
-  text-transform: uppercase;
-}
-
-ul.nav li a {
-  margin: 0 15px 0 15px;
-  padding: 0;
-  display: block;
-  height: 28px;
-  background: none;
-}
-
-ul.nav li a:hover {
-  background: none;
-}
-
-ul.nav li:last-child a {
-  margin-right: 9px;
-}
-
-ul.nav li.active > a {
-  border-bottom : 3px solid #f79123;
-  background: none !important;
-}
