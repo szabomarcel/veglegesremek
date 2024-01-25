@@ -32,7 +32,7 @@
               <li><a href="index.php?menuItem=videokepek"><i class="bi bi-chevron-right"></i> Videók és képek a mérközésekről</a></li>
               <li><a href="index.php?menuItem=atigazolas"><i class="bi bi-chevron-right"></i> Sport</a></li>
               <li><a href="https://www.tippmixpro.hu/"><i class="bi bi-chevron-right"></i> Tipmixek</a></li>
-              <li><a href="index.php?menuItem=kwiz"><i class="bi bi-chevron-right"></i> Kviz</a></li>
+              <li><a href="index.php?menuItem=csapatok"><i class="bi bi-chevron-right"></i> Csapatokról</a></li>
               <li><a href="#"><i class="bi bi-chevron-right"></i> Startups</a></li>
               <li><a href="#"><i class="bi bi-chevron-right"></i> Travel</a></li>
             </ul>

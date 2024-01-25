@@ -76,4 +76,3 @@
 <div id="videoGallery" class="video-gallery"></div>
 <div id="pagination"></div>
 <hr>
-<script src="web/video.js"></script>

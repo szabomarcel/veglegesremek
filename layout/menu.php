@@ -18,6 +18,9 @@
                 break;  
             case "videokepek":
                 require_once("./login/videokepek.php");
+                break;     
+            case "card":
+                require_once("./login/credit.php");
                 break;      
             case "login":
                 require_once("./login/login.php");

@@ -79,5 +79,3 @@
     <hr>
 </div>
 </div>
-<script src="web/main.js"></script>
-<script src="web/foci.js"></script>   

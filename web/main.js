@@ -64,3 +64,21 @@ let aktivaltCsillag = 0;
             }
         }
     }
+    
+let lapozoIndex = 0;
+
+function lapozas(elore) {
+    const lapozoWrapper = document.querySelector('.lapozo-wrapper');
+    const lapozoSlides = document.querySelectorAll('.lapozo-slide');
+    const slideWidth = lapozoSlides[0].clientWidth;
+
+    lapozoIndex = elore ? lapozoIndex + 1 : lapozoIndex - 1;
+
+    if (lapozoIndex < 0) {
+        lapozoIndex = lapozoSlides.length - 1;
+    } else if (lapozoIndex >= lapozoSlides.length) {
+        lapozoIndex = 0;
+    }
+
+    lapozoWrapper.style.transform = `translateX(-${lapozoIndex * slideWidth}px)`;
+}

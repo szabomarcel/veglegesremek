@@ -130,7 +130,7 @@
                       <input type="number" id="mennyiseg" name="mennyiseg" placeholder="mennyiseg" required><br>
                     </div>
                     <div class="d-flex justify-content-end pt-3">
-                      <button type="button" class="btn btn-light btn-lg">Reset all</button>
+                      <button type="button" class="btn btn-light btn-lg"><a href="index.php?register=register">Reset all</a></button>
                       <button type="submit" class="btn btn-warning btn-lg ms-2" name="regisztraciosAdatok" value="true">Regisztáció</button>
                     </div>
                 </form>

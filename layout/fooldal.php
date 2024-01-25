@@ -400,4 +400,3 @@
     </div>
   </section><!-- End Contact Section -->
 </main>
-<script src="web/lapozas.js"></script>

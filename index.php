@@ -19,5 +19,8 @@
     }else{
         require_once './login/switchlog.php';
     }
-?>    
+?>
+<script src="web/video.js"></script>    
+<script src="web/main.js"></script>
+<script src="web/foci.js"></script>   
 </body>
