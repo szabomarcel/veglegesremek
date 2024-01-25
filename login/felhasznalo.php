@@ -1,5 +1,5 @@
 <?php
-if (filter_input(INPUT_POST, "Adatmodositas", FILTER_VALIDATE_BOOL, FILTER_NULL_ON_FAILURE)) {
+/*if (filter_input(INPUT_POST, "Adatmodositas", FILTER_VALIDATE_BOOL, FILTER_NULL_ON_FAILURE)) {
     $adatok = $_POST;
     var_dump($adatok);
     $id = filter_input(INPUT_POST, "id", FILTER_SANITIZE_NUMBER_INT);
@@ -9,7 +9,7 @@ if (filter_input(INPUT_POST, "Adatmodositas", FILTER_VALIDATE_BOOL, FILTER_NULL_
     $pass1 = filter_input(INPUT_POST, "password");
     $gender = filter_input(INPUT_POST, "gender");
     $date = filter_input(INPUT_POST, "date");
-    if ($db->setKivalasztottfocista($id, $name, $email, $jegyt, $igazolvany, $pass1, $gende, $date)){
+    if ($db->setKivalasztotttorlottfocista($id, $name, $email, $jegyt, $igazolvany, $pass1, $gender, $date)){
         echo '<p>Az adatok módosítása sikeres</p>';
         header("Location: index.php?menuItem=fooldal");
     } else {
@@ -29,14 +29,47 @@ if (filter_input(INPUT_POST, "Egyszarvu", FILTER_VALIDATE_BOOL, FILTER_NULL_ON_F
     $pass1 = filter_input(INPUT_POST, "password");
     $gender = filter_input(INPUT_POST, "gender");
     $date = filter_input(INPUT_POST, "date");
-    if ($db->setKivalasztotttorlottfocista($id)) {
+    if ($db->setKivalasztotttorlottfocista($id, $name, $email, $jegyt, $igazolvany, $pass1, $gender, $date)) {
         echo '<p>Az adatok módosítása sikeres</p>';
         header("Location: index.php?menuItem=fooldal");
     } else {
         echo '<p>Az adatok módosítása sikertelen!</p>';
     }
 } else {
+    $adatok = $db->getKivalasztotttorlottfocista($id, $name, $email, $jegyt, $igazolvany, $pass1, $gender, $date);
+}*/
+$id = filter_input(INPUT_POST, "id", FILTER_SANITIZE_NUMBER_INT);
+$name = htmlspecialchars(filter_input(INPUT_POST, "name"));
+$email = filter_input(INPUT_POST, "email");
+$jegyt = filter_input(INPUT_POST, "jegyt");
+$pass1 = filter_input(INPUT_POST, "password");
+$gender = filter_input(INPUT_POST, "gender");
+$date = filter_input(INPUT_POST, "date");
+
+if (filter_input(INPUT_POST, "Adatmodositas", FILTER_VALIDATE_BOOL, FILTER_NULL_ON_FAILURE)) {
     $adatok = $db->getKivalasztotttorlottfocista($id);
+    var_dump($adatok);
+
+    if ($db->setKivalasztotttorlottfocista($id)) {
+        echo '<p>Az adatok módosítása sikeres</p>';
+        header("Location: index.php?menuItem=fooldal");
+        exit;
+    } else {
+        echo '<p>Az adatok módosítása sikertelen!</p>';
+    }
+} elseif (filter_input(INPUT_POST, "Egyszarvu", FILTER_VALIDATE_BOOL, FILTER_NULL_ON_FAILURE)) {
+    $adatok = $db->getKivalasztotttorlottfocista($id);
+    var_dump($adatok);
+
+    if ($db->setKivalasztotttorlottfocista($id)) {
+        echo '<p>Az adatok módosítása sikeres</p>';
+        header("Location: index.php?menuItem=fooldal");
+        exit;
+    } else {
+        echo '<p>Az adatok módosítása sikertelen!</p>';
+    }
+} else {
+    // Ebben az ágban marad az eredeti $adatok értéke, ha nincs POST kérés
 }
 ?>
 <section class="text-center text-lg-start">
