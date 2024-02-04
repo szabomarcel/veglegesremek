@@ -82,3 +82,39 @@ function lapozas(elore) {
 
     lapozoWrapper.style.transform = `translateX(-${lapozoIndex * slideWidth}px)`;
 }
+
+/*#####*/
+/*CARD*/ 
+/*#####*/
+
+// payment.js
+/*var stripe = Stripe('YOUR_PUBLIC_KEY');
+var elements = stripe.elements();
+
+var card = elements.create('card');
+card.mount('#card-element');
+
+card.addEventListener('change', function(event) {
+    var displayError = document.getElementById('card-errors');
+    if (event.error) {
+        displayError.textContent = event.error.message;
+    } else {
+        displayError.textContent = '';
+    }
+});
+
+var form = document.getElementById('payment-form');
+
+form.addEventListener('submit', function(event) {
+    event.preventDefault();
+
+    stripe.createToken(card).then(function(result) {
+        if (result.error) {
+            var errorElement = document.getElementById('card-errors');
+            errorElement.textContent = result.error.message;
+        } else {
+            // Token successfully created, send it to your server to process the payment.
+            stripeTokenHandler(result.token);
+        }
+    });
+});*/

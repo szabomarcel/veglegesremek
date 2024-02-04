@@ -1,43 +1,4 @@
 <?php
-/*if (filter_input(INPUT_POST, "Adatmodositas", FILTER_VALIDATE_BOOL, FILTER_NULL_ON_FAILURE)) {
-    $adatok = $_POST;
-    var_dump($adatok);
-    $id = filter_input(INPUT_POST, "id", FILTER_SANITIZE_NUMBER_INT);
-    $name = htmlspecialchars(filter_input(INPUT_POST, "name"));
-    $email = filter_input(INPUT_POST, "email");
-    $jegyt = filter_input(INPUT_POST, "jegyt");
-    $pass1 = filter_input(INPUT_POST, "password");
-    $gender = filter_input(INPUT_POST, "gender");
-    $date = filter_input(INPUT_POST, "date");
-    if ($db->setKivalasztotttorlottfocista($id, $name, $email, $jegyt, $igazolvany, $pass1, $gender, $date)){
-        echo '<p>Az adatok módosítása sikeres</p>';
-        header("Location: index.php?menuItem=fooldal");
-    } else {
-        echo '<p>Az adatok módosítása sikertelen!</p>';
-    }
-}else{
-    $adatok = $db->getKivalasztotttorlottfocista($id);
-}
-$adatok = $db->getKivalasztotttorlottfocista($id);
-if (filter_input(INPUT_POST, "Egyszarvu", FILTER_VALIDATE_BOOL, FILTER_NULL_ON_FAILURE)) {
-    $adatok = $_POST;
-    var_dump($adatok);
-    $id = filter_input(INPUT_POST, "id", FILTER_SANITIZE_NUMBER_INT);
-    $name = htmlspecialchars(filter_input(INPUT_POST, "name"));
-    $email = filter_input(INPUT_POST, "email");
-    $jegyt = filter_input(INPUT_POST, "jegyt");
-    $pass1 = filter_input(INPUT_POST, "password");
-    $gender = filter_input(INPUT_POST, "gender");
-    $date = filter_input(INPUT_POST, "date");
-    if ($db->setKivalasztotttorlottfocista($id, $name, $email, $jegyt, $igazolvany, $pass1, $gender, $date)) {
-        echo '<p>Az adatok módosítása sikeres</p>';
-        header("Location: index.php?menuItem=fooldal");
-    } else {
-        echo '<p>Az adatok módosítása sikertelen!</p>';
-    }
-} else {
-    $adatok = $db->getKivalasztotttorlottfocista($id, $name, $email, $jegyt, $igazolvany, $pass1, $gender, $date);
-}*/
 $id = filter_input(INPUT_POST, "id", FILTER_SANITIZE_NUMBER_INT);
 $name = htmlspecialchars(filter_input(INPUT_POST, "name"));
 $email = filter_input(INPUT_POST, "email");
@@ -119,7 +80,18 @@ if (filter_input(INPUT_POST, "Adatmodositas", FILTER_VALIDATE_BOOL, FILTER_NULL_
                             </div>
                         </div>
                         <!-- Submit button -->     
-                        <button type="submit" class="btn btn-info btn-block mb-4" value="1" name="Megvasarlas">Megvásárlás</button>         
+                        <!-- HTML form for collecting credit card information -->
+                        <!--<form action="credit.php" method="POST">
+                            <script
+                                src="https://checkout.stripe.com/checkout.js" class="stripe-button"
+                                data-key="your_publishable_key"
+                                data-amount="1100"
+                                data-currency="huf"
+                                data-name="Your Company Name"
+                                data-description="Example charge"
+                                data-locale="auto"
+                            ></script>
+                        </form>-->         
                         <button type="submit" class="btn btn-info btn-block mb-4" value="1" name="Adatmodositas">Módosítás</button>
                         <button type="submit" class="btn btn-info btn-block mb-4" value="1" name="Egyszarvu">Törlés</button>
                     </form>
