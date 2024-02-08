@@ -17,24 +17,24 @@
           <div class="col-6 col-lg-2">
             <h3 class="footer-heading">Navigation</h3>
             <ul class="footer-links list-unstyled">
-              <li><a href="index.php?menuItem=fooldal"><i class="bi bi-chevron-right"></i> Home</a></li>
-              <li><a href="index.php?menuItem=atigazolas"><i class="bi bi-chevron-right"></i> Blog</a></li>
-              <li><a href="index.php?menuItem=#foci"><i class="bi bi-chevron-right"></i> Focizás</a></li>
-              <li><a href="index.php?menuItem=#forma"><i class="bi bi-chevron-right"></i> Forma-1</a></li>
-              <li><a href="index.php?menuItem=#kosarropi"><i class="bi bi-chevron-right"></i> Kosár és Röplabda</a></li>
-              <li><a href="index.php?menuItem=#id"><i class="bi bi-chevron-right"></i> Contact</a></li>
+              <li><a href="index.php?menuItem=fooldal"><i class="fa fa-chevron-right"></i> Home</a></li>
+              <li><a href="index.php?menuItem=atigazolas"><i class="fa fa-chevron-right"></i> Blog</a></li>
+              <li><a href="index.php?menuItem=#foci"><i class="fa fa-chevron-right"></i> Focizás</a></li>
+              <li><a href="index.php?menuItem=#forma"><i class="fa fa-chevron-right"></i> Forma-1</a></li>
+              <li><a href="index.php?menuItem=#kosarropi"><i class="fa fa-chevron-right"></i> Kosár és Röplabda</a></li>
+              <li><a href="index.php?menuItem=#id"><i class="fa fa-chevron-right"></i> Contact</a></li>
             </ul>
           </div>
           <div class="col-6 col-lg-2">
             <h3 class="footer-heading">Categories</h3>
             <ul class="footer-links list-unstyled">
-              <li><a href="index.php?menuItem=felhasznalo"><i class="bi bi-chevron-right"></i> Módosítások</a></li>
-              <li><a href="index.php?menuItem=videokepek"><i class="bi bi-chevron-right"></i> Videók és képek a mérközésekről</a></li>
-              <li><a href="index.php?menuItem=atigazolas"><i class="bi bi-chevron-right"></i> Sport</a></li>
-              <li><a href="https://www.tippmixpro.hu/"><i class="bi bi-chevron-right"></i> Tipmixek</a></li>
-              <li><a href="index.php?menuItem=csapatok"><i class="bi bi-chevron-right"></i> Csapatokról</a></li>
-              <li><a href="#"><i class="bi bi-chevron-right"></i> Startups</a></li>
-              <li><a href="#"><i class="bi bi-chevron-right"></i> Travel</a></li>
+              <li><a href="index.php?menuItem=felhasznalo"><i class="fa fa-chevron-right"></i> Módosítások</a></li>
+              <li><a href="index.php?menuItem=videokepek"><i class="fa fa-chevron-right"></i> Videók és képek a mérközésekről</a></li>
+              <li><a href="index.php?menuItem=atigazolas"><i class="fa fa-chevron-right"></i> Sport</a></li>
+              <li><a href="https://www.tippmixpro.hu/"><i class="fa fa-chevron-right"></i> Tipmixek</a></li>
+              <li><a href="index.php?menuItem=csapatok"><i class="fa fa-chevron-right"></i> Csapatokról</a></li>
+              <li><a href="#"><i class="fa fa-chevron-right"></i> Startups</a></li>
+              <li><a href="#"><i class="fa fa-chevron-right"></i> Travel</a></li>
             </ul>
           </div>
           <div class="col-lg-4">
@@ -122,11 +122,11 @@
           </div>
           <div class="col-md-6">
             <div class="social-links mb-3 mb-lg-0 text-center text-md-end">
-              <a href="#" class="twitter"><i class="bi bi-twitter"></i></a>
-              <a href="#" class="facebook"><i class="bi bi-facebook"></i></a>
-              <a href="#" class="instagram"><i class="bi bi-instagram"></i></a>
-              <a href="https://github.com/szabomarcel/veglegesremek" class="github"><i class="bi bi-github"></i></a>
-              <a href="#" class="linkedin"><i class="bi bi-linkedin"></i></a>
+              <a href="#" class="twitter"><i class="fa fa-twitter"></i></a>
+              <a href="#" class="facebook"><i class="fa fa-facebook"></i></a>
+              <a href="#" class="instagram"><i class="fa fa-instagram"></i></a>
+              <a href="https://github.com/szabomarcel/veglegesremek" class="github"><i class="fa fa-github"></i></a>
+              <a href="#" class="linkedin"><i class="fa fa-linkedin"></i></a>
             </div>
           </div>
         </div>

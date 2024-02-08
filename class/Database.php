@@ -72,4 +72,27 @@ class Database {
         $result = $this->db->query("SELECT * FROM `users` WHERE id=" . $id);
         return $result->fetch_assoc();
     }  
+
+    /*public function velemeny($nev_id, $komment, $csillag){
+        // Megjegyzések lekérdezése az adatbázisból
+        $sql = $this->db->prepare("SELECT * FROM `velemeny` WHERE nev_id=".$nev_id);
+        $result = $conn->query($sql);
+        $stmt->bind_param("iss", $nev_id, $komment, $csillag);
+    }*/
+
+    public function setVelemenyText($nev_id, $komment, $csillag){
+        $stmt = $this->db->prepare("INSERT INTO `users`velemeny`(`nev_id`, `komment`, `csillag`) VALUES ('?','?','?')");
+        $stmt->bind_param("iss", $nev_id, $komment, $csillag);
+        if ($stmt->execute() === TRUE) {
+            echo "A megjegyzés sikeresen hozzáadva az adatbázishoz.";
+        } else {
+            echo "Hiba történt a megjegyzés hozzáadásakor: " . $stmt->error;
+        } 
+    }
+
+    public function getVelemenyTorlo($nev_id){
+        $stmt = $this->db->prepare("DELETE FROM `velemeny` WHERE nev_id=" . $nev_id); 
+        $stmt -> bind_param("nev_id", $nev_id);
+        return $stmt->execute();
+    }
 }

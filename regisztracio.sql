@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Gép: 127.0.0.1
--- Létrehozás ideje: 2024. Jan 18. 09:47
+-- Létrehozás ideje: 2024. Feb 08. 11:23
 -- Kiszolgáló verziója: 10.4.32-MariaDB
 -- PHP verzió: 8.2.12
 
@@ -45,7 +45,8 @@ CREATE TABLE `users` (
 
 INSERT INTO `users` (`id`, `name`, `email`, `jegyt`, `mennyiseg`, `igazolvany`, `password`, `gender`, `date`) VALUES
 (3, 'Szabó Marcell', 'szabomarcell34@gmail.com', 'egyedi', '2', '123456AB', '3456', 'Kecskemeti TE és Mezökövesd az ára 2000ft', '2023-12-06 00:00:00'),
-(12, 'Majka', 'majka34@gmmail.com', 'egyedi', '4', '345678BA', '1234', 'Puskás Akadémia és Paks az ára 2300ft', '2023-12-06 00:00:00');
+(12, 'Majka', 'majka34@gmmail.com', 'egyedi', '4', '345678BA', '1234', 'Puskás Akadémia és Paks az ára 2300ft', '2023-12-06 00:00:00'),
+(15, 'Luckey', 'luckey2020@gmail.com', 'csoportos', '4', '777777BC', '0123', 'Puskás Akadémia és Paks', '2024-02-07 00:00:00');
 
 -- --------------------------------------------------------
 
@@ -56,7 +57,7 @@ INSERT INTO `users` (`id`, `name`, `email`, `jegyt`, `mennyiseg`, `igazolvany`, 
 CREATE TABLE `velemeny` (
   `nev_id` int(100) UNSIGNED NOT NULL,
   `komment` text NOT NULL,
-  `csillag` int(100) NOT NULL
+  `csillag` enum('csillag1','csillag2','csillag3','csillag4','csillag5') NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
 
 --
@@ -84,7 +85,7 @@ ALTER TABLE `velemeny`
 -- AUTO_INCREMENT a táblához `users`
 --
 ALTER TABLE `users`
-  MODIFY `id` int(11) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=13;
+  MODIFY `id` int(11) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=16;
 
 --
 -- AUTO_INCREMENT a táblához `velemeny`

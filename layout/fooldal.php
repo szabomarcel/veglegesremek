@@ -30,10 +30,10 @@
             </div>
           </div>
           <div class="custom-swiper-button-next">
-            <span class="bi-chevron-right"></span>
+            <span class="fa fa-chevron-right"></span>
           </div>
           <div class="custom-swiper-button-prev">
-            <span class="bi-chevron-left"></span>
+            <span class="fa fa-chevron-left"></span>
           </div>
 
           <div class="swiper-pagination"></div>
@@ -52,7 +52,7 @@
     <div class="row g-5">
       <div class="col-lg-4">
         <div class="post-entry-1 lg">
-          <a href="kepek/jatekosok/Szoboszlai_Dominik.jpg" title="Repairs 3" data-gallery="portfolio-gallery-book" class="glightbox preview-link"><img src="kepek/jatekosok/Szoboszlai_Dominik.jpg" alt="" class="img-fluid"><i class="bi bi-zoom-in"></i></a>
+          <a href="kepek/jatekosok/Szoboszlai_Dominik.jpg" title="Repairs 3" data-gallery="portfolio-gallery-book" class="glightbox preview-link"><img src="kepek/jatekosok/Szoboszlai_Dominik.jpg" alt="" class="img-fluid"><i class="fa fa-zoom-in"></i></a>
           <div class="post-meta"><span class="date">Sport</span> <span class="mx-1">&bullet;</span> <span>2023.09.27.</span></div>
           <h2><a href="kepek/jatekosok/Szoboszlai_Dominik.jpg">Szoboszlai Dominik labda rúgásai</a></h2>
           <p class="mb-4 d-block szd">Szerdán este megszerezte második gólját az angol labdarúgó-bajnokságban a Liverpool FC magyar válogatott sztárja, Szoboszlai Dominik. A 23 éves játékos a Sheffield United elleni, a „vörösök” szempontjából nem túl könnyű mérkőzésen állította be a végeredményt. Íme!</p>
@@ -347,7 +347,7 @@
     </div>
   </div>
 </section>
-<section id="contact" class="contact">
+<section id="contact" class="contact text-center">
     <div class="container" data-aos="fade-up">
       <div class="section-header">
         <h2 id="id">Elérhetőségek</h2>
@@ -362,7 +362,7 @@
             <div>
               <h3>Helyszín:</h3>
               <p>Burgunia utca, Debrecen, 4023</p>
-              <i class="icon bi bi-map flex-shrink-0"></i>
+              <i class="icon fa fa-map flex-shrink-0"></i>
             </div>
           </div>
         </div><!-- End Info Item -->
@@ -371,7 +371,7 @@
           <div>
             <h3>Email Cím:</h3>
               <p>burgundia34@gmail.com</p>
-              <i class="icon bi bi-envelope flex-shrink-0"></i>
+              <i class="icon fa fa-envelope flex-shrink-0"></i>
             </div>
           </div>
         </div><!-- End Info Item -->
@@ -380,7 +380,7 @@
             <div>
               <h3>Telefonszám:</h3>
               <p>+70 20 999 9999</p>
-              <i class="icon bi bi-telephone flex-shrink-0"></i>
+              <i class="icon fa fa-telephone flex-shrink-0"></i>
             </div>
           </div>
         </div><!-- End Info Item -->
@@ -392,7 +392,7 @@
                 <strong>Hétfőtől - Péntekig:</strong> 8AM - 15PM; <br>
                 <strong>Szombat és vasárnap:</strong> Zárva
               </div>
-              <i class="icon bi bi-share flex-shrink-0"></i>
+              <i class="icon fa fa-share flex-shrink-0"></i>
             </div>
           </div>
         </div><!-- End Info Item -->

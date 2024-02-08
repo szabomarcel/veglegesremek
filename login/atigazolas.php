@@ -18,10 +18,10 @@
         <span class="d-block mb-3 text-uppercase">Született: 2000. október 25. (életkor 23 év)</span>
         <span>2023-as 70 millió eurós, RB Leipzigtól a Liverpoolba történő átigazolásával lényegében saját rekordját döntötte meg. Korábban, 2021-ben 22 millió eurós vételárral ment az RB Salzburgtól az RB Leipzigbe.</span>
         <div class="social">
-          <a href="#"><i class="bi bi-twitter"></i></a>
-          <a href="#"><i class="bi bi-facebook"></i></a>
-          <a href="#"><i class="bi bi-instagram"></i></a>
-          <a href="#"><i class="bi bi-linkedin"></i></a>
+          <a href="#"><i class="fa fa-twitter"></i></a>
+          <a href="#"><i class="fa fa-facebook"></i></a>
+          <a href="#"><i class="fa fa-instagram"></i></a>
+          <a href="#"><i class="fa fa-linkedin"></i></a>
         </div>
         <hr>
       </div>
@@ -33,10 +33,10 @@
         <p><b>A magyar válogatott labdarúgó vételi árát több összehasonlításban is vizsgálja, így például a korábbi és jelenleg is aktív magyar játékosok tranzakciós értéke, egykori és mai áron számítva, továbbá nemzetközi összehasonlításban, például az idei klubcserék tükrében.</b><br>
         <i>A játékos piaci értékét a futballban különböző tényezők alapján kalkulálják. Ide tartoznak sportoló pályán mutatott készségei és képességei, életkora, nemzetisége. Számít a bajnokság amiben játszik, a szerződéses státusa és olyan külső tényezők, mint a sérülései vagy a pályán kívüli vitás ügyei.</i><br></p>
         <div class="social">
-          <a href="#"><i class="bi bi-twitter"></i></a>
-          <a href="#"><i class="bi bi-facebook"></i></a>
-          <a href="#"><i class="bi bi-instagram"></i></a>
-          <a href="#"><i class="bi bi-linkedin"></i></a>
+          <a href="#"><i class="fa fa-twitter"></i></a>
+          <a href="#"><i class="fa fa-facebook"></i></a>
+          <a href="#"><i class="fa fa-instagram"></i></a>
+          <a href="#"><i class="fa fa-linkedin"></i></a>
         </div>
         <hr>
       </div>
@@ -52,10 +52,10 @@
           Akiért ennyit fizetnek, azt nem a kispadra veszik, annak komoly szerepet szánnak
           - szögezte le a közgazdász.</p>
         <div class="social">
-          <a href="#"><i class="bi bi-twitter"></i></a>
-          <a href="#"><i class="bi bi-facebook"></i></a>
-          <a href="#"><i class="bi bi-instagram"></i></a>
-          <a href="#"><i class="bi bi-linkedin"></i></a>
+          <a href="#"><i class="fa fa-twitter"></i></a>
+          <a href="#"><i class="fa fa-facebook"></i></a>
+          <a href="#"><i class="fa fa-instagram"></i></a>
+          <a href="#"><i class="fa fa-linkedin"></i></a>
         </div>
         <hr>
       </div>
@@ -66,10 +66,10 @@
         <span class="d-block mb-3 text-uppercase">Született: 1941. szeptember 15., Hercegszántó Meghalt: 2011. október 31., Budapest</span>
         <p>Albert Flórián pályafutása alatt végig, 1958-tól 1974-ig a Ferencváros játékosa volt. A Ferencvárosnál bajnoki és különböző kupamérkőzéseit összeszámolva összesen 537 mérkőzésen lépett pályára a felnőtt csapatnál, ezeken 383 gólt szerzett. Háromszor lett gólkirály, négyszer nyert magyar bajnokságot, egyszer nyert Magyar Népköztársasági-kupát. 1965-ben megnyerte a Vásárvárosok Kupáját, miután 1–0-ra győztek az olasz Juventus ellen.</p>
         <div class="social">
-          <a href="#"><i class="bi bi-twitter"></i></a>
-          <a href="#"><i class="bi bi-facebook"></i></a>
-          <a href="#"><i class="bi bi-instagram"></i></a>
-          <a href="#"><i class="bi bi-linkedin"></i></a>
+          <a href="#"><i class="fa fa-twitter"></i></a>
+          <a href="#"><i class="fa fa-facebook"></i></a>
+          <a href="#"><i class="fa fa-instagram"></i></a>
+          <a href="#"><i class="fa fa-linkedin"></i></a>
         </div>
         <hr>
       </div>
@@ -82,10 +82,10 @@
         Az FTC híres volt remek középső védőiről: Kispéter Mihály, Mátrai Sándor, Páncsics Miklós, majd ön következett. 
         Is-is. De szinte csak „kihalásos” alapon lehetett bekerülni, ki kellett várnom a soromat. A felnőttcsapat keretéhez 1967 végén csatlakozhattam, Mátrai akkor távozott az Egyetértésbe, de Páncsics Miklós előttem volt. Ám Lakat Károly magával vitt a csapat 1968. februári közép-amerikai túrájára.</p>
         <div class="social">
-          <a href="#"><i class="bi bi-twitter"></i></a>
-          <a href="#"><i class="bi bi-facebook"></i></a>
-          <a href="#"><i class="bi bi-instagram"></i></a>
-          <a href="#"><i class="bi bi-linkedin"></i></a>
+          <a href="#"><i class="fa fa-twitter"></i></a>
+          <a href="#"><i class="fa fa-facebook"></i></a>
+          <a href="#"><i class="fa fa-instagram"></i></a>
+          <a href="#"><i class="fa fa-linkedin"></i></a>
         </div>
         <hr>        
       </div>
@@ -97,10 +97,10 @@
         <p class="card-text"><b>Az NB II-ben szereplő Vasas decemberben kinevezett új vezetőedzője, ifjabb Bene Ferenc az M4 Sport vadonatúj, Átigazolás című műsorában elmondta, az egyesület célja egy nyugat-európai klubmodell kidolgozása, valamint egy olyan csapat felépítése, amely legkésőbb jövőre fel tud jutni az NB I-be.</b><br>        
         Horváth klubváltása az elmúlt napokban már sejthető volt, hiszen a DVSC - már csak volt - támadója nem utazott el csapata törökországi edzőtáborába, helyette egy másik NB I-es gárdával, az OTP Bank Liga második helyén telelő Kecskeméttel indult útnak Belekbe, sőt, <a href="https://www.csakfoci.hu/magyar-foci/nb-i-a-serie-a-csapat-magyar-tamadoja-a-dobogos-kezdojeben-tunt-fel-az-edzomeccsen">már egy hete pályára lépett lila-fehérben.</a></p>        
         <div class="social">
-          <a href="#"><i class="bi bi-twitter"></i></a>
-          <a href="#"><i class="bi bi-facebook"></i></a>
-          <a href="#"><i class="bi bi-instagram"></i></a>
-          <a href="#"><i class="bi bi-linkedin"></i></a>
+          <a href="#"><i class="fa fa-twitter"></i></a>
+          <a href="#"><i class="fa fa-facebook"></i></a>
+          <a href="#"><i class="fa fa-instagram"></i></a>
+          <a href="#"><i class="fa fa-linkedin"></i></a>
         </div>
         <hr>
       </div>
@@ -114,10 +114,10 @@
           A 28 éves futballista 2017 januárjában szerződött a Ferencvároshoz, amelynek színeiben 2017. február 11-én, egy Budapest Honvéd elleni kupameccsen mutatkozott be, azóta pedig négy bajnoki címet és két Magyar Kupa-győzelmet ünnepelhetett a kilencedik kerületiekkel, így összesen ötszörös NB I-es bajnoknak mondhatja magát.
           Minden sorozatot és felkészülési időszakot figyelembe véve Botka eddig 230 mérkőzésen lépett pályára az FTC-ben - írja a <a href="https://www.fradi.hu/labdarugas/elso-csapat/hirek/tovabbra-is-a-fradiban-valogatott-vedonk-hivatalos" class="link">fradi.hu.</a></p>
         <div class="social">
-          <a href="#"><i class="bi bi-twitter"></i></a>
-          <a href="#"><i class="bi bi-facebook"></i></a>
-          <a href="#"><i class="bi bi-instagram"></i></a>
-          <a href="#"><i class="bi bi-linkedin"></i></a>
+          <a href="#"><i class="fa fa-twitter"></i></a>
+          <a href="#"><i class="fa fa-facebook"></i></a>
+          <a href="#"><i class="fa fa-instagram"></i></a>
+          <a href="#"><i class="fa fa-linkedin"></i></a>
         </div>
         <hr>
       </div>
@@ -131,10 +131,10 @@
           1954 szeptemberében debütált az Aranycsapatban Románia ellen. Nem volt könnyű helyzetben, ez volt a válogatott első mérkőzése az elvesztett világbajnoki döntő.
           Első sikere klubunkkal a 1958-as Magyar Népköztársasági-kupa megnyerése volt, amelyet a hatvanas években négy bajnoki cím követett (1963, 1964, 1967 és 1968), valamint a VVK-diadal.</p><br>
         <div class="social">
-          <a href="#"><i class="bi bi-twitter"></i></a>
-          <a href="#"><i class="bi bi-facebook"></i></a>
-          <a href="#"><i class="bi bi-instagram"></i></a>
-          <a href="#"><i class="bi bi-linkedin"></i></a>
+          <a href="#"><i class="fa fa-twitter"></i></a>
+          <a href="#"><i class="fa fa-facebook"></i></a>
+          <a href="#"><i class="fa fa-instagram"></i></a>
+          <a href="#"><i class="fa fa-linkedin"></i></a>
         </div>
         <hr>
       </div>
@@ -148,10 +148,10 @@
           Mivel Fehérváron az elmúlt években megszokottá vált, hogy hazai kluboktól szerződtetnek játékosokat, így honlapunk a két friss átigazolás apropóján megnézte, milyen arányban válnak be ezek az üzletek a Vidinél. Addig az évig (2016-ig) mentünk vissza, amikor a legjobb üzletet kötötték a fehérváriak Fiola Attila megszerzésével.<br>
           <b>Amint azonban az az alábbi, részletes felsorolásból is látszik, Fiola példája igen ritka, 23 érkezőből rajta kívül csak Adrian Rus, Kovács Dániel, Bolla Bendegúz és Varga József megszerzése, amire azt lehet mondani, hogy bevált igazolás volt.</b></p>
         <div class="social">
-          <a href="#"><i class="bi bi-twitter"></i></a>
-          <a href="#"><i class="bi bi-facebook"></i></a>
-          <a href="#"><i class="bi bi-instagram"></i></a>
-          <a href="#"><i class="bi bi-linkedin"></i></a>
+          <a href="#"><i class="fa fa-twitter"></i></a>
+          <a href="#"><i class="fa fa-facebook"></i></a>
+          <a href="#"><i class="fa fa-instagram"></i></a>
+          <a href="#"><i class="fa fa-linkedin"></i></a>
         </div>
         <hr>
       </div>
@@ -164,10 +164,10 @@
         A 21 éves védő tagja volt már a <a href="https://www.magyarfutball.hu/hu/bajnoki-vegeredmeny/44">kispestiek 1980-as bajnokcsapatának</a>, 1987-ig szinte csak sérülése esetén hiányzott a csapatból. Alapember volt a piros-fehérek Andrusch – Sallai, Nagy A., Garaba, Varga – Gyimesi, Sikesdi, Détári – Bodonyi, Dajka, Esterházy (Kovács K.) összeállítású, Komora Imre irányításával sorozatban három bajnoki címet is nyert együttesének. A Honvéddal a négy bajnoki cím mellett 1985-ben MNK-győztes is lett, 1982-ben, a spanyolországi világbajnokság után az MLSZ az Év játékosának választotta.
         A válogatottban Lakat Károly kapitánysága idején, 1980. április 30-án, Kassán, a csehszlovákok ellen mutatkozott be, az első gólját egy bő évvel később, a Puskás Ferenc hazatérése utáni gálameccset követően játszott, angolok elleni világbajnoki selejtezőn lőtte.</p>
         <div class="social">
-          <a href="#"><i class="bi bi-twitter"></i></a>
-          <a href="#"><i class="bi bi-facebook"></i></a>
-          <a href="#"><i class="bi bi-instagram"></i></a>
-          <a href="#"><i class="bi bi-linkedin"></i></a>
+          <a href="#"><i class="fa fa-twitter"></i></a>
+          <a href="#"><i class="fa fa-facebook"></i></a>
+          <a href="#"><i class="fa fa-instagram"></i></a>
+          <a href="#"><i class="fa fa-linkedin"></i></a>
         </div>
         <hr>
       </div>
@@ -179,10 +179,10 @@
           <p class="card-text">Kedden hivatalossá vált, hogy közös megegyezéssel megszűnt <b>Horváth Krisztofer</b> debreceni kölcsönszerződése. A 21 éves futballista az olasz Torino kölcsönjátékosaként tavaly augusztusban érkezett a DVSC-hez, melynek színeiben 7 első osztályú bajnokin lépett pályára, a kupában pedig 2 mérkőzésen 1 gólt ért el - írja a dvsc.hu.
           <b>Hayk Hovakimyan</b>, a DVSC klubigazgatója így nyilatkozott az U21-es válogatott játékos búcsúja kapcsán:</p>
         <div class="social">
-          <a href="#"><i class="bi bi-twitter"></i></a>
-          <a href="#"><i class="bi bi-facebook"></i></a>
-          <a href="#"><i class="bi bi-instagram"></i></a>
-          <a href="#"><i class="bi bi-linkedin"></i></a>
+          <a href="#"><i class="fa fa-twitter"></i></a>
+          <a href="#"><i class="fa fa-facebook"></i></a>
+          <a href="#"><i class="fa fa-instagram"></i></a>
+          <a href="#"><i class="fa fa-linkedin"></i></a>
         </div>
         <hr>
       </div>
@@ -198,10 +198,10 @@
         A BBC számolt be róla elsőként, hogy a francia válogatott és az AS Monaco támadóját, Wissam Ben Yeddert nemi erőszakkal vádolják. Délfrancia ügyészek pénteken közölték, hogy nemi erőszak és annak többszöri kísérletével vádolják a labdarúgót, aki ellen eljárást indítottak. A hírek szerint az állítólagos incidens idén júliusban történt a Cote d'Azur régióban található Beausoleilben, ennél többet azonban egyelőre nem tettek közzé a vádakról.
         Az AFP jelentése szerint 900 ezer eurós óvadékot kértek a labdarúgóra, míg a bírósági tárgyalásig felügyelet alá helyezik.</p>
         <div class="social">
-          <a href="#"><i class="bi bi-twitter"></i></a>
-          <a href="#"><i class="bi bi-facebook"></i></a>
-          <a href="#"><i class="bi bi-instagram"></i></a>
-          <a href="#"><i class="bi bi-linkedin"></i></a>
+          <a href="#"><i class="fa fa-twitter"></i></a>
+          <a href="#"><i class="fa fa-facebook"></i></a>
+          <a href="#"><i class="fa fa-instagram"></i></a>
+          <a href="#"><i class="fa fa-linkedin"></i></a>
         </div>
         <hr>
       </div>
@@ -214,10 +214,10 @@
         <b>A jelenleg az NB I második helyén álló MTK klubigazgatója, Dr. Selei András a klubhonlapon értékelte a csapat eddigi szereplését, az átigazolásokat, a csatárkérdést, de a sportvezető beszélt arról is, mi a legfontosabb cél, mit értenek értékteremtés alatt, és természetesen szóba került Kata Mihály sikeres debütálása a válogatottban, a játékos további sorsa, valamint a "fiatalpercek" is témát szolgáltattak.                
         A szezon első három fordulójában nem tudtunk nyerni, most pedig zsinórban négy tétmeccsen győztünk. A külvilág érthető módon ezt előbb egyfajta azonnali hullámvölgyként, majd pedig szárnyalásként élte meg, de hogyan kezeljük ezt mi házon belül?</b></p>
         <div class="social">
-          <a href="#"><i class="bi bi-twitter"></i></a>
-          <a href="#"><i class="bi bi-facebook"></i></a>
-          <a href="#"><i class="bi bi-instagram"></i></a>
-          <a href="#"><i class="bi bi-linkedin"></i></a>
+          <a href="#"><i class="fa fa-twitter"></i></a>
+          <a href="#"><i class="fa fa-facebook"></i></a>
+          <a href="#"><i class="fa fa-instagram"></i></a>
+          <a href="#"><i class="fa fa-linkedin"></i></a>
         </div>
         <hr>
       </div>
@@ -230,10 +230,10 @@
         Úgy tűnik, nem tett le Kerkez Milos megszerzéséről az angol együttes. Kerkez átigazolási ügye a nyári egyik slágertémája, hiszen korábban a Benfica érdeklődéséről lehetett hallani, majd úgy tűnt, a Lazio lesz a befutó. Az olaszoknak azonban keresztbe tehet a Bournemouth, amely ugyancsak jól áll a holland AZ Alkamaar 19 éves magyarjáért folytatott versenyben. Az átigazolási hírekben rendre jól értesült Fabrizio Romano úgy értesült, hogy a PL-csapat megegyezett Kerkezzel a személyes feltételekről, így gyakorlatilag most már a holland klubokon múlik, hogy a Bournemouthnak vagy a Lazionak adja el a magyar válogatott futballistát.<br>              
         <i>Kerkez szerződése 2026 nyaráig szól az AZ Alkmaarral, a játékos értékét a transfermarkt.de piaci portál 15 millió euróra becsüli.</i></p>
         <div class="social">
-          <a href="#"><i class="bi bi-twitter"></i></a>
-          <a href="#"><i class="bi bi-facebook"></i></a>
-          <a href="#"><i class="bi bi-instagram"></i></a>
-          <a href="#"><i class="bi bi-linkedin"></i></a>
+          <a href="#"><i class="fa fa-twitter"></i></a>
+          <a href="#"><i class="fa fa-facebook"></i></a>
+          <a href="#"><i class="fa fa-instagram"></i></a>
+          <a href="#"><i class="fa fa-linkedin"></i></a>
         </div>
         <hr>
       </div>
@@ -248,10 +248,10 @@
         Lang hozzátette, tervei szerint kitölti 2025 nyaráig szóló szerződését az Omoniánál, ahol jól érzi magát, vannak elvárások, és adott, hogy akár minden évben valamelyik európai kupasorozat főtábláján szerepeljenek.<br>
         <i>„Hosszabb távra több tervem is van, megfelelő ajánlat esetén nyilván kipróbálnám magam máshol is, de jól érzem magam Cipruson. Később ugyanakkor szívesen zárnám le futball-pályafutásomat akár odahaza is”</i> – jelentette ki a hátvéd.</p>
         <div class="social">
-          <a href="#"><i class="bi bi-twitter"></i></a>
-          <a href="#"><i class="bi bi-facebook"></i></a>
-          <a href="#"><i class="bi bi-instagram"></i></a>
-          <a href="#"><i class="bi bi-linkedin"></i></a>
+          <a href="#"><i class="fa fa-twitter"></i></a>
+          <a href="#"><i class="fa fa-facebook"></i></a>
+          <a href="#"><i class="fa fa-instagram"></i></a>
+          <a href="#"><i class="fa fa-linkedin"></i></a>
         </div>
         <hr>
       </div>
@@ -263,10 +263,10 @@
         <p><em>A labdarúgó NB I-ben szereplő Ferencváros hivatalos honlapján tudatta, hogy nem vezettek eredményre a Benficával folytatott tárgyalások Csoboth Kevin átigazolása kapcsán, így a zöld-fehérek a megoldás érdekében a FIFA vitarendező szervéhez fordulnak. 
         Emellett az FTC „fiktív átigazolás gyanúja miatt” a következő napokban büntetőfeljelentést tesz csalás, valamint okirat-hamisítás ügyében.</em></p>
         <div class="social">
-          <a href="#"><i class="bi bi-twitter"></i></a>
-          <a href="#"><i class="bi bi-facebook"></i></a>
-          <a href="#"><i class="bi bi-instagram"></i></a>
-          <a href="#"><i class="bi bi-linkedin"></i></a>
+          <a href="#"><i class="fa fa-twitter"></i></a>
+          <a href="#"><i class="fa fa-facebook"></i></a>
+          <a href="#"><i class="fa fa-instagram"></i></a>
+          <a href="#"><i class="fa fa-linkedin"></i></a>
         </div>
         <hr>
       </div>
@@ -278,10 +278,10 @@
         <p class="card-text"><i>A magyar válogatott parádés teljesítményt nyújtott az utóbbi meccsein, ennek köszönhetően kijutott az Eb-re, valamint a Nemzetek Ligájában feljutott a legmagasabb osztályba. Együttesünkben Nagy Ádám ezúttal is letette a névjegyét. A 25 esztendős futballista 2016 és 2019 között a Bologna csapatát erősítette, majd ezt követően igazolt a Bristol Cityhez. Nagy a tuttomercatoweb.com-nak elmondta, szívesen visszatérne Olaszországba.
         "Olaszországot a második otthonomnak tartom, így szívesen játszanék ismét ott. Amennyiben a klubomban és a válogatottban jó teljesítményt nyújtok, lesz is erre lehetőségem" – mutatott rá Nagy.</i></p>
         <div class="social">
-          <a href="#"><i class="bi bi-twitter"></i></a>
-          <a href="#"><i class="bi bi-facebook"></i></a>
-          <a href="#"><i class="bi bi-instagram"></i></a>
-          <a href="#"><i class="bi bi-linkedin"></i></a>
+          <a href="#"><i class="fa fa-twitter"></i></a>
+          <a href="#"><i class="fa fa-facebook"></i></a>
+          <a href="#"><i class="fa fa-instagram"></i></a>
+          <a href="#"><i class="fa fa-linkedin"></i></a>
         </div>
         <hr>
       </div>
@@ -294,10 +294,10 @@
         Becenevét saját bevallása szerint onnan kapta, hogy nem volt olyan labda, amit ne próbált volna megszerezni, kicsikarni. Mások szerint viszont csapattársai labdakérései során kiabált Karcsi-Karcsi alakult Csikarrá.<br>
         Saját nevelésű középpályásunk 2019 januárjában klubunktól szerződött külföldre, a Genoa csapatához, majd 2022 januárjában, dunaszerdahelyi kitérő a Bundesligába igazolt. Egyike azoknak, akik a Sándor Károly Labdarúgó Akadémiáról kikerülve lettek felnőtt válogatottak, a magyar labdarúgó-válogatott tagjaként mindhárom mérkőzésen pályára lépett a nyári Európa-bajnokságon, Németország ellen pedig emlékezetes gólt fejelt. Az ott nyújtott kiemelkedő teljesítményének is köszönhetően több klub érdeklődését felkeltette, és most a Bundesligában szereplő 1. FC Union Berlin együtteséhez szerződött.</p><br>
         <div class="social">
-          <a href="#"><i class="bi bi-twitter"></i></a>
-          <a href="#"><i class="bi bi-facebook"></i></a>
-          <a href="#"><i class="bi bi-instagram"></i></a>
-          <a href="#"><i class="bi bi-linkedin"></i></a>
+          <a href="#"><i class="fa fa-twitter"></i></a>
+          <a href="#"><i class="fa fa-facebook"></i></a>
+          <a href="#"><i class="fa fa-instagram"></i></a>
+          <a href="#"><i class="fa fa-linkedin"></i></a>
         </div>
         <hr>
       </div>
@@ -309,10 +309,10 @@
         <p class="card-text">Sipos tartja a magyar rekordot: 1957. szeptember 15. és 1963. május 19. között egyetlen hivatalos válogatott találkozót sem hagyott ki. Így sorozatban 57 mérkőzésen lépett pályára. Utolsó meccse a válogatottban az 1966-os Magyarország-Ausztria (3–1) mérkőzés volt.<br>
         A nemzeti csapatban 1957 és 1966 között 77 mérkőzésen játszott. Egyetlen gólját 1964-ben a Franciaország elleni Európa-bajnoki selejtezőn szerezte. Sipos három világbajnokságon (1958, 1962, 1966) szerepelt a válogatottal. Az 1958-as tornán a Wales ellen játszott „csoportdöntőn” a játékvezető kiállította a 85. percben, 1962-ben és 1966-ban a vb-negyeddöntőig jutott a válogatottal. 1964-ben Európa-bajnoki bronzérmes volt a nemzeti együttes tagjaként.</p>
         <div class="social">
-          <a href="#"><i class="bi bi-twitter"></i></a>
-          <a href="#"><i class="bi bi-facebook"></i></a>
-          <a href="#"><i class="bi bi-instagram"></i></a>
-          <a href="#"><i class="bi bi-linkedin"></i></a>
+          <a href="#"><i class="fa fa-twitter"></i></a>
+          <a href="#"><i class="fa fa-facebook"></i></a>
+          <a href="#"><i class="fa fa-instagram"></i></a>
+          <a href="#"><i class="fa fa-linkedin"></i></a>
         </div>
         <hr>
       </div>
@@ -323,10 +323,10 @@
         <span class="d-block mb-3 text-uppercase">Született: 1987. december 9. (életkor 36 év), Budapest</span>
         <p class="card-text">A magyar válogatott Szalai Attila a Hoffenheim labdarúgócsapatában folytatja pályafutását. A 25 éves védő átigazolását a német klub a közösségi oldalán jelentette be, és a videóban szerepelt Szalai Ádám is, aki 2014 és 2019 között volt a Hoffenheim játékosa. A gödi nevelésű középhátvéd az Austria Wienben lett profi játékos, az osztrák klub után Mezőkövesden, majd a ciprusi Apollon Limasszolban játszott, mielőtt 2021 januárjában Törökországba igazolt, és a Fenerbahcében 117 mérkőzésen szerepelt. </p>
         <div class="social">
-          <a href="#"><i class="bi bi-twitter"></i></a>
-          <a href="#"><i class="bi bi-facebook"></i></a>
-          <a href="#"><i class="bi bi-instagram"></i></a>
-          <a href="#"><i class="bi bi-linkedin"></i></a>
+          <a href="#"><i class="fa fa-twitter"></i></a>
+          <a href="#"><i class="fa fa-facebook"></i></a>
+          <a href="#"><i class="fa fa-instagram"></i></a>
+          <a href="#"><i class="fa fa-linkedin"></i></a>
         </div>
         <hr>
       </div>
@@ -340,10 +340,10 @@
         A Svájcból hazatérő Vanczák tavaly két esztendőre írt alá a felcsútiaknak, méghozzá abban a reményben, hogy a klub a visszavonulása után is számít rá.<br>
         Mint korábban beszámoltunk róla, alighanem két további válogatott játékos, Forró Gyula és Sándor György is távozik a PFLA-tól. A felcsútiak nem mindennapi, mai igazolásairól, kattintás után lehet tájékozódni.</p>
         <div class="social">
-          <a href="#"><i class="bi bi-twitter"></i></a>
-          <a href="#"><i class="bi bi-facebook"></i></a>
-          <a href="#"><i class="bi bi-instagram"></i></a>
-          <a href="#"><i class="bi bi-linkedin"></i></a>
+          <a href="#"><i class="fa fa-twitter"></i></a>
+          <a href="#"><i class="fa fa-facebook"></i></a>
+          <a href="#"><i class="fa fa-instagram"></i></a>
+          <a href="#"><i class="fa fa-linkedin"></i></a>
         </div>
         <hr>
       </div>
@@ -383,8 +383,8 @@
               <p class="card-text"><b>Alapítva: </b> 1902. március 12.</p>
               <p class="card-text"><b>Stadion: </b> Nagyerdei stadion</p>
               <p class="card-text"><b>Vezetőedző: </b> Srdjan Blagojevic(Szerb)</p>
-              <a href="kepek/csapatok/DVSC1.png" title="Remodeling 1" data-gallery="portfolio-gallery-remodeling" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-              <a href="kepek/csapatok/DVSC1.png" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+              <a href="kepek/csapatok/DVSC1.png" title="Remodeling 1" data-gallery="portfolio-gallery-remodeling" class="glightbox preview-link"><i class="fa fa-zoom-in"></i></a>
+              <a href="kepek/csapatok/DVSC1.png" title="More Details" class="details-link"><i class="fa fa-link fa-stack-1x fa-inverse"></i></a>
             </div>
           </div>
         </div><!-- End Projects Item -->
@@ -398,8 +398,8 @@
               <p class="card-text"><b>Alapítva </b>1910. február 6</p>
               <p class="card-text"><b>Stadion: </b>DVTK-stadion</p>
               <p class="card-text"><b>Vezetőedző: </b>Kuznyecov Szergej(Ukrán/Magyar)</p>  
-              <a href="kepek/csapatok/DVTK1.png" title="Construction 1" data-gallery="portfolio-gallery-construction" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-              <a href="kepek/csapatok/DVTK1.png" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+              <a href="kepek/csapatok/DVTK1.png" title="Construction 1" data-gallery="portfolio-gallery-construction" class="glightbox preview-link"><i class="fa fa-zoom-in"></i></a>
+              <a href="kepek/csapatok/DVTK1.png" title="More Details" class="details-link"><i class="fa fa-link fa-stack-1x fa-inverse"></i></a>
             </div>
           </div>
         </div><!-- End Projects Item -->
@@ -413,8 +413,8 @@
               <p class="card-text"><b>Alapítva </b>1941</p>
               <p class="card-text"><b>Stadion: </b>Sóstói Stadion</p>
               <p class="card-text"><b>Vezetőedző: </b>Bartosz Grzelak</p>
-              <a href="kepek/csapatok/fehervar1.png" title="Repairs 1" data-gallery="portfolio-gallery-repairs" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-              <a href="kepek/csapatok/fehervar1.png" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+              <a href="kepek/csapatok/fehervar1.png" title="Repairs 1" data-gallery="portfolio-gallery-repairs" class="glightbox preview-link"><i class="fa fa-zoom-in"></i></a>
+              <a href="kepek/csapatok/fehervar1.png" title="More Details" class="details-link"><i class="fa fa-link fa-stack-1x fa-inverse"></i></a>
             </div>
           </div>
         </div><!-- End Projects Item -->
@@ -428,8 +428,8 @@
               <p class="card-text"><b>Alapítva: </b> 1899. május 3.</p>
               <p class="card-text"><b>Stadion: </b> Groupama Aréna</p>
               <p class="card-text"><b>Vezetőedző: </b> Dejan Stankovic(Szeerb)</p>
-              <a href="kepek/csapatok/DVTK1.png" title="Construction 1" data-gallery="portfolio-gallery-construction" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-              <a href="kepek/csapatok/DVTK1.png" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+              <a href="kepek/csapatok/DVTK1.png" title="Construction 1" data-gallery="portfolio-gallery-construction" class="glightbox preview-link"><i class="fa fa-zoom-in"></i></a>
+              <a href="kepek/csapatok/DVTK1.png" title="More Details" class="details-link"><i class="fa fa-link fa-stack-1x fa-inverse"></i></a>
             </div>
           </div>
         </div><!-- End Projects Item -->
@@ -442,8 +442,8 @@
               <p class="card-text"><b>Alapítva </b>1911</p>
               <p class="card-text"><b>Stadion: </b>Várkerti Stadion</p>
               <p class="card-text"><b>Vezetőedző: </b>Mátyus János</p>
-              <a href="kepek/csapatok/kisvarda1.png" title="Remodeling 2" data-gallery="portfolio-gallery-remodeling" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-              <a href="kepek/csapatok/kisvarda1.png" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+              <a href="kepek/csapatok/kisvarda1.png" title="Remodeling 2" data-gallery="portfolio-gallery-remodeling" class="glightbox preview-link"><i class="fa fa-zoom-in"></i></a>
+              <a href="kepek/csapatok/kisvarda1.png" title="More Details" class="details-link"><i class="fa fa-link fa-stack-1x fa-inverse"></i></a>
             </div>
           </div>
         </div><!-- End Projects Item -->
@@ -456,8 +456,8 @@
               <p class="card-text"><b>Alapítva </b>1975. január 31.</p>
               <p class="card-text"><b>Stadion: </b>Városi stadion</p>
               <p class="card-text"><b>Vezetőedző: </b>Kuttor Attila</p>
-              <a href="kepek/csapatok/kovesd1.png" title="Construction 2" data-gallery="portfolio-gallery-construction" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-              <a href="kepek/csapatok/kovesd1.png" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+              <a href="kepek/csapatok/kovesd1.png" title="Construction 2" data-gallery="portfolio-gallery-construction" class="glightbox preview-link"><i class="fa fa-zoom-in"></i></a>
+              <a href="kepek/csapatok/kovesd1.png" title="More Details" class="details-link"><i class="fa fa-link fa-stack-1x fa-inverse"></i></a>
             </div>
           </div>
         </div><!-- End Projects Item -->
@@ -471,8 +471,8 @@
               <p class="card-text"><b>Alapítva </b>1911. június 11.</p>
               <p class="card-text"><b>Stadion: </b>Széktói Stadion</p>
               <p class="card-text"><b>Vezetőedző: </b>Szabó István</p>
-              <a href="kepek/csapatok/KTE1.png" title="Repairs 2" data-gallery="portfolio-gallery-repairs" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-              <a href="kepek/csapatok/KTE1.png" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+              <a href="kepek/csapatok/KTE1.png" title="Repairs 2" data-gallery="portfolio-gallery-repairs" class="glightbox preview-link"><i class="fa fa-zoom-in"></i></a>
+              <a href="kepek/csapatok/KTE1.png" title="More Details" class="details-link"><i class="fa fa-link fa-stack-1x fa-inverse"></i></a>
             </div>
           </div>
         </div><!-- End Projects Item -->
@@ -486,8 +486,8 @@
               <p class="card-text"><b>Alapítva </b>1888. november 16.</p>
               <p class="card-text"><b>Stadion: </b>Új Hidegkuti Nándor Stadion</p>
               <p class="card-text"><b>Vezetőedző: </b>Horváth Dávid</p>
-              <a href="kepek/csapatok/MTK1.png" title="Repairs 2" data-gallery="portfolio-gallery-book" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-              <a href="kepek/csapatok/MTK1.png" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+              <a href="kepek/csapatok/MTK1.png" title="Repairs 2" data-gallery="portfolio-gallery-book" class="glightbox preview-link"><i class="fa fa-zoom-in"></i></a>
+              <a href="kepek/csapatok/MTK1.png" title="More Details" class="details-link"><i class="fa fa-link fa-stack-1x fa-inverse"></i></a>
             </div>
           </div>
         </div><!-- End Projects Item -->
@@ -500,8 +500,8 @@
               <p class="card-text"><b>Alapítva </b>2005</p>
               <p class="card-text"><b>Stadion: </b>Pancho Aréna</p>
               <p class="card-text"><b>Vezetőedző: </b>Hornyák Zsolt</p>
-              <a href="kepek/csapatok/PAFC1.png" title="Remodeling 3" data-gallery="portfolio-gallery-remodeling" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-              <a href="kepek/csapatok/PAFC1.png" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+              <a href="kepek/csapatok/PAFC1.png" title="Remodeling 3" data-gallery="portfolio-gallery-remodeling" class="glightbox preview-link"><i class="fa fa-zoom-in"></i></a>
+              <a href="kepek/csapatok/PAFC1.png" title="More Details" class="details-link"><i class="fa fa-link fa-stack-1x fa-inverse"></i></a>
             </div>
           </div>
         </div><!-- End Projects Item -->
@@ -515,8 +515,8 @@
               <p class="card-text"><b>Alapítva </b>1952. november 28.</p>
               <p class="card-text"><b>Stadion: </b>Fehérvári úti stadion</p>
               <p class="card-text"><b>Vezetőedző: </b>Bognár György</p>
-              <a href="kepek/csapatok/PFC1.png" title="Construction 3" data-gallery="portfolio-gallery-construction" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-              <a href="kepek/csapatok/PFC1.png" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+              <a href="kepek/csapatok/PFC1.png" title="Construction 3" data-gallery="portfolio-gallery-construction" class="glightbox preview-link"><i class="fa fa-zoom-in"></i></a>
+              <a href="kepek/csapatok/PFC1.png" title="More Details" class="details-link"><i class="fa fa-link fa-stack-1x fa-inverse"></i></a>
             </div>
           </div>
         </div><!-- End Projects Item -->
@@ -530,8 +530,8 @@
               <p class="card-text"><b>Alapítva: </b>1885. június 16.</p>
               <p class="card-text"><b>Stadion: </b>Szusza Ferenc Stadion</p>
               <p class="card-text"><b>Vezetőedző: </b>Nebojsa Vignjevic(Szerb)</p>
-              <a href="kepek/csapatok/UTE1.png" title="Repairs 2" data-gallery="portfolio-gallery-repairs" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-              <a href="kepek/csapatok/UTE1.png" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+              <a href="kepek/csapatok/UTE1.png" title="Repairs 2" data-gallery="portfolio-gallery-repairs" class="glightbox preview-link"><i class="fa fa-zoom-in"></i></a>
+              <a href="kepek/csapatok/UTE1.png" title="More Details" class="details-link"><i class="fa fa-link fa-stack-1x fa-inverse"></i></a>
             </div>
           </div>
         </div><!-- End Projects Item -->
@@ -545,8 +545,8 @@
               <p class="card-text"><b>Alapítva </b>1920</p>
               <p class="card-text"><b>Stadion: </b>ZTE Aréna</p>
               <p class="card-text"><b>Vezetőedző: </b>Boér Gábor</p>
-              <a href="kepek/csapatok/zte1.png" title="Repairs 3" data-gallery="portfolio-gallery-book" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-              <a href="kepek/csapatok/zte1.png" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+              <a href="kepek/csapatok/zte1.png" title="Repairs 3" data-gallery="portfolio-gallery-book" class="glightbox preview-link"><i class="fa fa-zoom-in"></i></a>
+              <a href="kepek/csapatok/zte1.png" title="More Details" class="details-link"><i class="fa fa-link fa-stack-1x fa-inverse"></i></a>
             </div>
           </div>
         </div><!-- End Projects Item -->
@@ -574,9 +574,9 @@
             Reméljük hogy legközelebb is visszatér/visszatlnek oldalunkra és minket választanak a jövőben is.
           </p>
           <ul>
-            <li><i class="bi bi-check-circle-fill"></i> Megbeszélés</li>
-            <li><i class="bi bi-check-circle-fill"></i> Barátság</li>
-            <li><i class="bi bi-check-circle-fill"></i> Vidámság</li>
+            <li><i class="fa fa-check-circle-fill"></i> Megbeszélés</li>
+            <li><i class="fa fa-check-circle-fill"></i> Barátság</li>
+            <li><i class="fa fa-check-circle-fill"></i> Vidámság</li>
           </ul>
           <p> "Van-e bármi a világon a focin kívül, ami egyszerre tanít meg már az első percben arra, hogy akármi történik is, elfogadjuk a sorsunkat, de az utolsó percig higgyünk a csodában?"</p>
           <p>"Ha meghalok, és újjászületek, megint focista akarok lenni. És ismét Diego Armando Maradona. Olyan játékos vagyok, aki örömet okozott az embereknek, és ez nekem elég."</p>

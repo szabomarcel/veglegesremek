@@ -72,7 +72,7 @@
             <h2>Comments</h2>
             <ul id="comment-list"></ul>
             <input type="text" id="comment-input" placeholder="Add a comment...">
-            <a href="index.php?menuItem=velemeny&nev_id=<?php echo $adatok['nev_id'];?>" class="btn btn-dark" onclick="addComment()">Add Comment</a>
+            <a href="#" class="btn btn-dark" onclick="addComment()">Add Comment</a>
             <!--<button onclick="addComment()">Add Comment</button>-->
         </div>
     </div>
