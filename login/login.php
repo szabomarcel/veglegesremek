@@ -1,12 +1,12 @@
 <?php
 if (filter_input(INPUT_POST,'belepesiAdatok',FILTER_VALIDATE_BOOLEAN,FILTER_NULL_ON_FAILURE)) {
-//-- A kapott adatok feldolgozása required   
-$name = htmlspecialchars(filter_input(INPUT_POST, 'name'));
-$pass1 = htmlspecialchars(filter_input(INPUT_POST, 'password'));
+  //-- A kapott adatok feldolgozása required   
+  $name = htmlspecialchars(filter_input(INPUT_POST, 'name'));
+  $pass1 = htmlspecialchars(filter_input(INPUT_POST, 'password'));
 
-if ($db->login($name, $pass1)) {
-  $_SESSION['login'] !== true;
-}
+  if ($db->login($name, $pass1)) {
+    $_SESSION['login'] !== true;
+  }
 }
 ?>
 <section class="vh-100">
@@ -20,15 +20,15 @@ if ($db->login($name, $pass1)) {
         <div class="d-flex flex-row align-items-center justify-content-center justify-content-lg-start">
           <p class="lead fw-normal mb-0 me-3">Sign in with</p>
           <button type="button" class="btn btn-primary btn-floating mx-1">
-            <i class="fab fa-facebook-f"></i>
+            <i class="fa fa-facebook-f"></i>
           </button>
           
           <button type="button" class="btn btn-primary btn-floating mx-1">
-            <i class="fab fa-twitter"></i>
+            <i class="fa fa-twitter"></i>
           </button>
           
           <button type="button" class="btn btn-primary btn-floating mx-1">
-            <i class="fab fa-linkedin-in"></i>
+            <i class="fa fa-linkedin"></i>
           </button>
         </div>
         
@@ -81,13 +81,13 @@ if ($db->login($name, $pass1)) {
     <!-- Right -->
     <div>
       <a href="#!" class="text-white me-4">
-        <i class="fab fa-facebook-f"></i>
+        <i class="fa fa-facebook-f"></i>
       </a>
       <a href="#!" class="text-white me-4">
-        <i class="fab fa-twitter"></i>
+        <i class="fa fa-twitter"></i>
       </a>
       <a href="#!" class="text-white me-4">
-        <i class="fab fa-google"></i>
+        <i class="fa fa-google"></i>
       </a>
       <a href="#!" class="text-white">
         <i class="fab fa-linkedin-in"></i>
