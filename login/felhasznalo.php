@@ -1,11 +1,51 @@
 <?php
-$id = filter_input(INPUT_POST, "id", FILTER_SANITIZE_NUMBER_INT);
-$name = htmlspecialchars(filter_input(INPUT_POST, "name"));
+if (filter_input(INPUT_POST, "Adatmodositas", FILTER_VALIDATE_BOOL, FILTER_NULL_ON_FAILURE)) {
+    $adatok = $_POST;
+    var_dump($adatok);
+    $id = filter_input(INPUT_POST, "id", FILTER_SANITIZE_NUMBER_INT);
+    $igazolvany = filter_input(INPUT_POST, "igazolvany");
+    $email = filter_input(INPUT_POST, "email");
+    $date = filter_input(INPUT_POST, "date");
+    $mennyiseg = filter_input(INPUT_POST, "mennyiseg");
+    $jegyt = filter_input(INPUT_POST, "jegyt");
+    $from = null;
+    $to = null;
+    if ($db->setKivalasztottkerekpar($id, $igazolvany, $email, $date, $mennyiseg, $jegyt)) {
+        echo '<p>Az adatok módosítása sikeres</p>';
+        header("Location: index.php?menu=home");
+    } else {
+        echo '<p>Az adatok módosítása sikertelen!</p>';
+    }
+} else {
+    //$adatok = $db->setKivalasztottfocista($id, $igazolvany, $email, $date, $mennyiseg, $jegyt);
+}
+//$adatok = $db->setKivalasztottfocista($id, $igazolvany, $email, $date, $mennyiseg, $jegyt);
+
+if (filter_input(INPUT_POST, "Egyszarvu", FILTER_VALIDATE_BOOL, FILTER_NULL_ON_FAILURE)) {
+    $adatok = $_POST;
+    var_dump($adatok);
+    $id = filter_input(INPUT_POST, "id", FILTER_SANITIZE_NUMBER_INT);
+    $igazolvany = filter_input(INPUT_POST, "igazolvany");
+    $email = filter_input(INPUT_POST, "email");
+    $date = filter_input(INPUT_POST, "date");
+    $mennyiseg = filter_input(INPUT_POST, "mennyiseg");
+    $jegyt = filter_input(INPUT_POST, "jegyt");
+    if ($db->setKivalasztotttorlottfocista($id)) {
+        echo '<p>Az adat sikeresesn törölve</p>';
+        header("Location: index.php?menuItem=register");
+    } else {
+        echo '<p>Az adat sikertelen törlése!</p>';
+    }
+} else {
+    //$adatok = $db->getKivalasztotttorlottfocista($id);
+}
+
+/*$id = filter_input(INPUT_POST, "id", FILTER_SANITIZE_NUMBER_INT);
+$igazolvany = filter_input(INPUT_POST, "igazolvany");
 $email = filter_input(INPUT_POST, "email");
-$jegyt = filter_input(INPUT_POST, "jegyt");
-$pass1 = filter_input(INPUT_POST, "password");
-$gender = filter_input(INPUT_POST, "gender");
 $date = filter_input(INPUT_POST, "date");
+$mennyiseg = filter_input(INPUT_POST, "mennyiseg");
+$jegyt = filter_input(INPUT_POST, "jegyt");
 
 if (filter_input(INPUT_POST, "Adatmodositas", FILTER_VALIDATE_BOOL, FILTER_NULL_ON_FAILURE)) {
     $adatok = $db->getKivalasztotttorlottfocista($id);
@@ -31,7 +71,7 @@ if (filter_input(INPUT_POST, "Adatmodositas", FILTER_VALIDATE_BOOL, FILTER_NULL_
     }
 } else {
     // Ebben az ágban marad az eredeti $adatok értéke, ha nincs POST kérés
-}
+}*/
 ?>
 <section class="text-center text-lg-start">
 <!-- Jumbotron -->

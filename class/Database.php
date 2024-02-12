@@ -69,7 +69,7 @@ class Database {
     }
 
     public function getKivalasztotttorlottfocista($id) {
-        $result = $this->db->query("SELECT * FROM `users` WHERE id=" . $id);
+        $result = $this->db->query("SELECT * FROM `users` WHERE `id=`" . $id);
         return $result->fetch_assoc();
     }  
 
