@@ -56,9 +56,9 @@ class Database {
         return $result->fetch_all(MYSQLI_ASSOC);
     }*/
 
-    public function setKivalasztottfocista($id, $name, $email, $jegyt, $igazolvany, $pass1, $gende, $date) {
-        $stmt = $this->db->prepare("UPDATE `users` SET `name`= ?,`email`= ?, `jegyt`= ?,`igazolvanyszam`= ?, `password`= ?, `gender` = ? WHERE id= ?");
-        $stmt->bind_param('ssssssi', $name, $email, $jegyt, $igazolvany, $pass1, $date, $gende, $id);
+    public function setKivalasztottfocista($id, $igazolvany, $email, $date, $mennyiseg, $jegyt) {
+        $stmt = $this->db->prepare("UPDATE `users` SET `igazolvany`= ?,`email`= ?, `date`= ?,`mennyiseg`= ?, `jegyt`= ? WHERE id= ?");
+        $stmt->bind_param('sssssi',$igazolvany, $email, $date, $mennyiseg, $jegyt, $id);
         return $stmt->execute();
     }
     
@@ -69,7 +69,7 @@ class Database {
     }
 
     public function getKivalasztotttorlottfocista($id) {
-        $result = $this->db->query("SELECT * FROM `users` WHERE `id=`" . $id);
+        $result = $this->db->query("SELECT * FROM `users` WHERE `id`" . $id);
         return $result->fetch_assoc();
     }  
 
@@ -92,7 +92,7 @@ class Database {
 
     public function getVelemenyTorlo($nev_id){
         $stmt = $this->db->prepare("DELETE FROM `velemeny` WHERE nev_id=" . $nev_id); 
-        $stmt -> bind_param("nev_id", $nev_id);
+        $stmt -> bind_param("i", $nev_id);
         return $stmt->execute();
     }
 }
