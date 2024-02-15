@@ -27,26 +27,30 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $mysqli->close();
 }*/
 ?>
-
-<form action="process_payment.php" method="post">
-    <!-- Your existing form fields go here -->
-
-    <div class="field-container">
-        <label for="name">Name</label>
-        <input id="name" name="name" maxlength="20" type="text">
+<div class="container">
+  <h2>Credit Card Information</h2>
+  <form action="#" method="post">
+    <label for="card-number">Card Number:</label>
+    <input type="text" id="card-number" name="card-number" placeholder="1234 5678 9012 3456" required maxlength="19">
+    <label for="card-holder">Card Holder:</label>
+    <input type="text" id="card-holder" name="card-holder" placeholder="John Doe" required>
+    <div style="display: flex; justify-content: space-between;">
+      <div style="flex: 1; margin-right: 10px;">
+        <label for="expiration-date">Expiration Date:</label>
+        <input type="text" id="expiration-date" name="expiration-date" placeholder="MM/YY" required maxlength="5">
+      </div>
+      <div style="flex: 1; margin-left: 10px;">
+        <label for="cvv">CVV:</label>
+        <input type="password" id="cvv" name="cvv" placeholder="123" required maxlength="3">
+      </div>
     </div>
-    <div class="field-container">
-        <label for="cardnumber">Card Number</label><span id="generatecard">generate random</span>
-        <input id="cardnumber" name="cardnumber" type="text" pattern="[0-9]*" inputmode="numeric">
+    <div class="row">
+        <div class="col-6">
+            <input type="submit" value="Megvásárlom">
+        </div>
+        <div class="col-6">
+            <a href="index.php?menuItem=felhasznalo" class="btn btn-info btn-block mb-4">Vissza</a> 
+        </div>
     </div>
-    <div class="field-container">
-        <label for="expirationdate">Expiration (mm/yy)</label>
-        <input id="expirationdate" name="expirationdate" type="text" pattern="[0-9]*" inputmode="numeric">
-    </div>
-    <div class="field-container">
-        <label for="securitycode">Security Code</label>
-        <input id="securitycode" name="securitycode" type="text" pattern="[0-9]*" inputmode="numeric">
-    </div>
-
-    <button type="submit">Submit Payment</button>
-</form>
+  </form>
+</div>

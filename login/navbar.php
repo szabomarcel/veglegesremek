@@ -31,12 +31,6 @@
                                     <a class="nav-link navbar navbar-black bg-light' . ($menuItem == 'felhasznalo'?' active' : '') .'"href="index.php?menuItem=felhasznalo">Profilom <img src="kepek/navbar/profile.png" height="25" alt="Black and White Portrait of a Man" loading="lazy"/></a>
                                 </li>
                                 <li class="nav-item">
-                                    <a class="nav-link navbar navbar-black bg-light' . ($menuItem == 'card'?' active' : '') .'"href="index.php?menuItem=card">Credit <img src="kepek/navbar/profile.png" height="25" alt="Black and White Portrait of a Man" loading="lazy"/></a>
-                                </li>
-                                <li class="nav-item">
-                                    <a class="nav-link navbar navbar-black bg-light' . ($menuItem == 'velemeny'?' active' : '') .'"href="index.php?menuItem=velemeny">Vélemény <img src="kepek/navbar/profile.png" height="25" alt="Black and White Portrait of a Man" loading="lazy"/></a>
-                                </li>
-                                <li class="nav-item">
                                     <a class="nav-link navbar navbar-light bg-light' . ($menuItem == 'logout'?' active' : '') .'"href="index.php?menuItem=logout">Kijelentkezés <img src="kepek/navbar/logout.png" height="25" alt="Black and White Portrait of a Man" loading="lazy"/></a>
                                 </li>
                             </ul>

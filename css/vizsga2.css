@@ -2385,126 +2385,51 @@ section {
 /*##########*/
 
 /* Credit Card */
-.credit-card {
-  width: 360px;
-  height: 400px;
-  margin: 60px auto 0;
-  border: 1px solid #ddd;
-  border-radius: 6px;
-  background-color: #fff;
-  box-shadow: 1px 2px 3px 0 rgba(0,0,0,.10);
-}
 
-.form-header {
-  height: 60px;
-  padding: 20px 30px 0;
-  border-bottom: 1px solid #e1e8ee;
-}
-
-.form-body {
-  height: 340px;
-  padding: 30px 30px 20px;
-}
-
-/* Title */
-.title {
-    font-size: 18px;
-    margin: 0;
-    color: #5e6977;
-}
-
-/* Common */
-.card-number,
-.cvv-input input,
-.month select,
-.year select {
-    font-size: 14px;
-    font-weight: 100;
-    line-height: 14px;
-}
- 
-.card-number,
-.month select,
-.year select {
-    font-size: 14px;
-    font-weight: 100;
-    line-height: 14px;
-}
- 
-.card-number,
-.cvv-details,
-.cvv-input input,
-.month select,
-.year select {
-    opacity: .7;
-    color: #86939e;
-}
-
-.card-number {
-  width: 100%;
-  margin-bottom: 20px;
-  padding-left: 20px;
-  border: 2px solid #e1e8ee;
-  border-radius: 6px;
-}
-
-.month select,
-.year select {
-    width: 145px;
-    margin-bottom: 20px;
-    padding-left: 20px;
-    border: 2px solid #e1e8ee;
-    border-radius: 6px;
-    background: url('caret.png') no-repeat;
-    background-position: 85% 50%;
-}
- 
-.month select {
-    float: left;
-}
- 
-.year select {
-    float: right;
-}
-
-cvv-input input {
-  float: left;
-  width: 145px;
-  padding-left: 20px;
-  border: 2px solid #e1e8ee;
-  border-radius: 6px;
-  background: #fff;
-}
-
-.cvv-details {
-  font-size: 12px;
-  font-weight: 300;
-  line-height: 16px;
-  float: right;
+h2 {
+  text-align: center;
   margin-bottom: 20px;
 }
 
-.cvv-details p {
-  margin-top: 6px;
+form {
+  display: flex;
+  flex-direction: column;
 }
 
-cvv-input input {
-  float: left;
-  width: 145px;
-  padding-left: 20px;
-  border: 2px solid #e1e8ee;
-  border-radius: 6px;
-  background: #fff;
+label {
+  margin-bottom: 8px;
 }
 
-.cvv-details {
-  font-size: 12px;
-  font-weight: 300;
-  line-height: 16px;
-  float: right;
-  margin-bottom: 20px;
+input[type="text"],
+input[type="password"],
+input[type="submit"] {
+  padding: 10px;
+  margin-bottom: 15px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
 }
 
-.cvv-details p {
-  margin-top: 6px;
+input[type="submit"] {
+  background-color: #4caf50;
+  color: white;
+  cursor: pointer;
+}
+
+input[type="submit"]:hover {
+  background-color: #45a049;
+}
+
+.flex-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.flex-item {
+  flex: 1;
+}
+
+@media screen and (max-width: 600px) {
+  .flex-container {
+    flex-direction: column;
+  }
 }

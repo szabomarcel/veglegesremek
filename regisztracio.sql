@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Gép: 127.0.0.1
--- Létrehozás ideje: 2024. Feb 08. 11:23
+-- Létrehozás ideje: 2024. Feb 15. 11:01
 -- Kiszolgáló verziója: 10.4.32-MariaDB
 -- PHP verzió: 8.2.12
 
@@ -55,8 +55,11 @@ INSERT INTO `users` (`id`, `name`, `email`, `jegyt`, `mennyiseg`, `igazolvany`, 
 --
 
 CREATE TABLE `velemeny` (
-  `nev_id` int(100) UNSIGNED NOT NULL,
-  `komment` text NOT NULL,
+  `velemeny_id` int(11) UNSIGNED NOT NULL,
+  `name` varchar(50) NOT NULL,
+  `comment` varchar(50) NOT NULL,
+  `date` varchar(50) NOT NULL,
+  `reply_id` int(11) NOT NULL,
   `csillag` enum('csillag1','csillag2','csillag3','csillag4','csillag5') NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
 
@@ -75,7 +78,8 @@ ALTER TABLE `users`
 -- A tábla indexei `velemeny`
 --
 ALTER TABLE `velemeny`
-  ADD PRIMARY KEY (`nev_id`);
+  ADD PRIMARY KEY (`velemeny_id`),
+  ADD UNIQUE KEY `name` (`name`);
 
 --
 -- A kiírt táblák AUTO_INCREMENT értéke
@@ -91,7 +95,7 @@ ALTER TABLE `users`
 -- AUTO_INCREMENT a táblához `velemeny`
 --
 ALTER TABLE `velemeny`
-  MODIFY `nev_id` int(100) UNSIGNED NOT NULL AUTO_INCREMENT;
+  MODIFY `velemeny_id` int(11) UNSIGNED NOT NULL AUTO_INCREMENT;
 
 --
 -- Megkötések a kiírt táblákhoz
@@ -101,7 +105,7 @@ ALTER TABLE `velemeny`
 -- Megkötések a táblához `velemeny`
 --
 ALTER TABLE `velemeny`
-  ADD CONSTRAINT `velemeny_ibfk_1` FOREIGN KEY (`nev_id`) REFERENCES `users` (`id`);
+  ADD CONSTRAINT `velemeny_ibfk_1` FOREIGN KEY (`velemeny_id`) REFERENCES `users` (`id`);
 COMMIT;
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;

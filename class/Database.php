@@ -80,9 +80,9 @@ class Database {
         $stmt->bind_param("iss", $nev_id, $komment, $csillag);
     }*/
 
-    public function setVelemenyText($nev_id, $komment, $csillag){
-        $stmt = $this->db->prepare("INSERT INTO `users`velemeny`(`nev_id`, `komment`, `csillag`) VALUES ('?','?','?')");
-        $stmt->bind_param("iss", $nev_id, $komment, $csillag);
+    public function setVelemenyText($velemeny_id, $name, $comment, $date, $reply_id, $csillag){
+        $stmt = $this->db->prepare("INSERT INTO `velemeny`(`velemeny_id`, `name`, `comment`, `date`, `reply_id`, `csillag`) VALUES ('?','?','?','?','?','?')");
+        $stmt->bind_param("isssss", $velemeny_id, $name, $comment, $date, $reply_id, $csillag);
         if ($stmt->execute() === TRUE) {
             echo "A megjegyzés sikeresen hozzáadva az adatbázishoz.";
         } else {
@@ -90,9 +90,9 @@ class Database {
         } 
     }
 
-    public function getVelemenyTorlo($nev_id){
-        $stmt = $this->db->prepare("DELETE FROM `velemeny` WHERE nev_id=" . $nev_id); 
-        $stmt -> bind_param("i", $nev_id);
+    public function getVelemenyTorlo($velemeny_id){
+        $stmt = $this->db->prepare("DELETE FROM `velemeny` WHERE velemeny_id=" . $velemeny_id); 
+        $stmt -> bind_param("i", $velemeny_id);
         return $stmt->execute();
     }
 }

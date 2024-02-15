@@ -72,7 +72,8 @@
             <h2>Comments</h2>
             <ul id="comment-list"></ul>
             <input type="text" id="comment-input" placeholder="Add a comment...">
-            <a href="#" class="btn btn-dark" onclick="addComment()">Add Comment</a>
+            <a href="index.php?menuItem=velemeny&komment=<?php echo $adatok['kommant'];?>" class="btn btn-dark" onclick="addComment()">Add Comment</a>
+            <a href="index.php?menuItem=velemeny" class="btn btn-dark">Megtekintés</a>
             <!--<button onclick="addComment()">Add Comment</button>-->
         </div>
     </div>

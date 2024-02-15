@@ -31,7 +31,7 @@ if (filter_input(INPUT_POST, "Egyszarvu", FILTER_VALIDATE_BOOL, FILTER_NULL_ON_F
     $adatok = $_POST;
     var_dump($adatok);
     $id = filter_input(INPUT_POST, "id", FILTER_SANITIZE_NUMBER_INT);
-    if ($db->setKivalasztotttorlottfocista($id)) {
+    if ($db->setKivalasztotttorlottfocista($id = 0)) {
         echo '<p>Az adat sikeresesn törölve</p>';
         header("Location: index.php?menuItem=register");
     } else {
@@ -101,6 +101,7 @@ if (filter_input(INPUT_POST, "Egyszarvu", FILTER_VALIDATE_BOOL, FILTER_NULL_ON_F
                                 data-locale="auto"
                             ></script>
                         </form>-->         
+                        <a href="index.php?menuItem=card&gender=<?php echo $adatok['gender'];?>" class="btn btn-info btn-block mb-4">Vásárlás</a>                        
                         <button type="submit" class="btn btn-info btn-block mb-4" value="1" name="Adatmodositas">Módosítás</button>
                         <button type="submit" class="btn btn-info btn-block mb-4" value="1" name="Egyszarvu">Törlés</button>
                     </form>
