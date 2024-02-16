@@ -42,6 +42,7 @@ a:visited {
 .container {
   width: 80%; /* Adjust the width as needed */
   margin: 0 auto;
+  position: relative;
 }
 
 .section-header h2 {
@@ -2432,4 +2433,229 @@ input[type="submit"]:hover {
   .flex-container {
     flex-direction: column;
   }
+}
+
+/*--------------------------------------------------------------
+/*--------------------------------------------------------------
+# KVÍZ
+--------------------------------------------------------------*/
+/*--------------------------------------------------------------
+# info
+--------------------------------------------------------------*/
+#magyarlabdarugas {
+  width: 100%;
+  height: 80vh;
+  background: #37517e;
+}
+
+#magyarlabdarugas .container {
+  padding-top: 72px;
+}
+
+#magyarlabdarugas h1 {
+  margin: 0 0 10px 0;
+  font-size: 48px;
+  font-weight: 700;
+  line-height: 56px;
+  color: #fff;
+}
+
+#magyarlabdarugas h2 {
+  color: rgba(255, 255, 255, 0.6);
+  margin-bottom: 50px;
+  font-size: 24px;
+}
+
+
+#magyarlabdarugas .animated {
+  animation: up-down 2s ease-in-out infinite alternate-reverse both;
+  border: none;
+}
+
+
+/*--------------------------------------------------------------
+# Sections General
+--------------------------------------------------------------*/
+.section {
+  padding: 60px 0;
+  overflow: hidden;
+}
+
+.section-bg {
+  background-color: #f3f5fa;
+}
+
+.section-title {
+  text-align: center;
+  padding-bottom: 30px;
+}
+
+.section-title h2 {
+  font-size: 32px;
+  font-weight: bold;
+  text-transform: uppercase;
+  margin-bottom: 20px;
+  padding-bottom: 20px;
+  position: relative;
+  color: #37517e;
+}
+
+.section-title h2::before {
+  content: "";
+  position: absolute;
+  display: block;
+  width: 120px;
+  height: 1px;
+  background: #ddd;
+  bottom: 1px;
+  left: calc(50% - 60px);
+}
+
+.section-title h2::after {
+  content: "";
+  position: absolute;
+  display: block;
+  width: 40px;
+  height: 3px;
+  background: #47b2e4;
+  bottom: 0;
+  left: calc(50% - 20px);
+}
+
+.section-title p {
+  margin-bottom: 0;
+}
+
+/*--------------------------------------------------------------
+# szponzorok
+--------------------------------------------------------------*/
+#szponzorok {
+  padding: 12px 0;
+  text-align: center;
+}
+
+#szponzorok img {
+  max-width: 100%;
+  transition: all 0.4s ease-in-out;
+  display: inline-block;
+  padding: 15px 0;
+  filter: grayscale(100);
+}
+
+#szponzorok img:hover {
+  filter: none;
+  transform: scale(1.1);
+}
+
+/*--------------------------------------------------------------
+# Kviz
+--------------------------------------------------------------*/
+#kviz .icon-box .btn{
+  box-shadow: 0px 0 25px 0 rgba(0, 0, 0, 0.1);
+  padding: 50px 30px;
+  transition: all ease-in-out 0.4s;
+  background: #fff;
+}
+
+#kviz .icon-box .btn {
+  margin-bottom: 10px;
+}
+
+#kviz .icon-box {
+  color: #47b2e4;
+  font-size: 36px;
+  transition: 0.3s;
+}
+
+.start-btn, .next-btn {
+  font-size: 1.5rem;
+  font-weight: bold;
+  padding: 5px 10px;
+  background-color: white;
+}
+
+#btnt {
+  box-shadow: 0px 0 25px 0 rgba(0, 0, 0, 0.1);
+  padding: 50px 30px;
+  transition: all ease-in-out 0.4s;
+  background: #fff;
+  --hue: var(--hue-neutral);
+}
+
+.btn-grid {
+  display: grid;
+  grid-template-columns: repeat(2, auto);
+  gap: 10px;
+  margin: 20px 0;
+}
+
+.controls {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.hide {
+  display: none;
+}
+
+.btn.correct {
+  background-color: darkolivegreen;
+}
+
+.btn.wrong {
+  background-color: rgb(163, 0, 0);
+}
+
+.btn:hover {
+  border-color: white;
+}
+
+
+/*--------------------------------------------------------------
+# NB1 tabella, gollovolisa
+--------------------------------------------------------------*/
+
+.styled-table {
+border-collapse: collapse;
+margin: 25px 0;
+font-size: 0.9em;
+font-family: sans-serif;
+min-width: 550px;
+box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+margin-left: 120px;
+}
+.styled-table thead tr {
+background-color: #47b2e4;
+color: #ffffff;
+text-align: left;
+  
+}
+.styled-table th,
+.styled-table td {
+padding: 25px 18px;
+}
+.styled-table tbody tr {
+border-bottom: 1px solid #dddddd;
+}
+
+.styled-table tbody tr:nth-of-type(even) {
+background-color: #f3f3f3;
+}
+
+.styled-table tbody tr:last-of-type {
+border-bottom: 2px solid #009879;
+}
+
+#csapatok {
+height: 50%;
+}
+
+#kiesohely {
+background-color: darkred;
+color: white;
+}
+
+.h1 {
+text-align: center;
 }
