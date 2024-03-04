@@ -380,7 +380,7 @@
             <div>
               <h3>Telefonszám:</h3>
               <p>+70 20 999 9999</p>
-              <i class="icon fa fa-telephone flex-shrink-0"></i>
+              <i class="icon fa fa-phone flex-shrink-0"></i>
             </div>
           </div>
         </div><!-- End Info Item -->
