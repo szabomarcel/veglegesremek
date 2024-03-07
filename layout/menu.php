@@ -30,6 +30,9 @@
                 break;                   
             case 'velemeny':
                 require_once './login/velemeny.php';
+                break; 
+            case 'eredmeny':
+                require_once './login/eredmenyek.php';
                 break;                   
             default:
             require_once('./layout/fooldal.php');

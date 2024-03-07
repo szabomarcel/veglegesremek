@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Gép: 127.0.0.1
--- Létrehozás ideje: 2024. Feb 15. 11:01
+-- Létrehozás ideje: 2024. Már 07. 14:26
 -- Kiszolgáló verziója: 10.4.32-MariaDB
 -- PHP verzió: 8.2.12
 
@@ -20,6 +20,20 @@ SET time_zone = "+00:00";
 --
 -- Adatbázis: `regisztracio`
 --
+
+-- --------------------------------------------------------
+
+--
+-- Tábla szerkezet ehhez a táblához `card`
+--
+
+CREATE TABLE `card` (
+  `card_id` int(10) UNSIGNED NOT NULL,
+  `cardname` text NOT NULL,
+  `cardnumber` int(100) NOT NULL,
+  `expiration_date` date NOT NULL,
+  `CVV` int(100) NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
 
 -- --------------------------------------------------------
 
@@ -58,14 +72,25 @@ CREATE TABLE `velemeny` (
   `velemeny_id` int(11) UNSIGNED NOT NULL,
   `name` varchar(50) NOT NULL,
   `comment` varchar(50) NOT NULL,
-  `date` varchar(50) NOT NULL,
-  `reply_id` int(11) NOT NULL,
   `csillag` enum('csillag1','csillag2','csillag3','csillag4','csillag5') NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
 
 --
+-- A tábla adatainak kiíratása `velemeny`
+--
+
+INSERT INTO `velemeny` (`velemeny_id`, `name`, `comment`, `csillag`) VALUES
+(3, 'Szabó Marcell', 'Thank you help', 'csillag4');
+
+--
 -- Indexek a kiírt táblákhoz
 --
+
+--
+-- A tábla indexei `card`
+--
+ALTER TABLE `card`
+  ADD PRIMARY KEY (`card_id`);
 
 --
 -- A tábla indexei `users`
@@ -86,6 +111,12 @@ ALTER TABLE `velemeny`
 --
 
 --
+-- AUTO_INCREMENT a táblához `card`
+--
+ALTER TABLE `card`
+  MODIFY `card_id` int(10) UNSIGNED NOT NULL AUTO_INCREMENT;
+
+--
 -- AUTO_INCREMENT a táblához `users`
 --
 ALTER TABLE `users`
@@ -95,7 +126,7 @@ ALTER TABLE `users`
 -- AUTO_INCREMENT a táblához `velemeny`
 --
 ALTER TABLE `velemeny`
-  MODIFY `velemeny_id` int(11) UNSIGNED NOT NULL AUTO_INCREMENT;
+  MODIFY `velemeny_id` int(11) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=4;
 
 --
 -- Megkötések a kiírt táblákhoz

@@ -14,19 +14,22 @@
                             <a class="nav-link navbar navbar-light bg-light'. ($menuItem == 'atigazolas'?' active ': '') .'" href="index.php?menuItem=atigazolas">Átigazolási hírek</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link navbar navbar-light bg-light'. ($menuItem == 'csapatok'?' active ': '') .'" href="index.php?menuItem=csapatok">Csapatainkról</a>
+                        <a class="nav-link navbar navbar-light bg-light'. ($menuItem == 'foci'?' active ': '') .'" href="index.php?menuItem=foci">Mini Game</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link navbar navbar-light bg-light'. ($menuItem == 'foci'?' active ': '') .'" href="index.php?menuItem=foci">Mini Game</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link navbar navbar-light bg-light'. ($menuItem == 'videokepek'?' active ': '') .'" href="index.php?menuItem=videokepek">Videók és képek</a>
+                        <a class="nav-link navbar navbar-light bg-light'. ($menuItem == 'videokepek'?' active ': '') .'" href="index.php?menuItem=videokepek">Videók és képek</a>
                         </li>
                         <div class="dropdown">
-                            <a data-mdb-dropdown-init class="dropdown-toggle d-flex align-items-center hidden-arrow" href="#" id="navbarDropdownMenuAvatar" role="button" aria-expanded="false">
-                                <img src="kepek/navbar/man.png" class="rounded-circle" height="25" alt="Black and White Portrait of a Man" loading="lazy"/>
-                            </a>
-                            <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="navbarDropdownMenuAvatar">
+                        <a data-mdb-dropdown-init class="dropdown-toggle d-flex align-items-center hidden-arrow" href="#" id="navbarDropdownMenuAvatar" role="button" aria-expanded="false">
+                        <img src="kepek/navbar/man.png" class="rounded-circle" height="25" alt="Black and White Portrait of a Man" loading="lazy"/>
+                        </a>
+                        <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="navbarDropdownMenuAvatar">
+                                <li class="nav-item">
+                                    <a class="nav-link navbar navbar-light bg-light'. ($menuItem == 'csapatok'?' active ': '') .'" href="index.php?menuItem=csapatok">Csapatainkról<img src="kepek/navbar/team.png" height="25" alt="Black and White Portrait of a Man" loading="lazy"/></a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link navbar navbar-light bg-light'. ($menuItem == 'eredmeny'?' active ': '') .'" href="index.php?menuItem=eredmeny">Eredmény<img src="kepek/pele-focilabda.svg" height="25" alt="Black and White Portrait of a Man" loading="lazy"/></a>
+                                </li>
                                 <li class="nav-item">
                                     <a class="nav-link navbar navbar-black bg-light' . ($menuItem == 'felhasznalo'?' active' : '') .'"href="index.php?menuItem=felhasznalo">Profilom <img src="kepek/navbar/profile.png" height="25" alt="Black and White Portrait of a Man" loading="lazy"/></a>
                                 </li>

@@ -8,8 +8,6 @@ if (filter_input(INPUT_POST, "Adatmodositas", FILTER_VALIDATE_BOOL, FILTER_NULL_
     $date = filter_input(INPUT_POST, "date");
     $mennyiseg = filter_input(INPUT_POST, "mennyiseg");
     $jegyt = filter_input(INPUT_POST, "jegyt");
-    $from = null;
-    $to = null;
     if ($db->setKivalasztottfocista($id, $igazolvany, $email, $date, $mennyiseg, $jegyt)) {
         echo '<p>Az adatok módosítása sikeres</p>';
         header("Location: index.php?menuItem=fooldal");
@@ -87,20 +85,7 @@ if (filter_input(INPUT_POST, "Egyszarvu", FILTER_VALIDATE_BOOL, FILTER_NULL_ON_F
                                   </select>
                                 </div>
                             </div>
-                        </div>
-                        <!-- Submit button -->     
-                        <!-- HTML form for collecting credit card information -->
-                        <!--<form action="credit.php" method="POST">
-                            <script
-                                src="https://checkout.stripe.com/checkout.js" class="stripe-button"
-                                data-key="your_publishable_key"
-                                data-amount="1100"
-                                data-currency="huf"
-                                data-name="Your Company Name"
-                                data-description="Example charge"
-                                data-locale="auto"
-                            ></script>
-                        </form>-->         
+                        </div>    
                         <a href="index.php?menuItem=card&gender=<?php echo $adatok['gender'];?>" class="btn btn-info btn-block mb-4">Vásárlás</a>                        
                         <button type="submit" class="btn btn-info btn-block mb-4" value="1" name="Adatmodositas">Módosítás</button>
                         <button type="submit" class="btn btn-info btn-block mb-4" value="1" name="Egyszarvu">Törlés</button>
@@ -109,7 +94,7 @@ if (filter_input(INPUT_POST, "Egyszarvu", FILTER_VALIDATE_BOOL, FILTER_NULL_ON_F
             </div>
         </div>
         <div class="col-lg-6 mb-4 mb-lg-0">
-          <img src="kepek/csapatok/Fehervar.png" class="w-100 rounded-4 shadow-4" alt="kepek" />
+          <img src="kepek/bank/mlsz-logo-kicsi.png" class="w-100 rounded-4 shadow-4" alt="kepek" />
         </div>
     </div>
 </div>
