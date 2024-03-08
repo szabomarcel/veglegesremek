@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Gép: 127.0.0.1
--- Létrehozás ideje: 2024. Már 07. 14:26
+-- Létrehozás ideje: 2024. Már 08. 12:50
 -- Kiszolgáló verziója: 10.4.32-MariaDB
 -- PHP verzió: 8.2.12
 
@@ -131,6 +131,12 @@ ALTER TABLE `velemeny`
 --
 -- Megkötések a kiírt táblákhoz
 --
+
+--
+-- Megkötések a táblához `card`
+--
+ALTER TABLE `card`
+  ADD CONSTRAINT `card_ibfk_1` FOREIGN KEY (`card_id`) REFERENCES `users` (`id`);
 
 --
 -- Megkötések a táblához `velemeny`

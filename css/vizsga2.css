@@ -2544,7 +2544,7 @@ input[type="submit"]:hover {
   box-shadow: 0px 0 25px 0 rgba(0, 0, 0, 0.1);
   padding: 50px 30px;
   transition: all ease-in-out 0.4s;
-  background: #fff;
+  background: black;
   --hue: var(--hue-neutral);
 }
 
@@ -2566,15 +2566,18 @@ input[type="submit"]:hover {
 }
 
 .btn.correct {
+  border-color: black;
   background-color: darkolivegreen;
 }
 
 .btn.wrong {
+  border-color: black;
   background-color: rgb(163, 0, 0);
 }
 
 .btn:hover {
-  border-color: white;
+  border-color: black;
+  background-color: rgb(255, 255, 255);
 }
 
 
@@ -2591,6 +2594,7 @@ min-width: 550px;
 box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
 margin-left: 120px;
 }
+
 .styled-table thead tr {
 background-color: #47b2e4;
 color: #ffffff;
@@ -2601,6 +2605,7 @@ text-align: left;
 .styled-table td {
 padding: 25px 18px;
 }
+
 .styled-table tbody tr {
 border-bottom: 1px solid #dddddd;
 }
