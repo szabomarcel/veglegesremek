@@ -12,9 +12,8 @@ if (filter_input(INPUT_POST,'belepesiAdatok',FILTER_VALIDATE_BOOLEAN,FILTER_NULL
 <section class="vh-100">
   <div class="container-fluid h-custom">
     <div class="row d-flex justify-content-center align-items-center h-100">
-      <div class="col-md-9 col-lg-6 col-xl-5">
-        <img src="kepek/foci/foci.jpg"
-          class="img-fluid" alt="Sample image">
+      <div class="col-md-9 col-lg-6 col-xl-3">
+        <img src="kepek/foci/foci.jpg" class="img-fluid" alt="Sample image">
       </div>
       <div class="col-md-8 col-lg-6 col-xl-4 offset-xl-1">
         <div class="d-flex flex-row align-items-center justify-content-center justify-content-lg-start">
@@ -39,7 +38,7 @@ if (filter_input(INPUT_POST,'belepesiAdatok',FILTER_VALIDATE_BOOLEAN,FILTER_NULL
 
           <!-- Felhasználói név bemenet -->
           <div class="form-outline mb-4">
-            <label class="form-label" for="name" aria-describedby="nameHelp" autocomplete="name" >Feljazsnálói név: </label>
+            <label class="form-label" for="name" aria-describedby="nameHelp" autocomplete="name" >Felhasználói név: </label>
             <input type="text" id="name" name="name" class="form-control form-control-lg" required
               placeholder="Enter a valid name address" />
           </div>
