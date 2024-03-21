@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Gép: 127.0.0.1
--- Létrehozás ideje: 2024. Már 08. 12:50
+-- Létrehozás ideje: 2024. Már 21. 14:31
 -- Kiszolgáló verziója: 10.4.32-MariaDB
 -- PHP verzió: 8.2.12
 
@@ -50,7 +50,7 @@ CREATE TABLE `users` (
   `igazolvany` varchar(200) NOT NULL,
   `password` varchar(200) NOT NULL,
   `gender` varchar(200) NOT NULL,
-  `date` datetime NOT NULL
+  `date` date NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
 
 --
@@ -58,9 +58,7 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`id`, `name`, `email`, `jegyt`, `mennyiseg`, `igazolvany`, `password`, `gender`, `date`) VALUES
-(3, 'Szabó Marcell', 'szabomarcell34@gmail.com', 'egyedi', '2', '123456AB', '3456', 'Kecskemeti TE és Mezökövesd az ára 2000ft', '2023-12-06 00:00:00'),
-(12, 'Majka', 'majka34@gmmail.com', 'egyedi', '4', '345678BA', '1234', 'Puskás Akadémia és Paks az ára 2300ft', '2023-12-06 00:00:00'),
-(15, 'Luckey', 'luckey2020@gmail.com', 'csoportos', '4', '777777BC', '0123', 'Puskás Akadémia és Paks', '2024-02-07 00:00:00');
+(3, 'Szabó Marcell', 'szabomarcell34@gmail.com', 'egyedi', '21', '123456AB', '3456', 'Kecskemeti TE és Mezökövesd az ára 2000ft', '2023-12-10');
 
 -- --------------------------------------------------------
 
@@ -120,7 +118,7 @@ ALTER TABLE `card`
 -- AUTO_INCREMENT a táblához `users`
 --
 ALTER TABLE `users`
-  MODIFY `id` int(11) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=16;
+  MODIFY `id` int(11) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=19;
 
 --
 -- AUTO_INCREMENT a táblához `velemeny`

@@ -1,24 +1,25 @@
 <?php
-    if(filter_input(INPUT_POST, "regisztraciosAdatok", FILTER_VALIDATE_BOOL, FILTER_NULL_ON_FAILURE)){
-      $id = filter_input(INPUT_POST, "id");
-      $pass1 = filter_input(INPUT_POST, "password");
-      $pass2 = filter_input(INPUT_POST, "InputPassword2");
-      $email = filter_input(INPUT_POST, "email");        
-      $gender = filter_input(INPUT_POST, "gender");
-      $jegyt = filter_input(INPUT_POST, "jegyt");
-      $date = filter_input(INPUT_POST, "date");
-      $mennyiseg = filter_input(INPUT_POST, "mennyiseg");
-      $igazolvany = filter_input(INPUT_POST, "igazolvany");
-      $name = htmlspecialchars(filter_input(INPUT_POST, "name"));
-      var_dump($pass1, $pass2, $email, $igazolvany, $gender, $jegyt, $date, $mennyiseg, $name);
-      if($pass1 == $pass2){
-        //-- regisztráció inditása
-        $db -> register($id, $name, $email, $jegyt, $mennyiseg, $igazolvany, $pass1, $gender, $date);
-        header("Location: index.php"); // Átvált a nyitólapra.
-      }else{
-        echo '<p>Nem egyezik meg a jelszó</p>';
-      }
+  if(filter_input(INPUT_POST, "regisztraciosAdatok", FILTER_VALIDATE_BOOL, FILTER_NULL_ON_FAILURE)){
+    $id = filter_input(INPUT_POST, "id");
+    $pass1 = filter_input(INPUT_POST, "password");
+    $pass2 = filter_input(INPUT_POST, "InputPassword2");
+    $email = filter_input(INPUT_POST, "email");        
+    $gender = filter_input(INPUT_POST, "gender");
+    $jegyt = filter_input(INPUT_POST, "jegyt");
+    $date = filter_input(INPUT_POST, "date");
+    $mennyiseg = filter_input(INPUT_POST, "mennyiseg");
+    $igazolvany = filter_input(INPUT_POST, "igazolvany");
+    $name = htmlspecialchars(filter_input(INPUT_POST, "name"));
+    if($pass1 == $pass2){
+      $_SESSION['login'] !== false;
+      $_SESSION['name'] = $name;
+      //-- regisztráció inditása
+      $db -> register($id, $name, $email, $jegyt, $mennyiseg, $igazolvany, $pass1, $gender, $date);
+      header("Location: index.php"); // Átvált a nyitólapra.
+    }else{
+      echo '<p>Nem egyezik meg a jelszó</p>';
     }
+  }
 ?>
 <section class="h-100 bg-dark">
   <div class="container py-5 h-100">

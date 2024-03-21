@@ -5,7 +5,8 @@ if (filter_input(INPUT_POST,'belepesiAdatok',FILTER_VALIDATE_BOOLEAN,FILTER_NULL
   $pass1 = htmlspecialchars(filter_input(INPUT_POST, 'password'));
 
   if ($db->login($name, $pass1)) {
-    $_SESSION['login'] !== true;
+    $_SESSION['login'] !== false;
+    $_SESSION['name'] = $row['name'];
   }
 }
 ?>
@@ -73,7 +74,7 @@ if (filter_input(INPUT_POST,'belepesiAdatok',FILTER_VALIDATE_BOOLEAN,FILTER_NULL
     class="d-flex flex-column flex-md-row text-center text-md-start justify-content-between py-4 px-4 px-xl-5 bg-primary">
     <!-- Copyright -->
     <div class="text-white mb-3 mb-md-0">
-      © Copyright <strong><span>Szabó Marcell és Tasnádi Richárd</span></strong>. Készítetette
+      © Copyright <strong><span>Szabó Marcell és Tasnádi Richárd</span></strong> Készítetette.
     </div>
     <!-- Copyright -->
 

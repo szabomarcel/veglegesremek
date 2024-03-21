@@ -1,5 +1,6 @@
 <?php
-class Database {
+
+class Database {    
     private $db = null;
     public $error = false;
     public function __construct($host, $name, $pass1, $db) {
@@ -23,7 +24,7 @@ class Database {
             $row = $result->fetch_assoc();
             if ($pass == $row['password']) {
                 //-- felhasználónév és jelszó helyes
-                $_SESSION['name'] = $row;
+                $_SESSION['name'] = $row['name'];                                                           
                 $_SESSION['login'] = true;
             } else {
                 $_SESSION['name'] = '';
@@ -56,33 +57,30 @@ class Database {
         return $result->fetch_all(MYSQLI_ASSOC);
     }*/
 
-    public function setKivalasztottfocista($id, $igazolvany, $email, $date, $mennyiseg, $jegyt) {
-        $stmt = $this->db->prepare("UPDATE `users` SET `igazolvany`= ?,`email`= ?, `date`= ?,`mennyiseg`= ?, `jegyt`= ? WHERE id= ?");
-        $stmt->bind_param('sssssi',$igazolvany, $email, $date, $mennyiseg, $jegyt, $id);
+    public function setKivalasztottfocista($igazolvany, $email, $date, $mennyiseg, $jegyt, $as) {
+        $stmt = $this->db->prepare("UPDATE `users` SET `igazolvany`= ?, `email`= ?, `date`= ?, `mennyiseg`= ?, `jegyt`= ? WHERE `name`= ?");
+        $stmt->bind_param('ssssss',$igazolvany, $email, $date, $mennyiseg, $jegyt, $as);
         return $stmt->execute();
     }
     
-    public function setKivalasztotttorlottfocista($id) {
-        $stmt = $this->db->prepare("DELETE FROM `users` WHERE `users`.`id`= ?;");
-        $stmt->bind_param('i', $id);
+    public function setKivalasztotttorlottfocista($nevette) {
+        $stmt = $this->db->prepare("DELETE FROM `users` WHERE `name`= ?");
+        $stmt->bind_param('s', $nevette);
         return $stmt->execute();
     }
 
-    public function getKivalasztotttorlottfocista($id) {
-        $result = $this->db->query("SELECT * FROM `users` WHERE `id`" . $id);
+     
+    public function getKivalasztotttorlottfocistaid($a) {
+        $result = $this->db->query("SELECT * FROM `users` WHERE `name`= ".$a);
         return $result->fetch_assoc();
-    }  
+    }
 
-    /*public function velemeny($nev_id, $komment, $csillag){
-        // Megjegyzések lekérdezése az adatbázisból
-        $sql = $this->db->prepare("SELECT * FROM `velemeny` WHERE nev_id=".$nev_id);
-        $result = $conn->query($sql);
-        $stmt->bind_param("iss", $nev_id, $komment, $csillag);
-    }*/
-
-    public function setVelemenyText($velemeny_id, $name, $comment, $date, $reply_id, $csillag){
-        $stmt = $this->db->prepare("INSERT INTO `velemeny`(`velemeny_id`, `name`, `comment`, `date`, `reply_id`, `csillag`) VALUES ('?','?','?','?','?','?')");
-        $stmt->bind_param("isssss", $velemeny_id, $name, $comment, $date, $reply_id, $csillag);
+    /*#####################*/
+    /****** Vélemény *******/
+    /*#####################*/
+    public function setVelemenyText($name, $comment, $csillag){
+        $stmt = $this->db->prepare("INSERT INTO `velemeny`(`name`, `comment`, `csillag`) VALUES ('?','?','?',)");
+        $stmt->bind_param("sss", $name, $comment, $csillag);
         if ($stmt->execute() === TRUE) {
             echo "A megjegyzés sikeresen hozzáadva az adatbázishoz.";
         } else {
@@ -95,4 +93,8 @@ class Database {
         $stmt -> bind_param("i", $velemeny_id);
         return $stmt->execute();
     }
+
+    /*#####################*/
+    /****** Bank kártya *******/
+    /*#####################*/
 }
