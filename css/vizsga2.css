@@ -2530,11 +2530,11 @@ input[type="submit"]:hover {
   font-size: 1.5rem;
   font-weight: bold;
   padding: 5px 10px;
-  background-color: white;
+  background-color: rgb(255, 255, 255);
 }
 
 #btnt {
-  box-shadow: 0px 0 25px 0 rgba(255, 255, 255);
+  box-shadow: 0px 0 25px 0 rgba(64, 224, 208);
   padding: 50px 30px;
   transition: all ease-in-out 0.4s;
   background: white;
@@ -2569,8 +2569,8 @@ input[type="submit"]:hover {
 }
 
 .btn:hover {
-  border-color: black;
-  background-color: rgb(0, 0, 0);
+  border-color: white;
+  background-color: rgb(64, 224, 208);
 }
 
 

@@ -7,20 +7,18 @@ function sanitizeInput($data) {
 
 // Process payment data
 if(filter_input(INPUT_POST, "card", FILTER_VALIDATE_BOOL, FILTER_NULL_ON_FAILURE)){
-    // Sanitize and validate input data
-    $gender = filter_input(INPUT_POST, "gender");
-    $cardNumber = sanitizeInput($_POST["cardnumber"]);
-    $name = sanitizeInput($_POST["cardname"]);
-    $expirationDate = sanitizeInput($_POST["expirationdate"]);
+    //Sanitize and validate input data
+    //$gender = filter_input(INPUT_POST, "gender");
+    $cardname = sanitizeInput($_POST["cardname"]);
+    $cardnumber = sanitizeInput($_POST["cardnumber"]);
+    $expiration_date = sanitizeInput($_POST["expiration_date"]);
     $CVV = sanitizeInput($_POST["CVV"]);
 
     // Insert data into the database
-    $insertQuery = "INSERT INTO payment_data (`name`, card_number, expiration_date, CVV) VALUES ('$name', '$cardNumber', '$expirationDate', '$CVV')";
-
     if ($mysqli->query($insertQuery) === TRUE) {
-        echo "Payment information stored successfully.";
+      echo "Payment information stored successfully.";
     } else {
-        echo "Error: " . $insertQuery . "<br>" . $mysqli->error;
+      echo "Error: " . $insertQuery . "<br>" . $mysqli->error;
     }
 
     // Close database connection
@@ -33,8 +31,8 @@ if(filter_input(INPUT_POST, "card", FILTER_VALIDATE_BOOL, FILTER_NULL_ON_FAILURE
       <div class="portfolio-content h-100 lista">
         <img src="kepek/csapatok/DVSC1.png" class="img-fluid" alt="DVSC1">
           <div class="portfolio-info" id="csapat1">
-            <h4><p class="card-text"><b>Mérközés: </b><i value="<?php echo $adatok['mennyiseg']; ?>"></i></p></h4>
-              <p class="card-text"><b>Ár: </b><i value="<?php echo $adatok['mennyiseg']; ?>"></i></p>
+            <h4><p class="card-text"><b>Mérközés: </b><i value=""></i></p></h4>
+              <p class="card-text"><b>Ár: </b><i value=""></i></p>
               <!--<p class="card-text"><b>Alapítva: </b></p>
               <p class="card-text"><b>Stadion: </b></p>
               <p class="card-text"><b>Vezetőedző: </b></p>-->
@@ -44,18 +42,18 @@ if(filter_input(INPUT_POST, "card", FILTER_VALIDATE_BOOL, FILTER_NULL_ON_FAILURE
       </div>
     </div>
     <div class="col-sm">
-    <form class="credit-card">
+    <form class="credit-card" action="#" method="post">
       <div class="form-header">
         <h4 class="title">Credit card detail</h4>
       </div>
       <div class="form-body">
         <!-- Card Number -->
-        <input type="text" class="card-number" placeholder="Card Number" id="cardnumber">
+        <input type="text" class="card-number" placeholder="Card Number" id="cardnumber" required>
         
-        <input type="text" class="card-name" placeholder="Card Name" id="cardname">
+        <input type="text" class="card-name" placeholder="Card Name" id="cardname" required>
         
         <!-- Date Field -->
-        <input type="text" class="card-date" placeholder="Card Date" id="expiration_date">        
+        <input type="text" class="card-date" placeholder="Card Date" id="expiration_date" required>        
     
         <!-- Card Verification Field -->
         <div class="card-verification">
@@ -66,10 +64,10 @@ if(filter_input(INPUT_POST, "card", FILTER_VALIDATE_BOOL, FILTER_NULL_ON_FAILURE
             <p>3 or 4 digits usually found <br> on the signature strip</p>
           </div>
         </div>
-    
+        <img src="https://api.qrserver.com/v1/create-qr-code/?data=https://example.com/payment_method" alt="Payment QR Code">      
         <!-- Buttons -->
         <button type="submit" class="proceed-btn" name="card">Proceed</a></button>
-        <button type="submit" class="paypal-btn"><a href="#">Pay With</a></button>
+        <button type="button" class="proceed-btn"><a href="#">Pay With</a></button>
         <button type="button" class="proceed-btn"><a href="index.php?menuItem=felhasznalo">Vissza</a></button>
       </div>
     </form>

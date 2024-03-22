@@ -53,19 +53,19 @@ if (filter_input(INPUT_POST, "Egyszarvu", FILTER_VALIDATE_BOOL, FILTER_NULL_ON_F
                         <div class="form-outline mb-4">
                             <!--<label for="igazolvany" class="form-label" style="color:white;">Igazolvanyszam: </label>-->
                             <label class="form-label" for="form3Example8">Írja be az igazolvány számát</label>
-                            <input type="text" class="form-control form-control-lg" id="igazolvany" name="igazolvany" placeholder="123456AB" pattern="[1-9]{1}[0-9]{5}[A-Za-z]{2}" value="<?php echo $adatok2['igazolvany']; ?>" >
+                            <input type="text" class="form-control form-control-lg" id="igazolvany" name="igazolvany" placeholder="123456AB" pattern="[1-9]{1}[0-9]{5}[A-Za-z]{2}" value="<?php echo $adatok2['igazolvany']; ?>" required>
                         </div>
                         <div class="row">
                             <!-- Email input -->
                             <div class="col-md-6 form-outline mb-4">
                                 <label for="email" class="form-label">Email módosítás:</label>
-                                <input type="email" class="form-control form-control-lg" name="email" id="email" value="<?php echo $adatok2['email']; ?>" >
+                                <input type="email" class="form-control form-control-lg" name="email" id="email" value="<?php echo $adatok2['email']; ?>" required>
                             </div>
     
                             <!-- Date input -->
                             <div class="col-md-6 form-outline mb-4">
                                 <label for="date" class="form-label">Dátum módosítás:</label>
-                                <input type="date" class="form-control form-control-lg" name="date" id="date" value="<?php echo $adatok2['date']; ?>" >
+                                <input type="date" class="form-control form-control-lg" name="date" id="date" value="<?php echo $adatok2['date']; ?>" required>
                             </div>
                         </div>
                         <div class="row">
@@ -73,13 +73,13 @@ if (filter_input(INPUT_POST, "Egyszarvu", FILTER_VALIDATE_BOOL, FILTER_NULL_ON_F
                                 <div class="form-outline">
                                     <label for="mennyiseg" class="form-label">Mennyiség módosítás:</label>
                                     <label for="mennyiseg" style="color:white;" pattern="[1-100]{1}" >Mennyiség: </label>
-                                    <input type="text" id="mennyiseg" name="mennyiseg" placeholder="mennyiseg" value="<?php echo $adatok2['mennyiseg']; ?>" class="form-control form-control-lg" >
+                                    <input type="text" id="mennyiseg" name="mennyiseg" placeholder="mennyiseg" value="<?php echo $adatok2['mennyiseg']; ?>" class="form-control form-control-lg" required>
                                 </div>
                             </div>
                             <div class="col-md-6 mb-4">
                               <label for="jegyt" class="form-label">Jegy módosítás:</label>
                                 <div class="form-outline form-control-lg">
-                                  <select id="jegyt" name="jegyt" class="form-control form-control-lg"  >
+                                  <select id="jegyt" name="jegyt" class="form-control form-control-lg" required>
                                     <?php 
                                     if ($adatok2['jegyt'] === "egyedi") {
                                         echo '<option id="jegyt" name="jegyt" value="egyedi" selected required>Egyedi</option>';

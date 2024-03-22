@@ -78,8 +78,9 @@ class Database {
     /*#####################*/
     /****** Vélemény *******/
     /*#####################*/
+
     public function setVelemenyText($name, $comment, $csillag){
-        $stmt = $this->db->prepare("INSERT INTO `velemeny`(`name`, `comment`, `csillag`) VALUES ('?','?','?',)");
+        $stmt = $this->db->prepare("INSERT INTO `velemeny`(`name`, `comment`, `csillag`) VALUES ('?', '?', '?',)");
         $stmt->bind_param("sss", $name, $comment, $csillag);
         if ($stmt->execute() === TRUE) {
             echo "A megjegyzés sikeresen hozzáadva az adatbázishoz.";
@@ -97,4 +98,18 @@ class Database {
     /*#####################*/
     /****** Bank kártya *******/
     /*#####################*/
+
+    public function card($card_id, $cardname, $cardnumber, $expiration_date, $CVV) {
+        $stmt = $this->db->prepare('INSERT INTO `card` (`card_id`, `cardname`, `cardnumber`, `expiration_date`, `CVV`) VALUES (?, ?, ?, ?, ?)');
+        $stmt->bind_param("issss", $card_id, $cardname, $cardnumber, $expiration_date, $CVV);
+        if ($stmt->execute()) {
+            //echo $stmt->affected_rows();
+            $_SESSION['cardname'] = true;
+            echo '<p>Rögzítés sikeres!</p>';
+            //header("Location: index.php");
+        } else {
+            $_SESSION['cardnem'] = false;
+            echo '<p>Rögzítés sikertelen!</p>';
+        }
+    }
 }
