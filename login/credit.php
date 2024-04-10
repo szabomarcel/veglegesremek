@@ -64,7 +64,6 @@ if(filter_input(INPUT_POST, "card", FILTER_VALIDATE_BOOL, FILTER_NULL_ON_FAILURE
             <p>3 or 4 digits usually found <br> on the signature strip</p>
           </div>
         </div>
-        <img src="https://api.qrserver.com/v1/create-qr-code/?data=https://example.com/payment_method" alt="Payment QR Code">      
         <!-- Buttons -->
         <button type="submit" class="proceed-btn" name="card">Proceed</a></button>
         <button type="button" class="proceed-btn"><a href="#">Pay With</a></button>
@@ -77,7 +76,7 @@ if(filter_input(INPUT_POST, "card", FILTER_VALIDATE_BOOL, FILTER_NULL_ON_FAILURE
         <img src="kepek/csapatok/DVSC1.png" class="img-fluid" alt="DVSC1">
           <div class="portfolio-info" id="csapat1">
             <h4><p class="card-text"><b></b></p></h4>
-              <p class="card-text">Köszönjök a vásárlást, reméljük hogy minket fognak választani a jövőben és jó lesz velünk együtt működni. <img src="kepek/navbar/smiling-face.png" height="20" width="20"></p>
+              <p class="card-text">Köszönjök a vásárlást, reméljük hogy minket fognak választani a jövőben, és jó lesz velünk együtt működni. <img src="kepek/navbar/smiling-face.png" height="20" width="20"></p>
             <a href="kepek/csapatok/DVSC1.png" title="Remodeling 1" data-gallery="portfolio-gallery-remodeling" class="glightbox preview-link"><i class="fa fa-zoom-in"></i></a>
           <a href="kepek/csapatok/DVSC1.png" title="More Details" class="details-link"><i class="fa fa-link fa-stack-1x fa-inverse"></i></a>
         </div>

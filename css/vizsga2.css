@@ -109,42 +109,17 @@ a:visited {
   background-color: #0056b3; /* Set your desired button hover color */
 }
 
-/* Adjust responsive styles as needed */
-/*@media (max-width: 768px) {
-  .container {
-    width: 90%;
-  }
-}*/
-
 @media screen and  (min-width: 600px) {
-  /*body{
-      background-color: blanchedalmond;
-      width: 90%;
-      border: blue solid thin;
-      border-radius: 50px;
-  }*/
   .container {
     width: 90%;
   }
 }
 @media screen and  (min-width: 780px) {
-  /*body{
-      background-color: blue;        
-      width: 90%;
-      border: blue solid thin;
-      border-radius: 50px;
-  }*/
   .container {
     width: 90%;
   }
 }
 @media screen and  (min-width: 992px) {
-  /*body{
-      background-color: blanchedalmond;
-      width: 100%;
-      border: blue solid thin;
-      border-radius: 50px;
-  }*/
   .container {
     width: 100%;
   }
@@ -1028,17 +1003,6 @@ transform: rotateY(180deg);
 /*#############-main.css-#################*/
 /*#####################################*/
 
-/**
-* Template Name: ZenBlog
-* Updated: Sep 18 2023 with Bootstrap v5.3.2
-* Template URL: https://bootstrapmade.com/zenblog-bootstrap-blog-template/
-* Author: BootstrapMade.com
-* License: https:///bootstrapmade.com/license/
-*/
-
-/**
-* Check out variables.css for easy customization of colors, typography, and other repetitive properties
-*/
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
