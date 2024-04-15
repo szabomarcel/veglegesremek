@@ -5,37 +5,9 @@
         <div class="swiper sliderFeaturedPosts">
           <div class="swiper-wrapper mb-5">
             <div class="swiper-slide">
-              <a href="#" class="img-bg d-flex align-items-end d-block w-100" style="background-image: url('kepek/foci/foci.jpg');">
-                <div class="img-bg-inner">
-                  <h2>The Best Homemade Masks for Face (keep the Pimples Away)</h2>
-                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quidem neque est mollitia! Beatae minima assumenda repellat harum vero, officiis ipsam magnam obcaecati cumque maxime inventore repudiandae quidem necessitatibus rem atque.</p>
-                </div>
-              </a>
-            </div>
-            <div class="swiper-slide">
-              <a href="#" class="img-bg d-flex align-items-end d-block w-100" style="background-image: url('kepek/foci/foci1.jpg');">
-                <div class="img-bg-inner">
-                  <h2>17 Pictures of Medium Length Hair in Layers That Will Inspire Your New Haircut</h2>
-                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quidem neque est mollitia! Beatae minima assumenda repellat harum vero, officiis ipsam magnam obcaecati cumque maxime inventore repudiandae quidem necessitatibus rem atque.</p>
-                </div>
-              </a>
-            </div>
-            <div class="swiper-slide">
-              <a href="#" class="img-bg d-flex align-items-end d-block w-100" style="background-image: url('kepek/foci/foci2.jpg');">
-                <div class="img-bg-inner">
-                  <h2>13 Amazing Poems from Shel Silverstein with Valuable Life Lessons</h2>
-                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quidem neque est mollitia! Beatae minima assumenda repellat harum vero, officiis ipsam magnam obcaecati cumque maxime inventore repudiandae quidem necessitatibus rem atque.</p>
-                </div>
-              </a>
+              <a href="#" class="img-bg d-flex align-items-end d-block w-100" style="background-image: url('kepek/navbar/puskas_arena_03.jpg');"></a>
             </div>
           </div>
-          <div class="custom-swiper-button-next">
-            <span class="fa fa-chevron-right"></span>
-          </div>
-          <div class="custom-swiper-button-prev">
-            <span class="fa fa-chevron-left"></span>
-          </div>
-
           <div class="swiper-pagination"></div>
         </div>
       </div>
