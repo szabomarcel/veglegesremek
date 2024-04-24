@@ -1,5 +1,4 @@
 <?php
-
 class Database {    
     private $db = null;
     public $error = false;
@@ -100,7 +99,7 @@ class Database {
     /*#####################*/
 
     public function card($card_id, $cardname, $cardnumber, $expiration_date, $CVV) {
-        $stmt = $this->db->prepare('INSERT INTO `card` (`card_id`, `cardname`, `cardnumber`, `expiration_date`, `CVV`) VALUES (?, ?, ?, ?, ?)');
+        $stmt = $this->db->prepare("INSERT INTO `card` (`card_id`, `cardname`, `cardnumber`, `expiration_date`, `CVV`) VALUES (?, ?, ?, ?, ?)");
         $stmt->bind_param("issss", $card_id, $cardname, $cardnumber, $expiration_date, $CVV);
         if ($stmt->execute()) {
             //echo $stmt->affected_rows();

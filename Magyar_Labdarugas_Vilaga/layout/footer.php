@@ -15,7 +15,7 @@
             <p><a href="https://idezetekkepekkel.hu/focis-idezetek/" class="footer-link-more">Tudj meg többet</a></p>
           </div>
           <div class="col-6 col-lg-2">
-            <h3 class="footer-heading">Navigation</h3>
+            <h3 class="footer-heading">Navigáció</h3>
             <ul class="footer-links list-unstyled">
               <li><a href="index.php?menuItem=fooldal"><i class="fa fa-chevron-right"></i> Home</a></li>
               <li><a href="index.php?menuItem=atigazolas"><i class="fa fa-chevron-right"></i> Blog</a></li>
@@ -26,7 +26,7 @@
             </ul>
           </div>
           <div class="col-6 col-lg-2">
-            <h3 class="footer-heading">Categories</h3>
+            <h3 class="footer-heading">Kategóriás</h3>
             <ul class="footer-links list-unstyled">
               <li><a href="index.php?menuItem=felhasznalo"><i class="fa fa-chevron-right"></i> Módosítások</a></li>
               <li><a href="index.php?menuItem=videokepek"><i class="fa fa-chevron-right"></i> Videók és képek a mérközésekről</a></li>
@@ -38,7 +38,7 @@
             </ul>
           </div>
           <div class="col-lg-4">
-            <h3 class="footer-heading">Sponzotok</h3>
+            <h3 class="footer-heading">Sponzorok</h3>
             <ul class="footer-links footer-blog-entry list-unstyled">
               <li>
                 <a href="#" class="d-flex align-items-center">
@@ -122,11 +122,11 @@
           </div>
           <div class="col-md-6">
             <div class="social-links mb-3 mb-lg-0 text-center text-md-end">
-              <a href="#" class="twitter"><i class="fa fa-twitter"></i></a>
-              <a href="#" class="facebook"><i class="fa fa-facebook"></i></a>
-              <a href="#" class="instagram"><i class="fa fa-instagram"></i></a>
+              <a href="https://twitter.com/?lang=hu" class="twitter"><i class="fa fa-twitter"></i></a>
+              <a href="https://www.facebook.com/" class="facebook"><i class="fa fa-facebook"></i></a>
+              <a href="https://www.instagram.com/" class="instagram"><i class="fa fa-instagram"></i></a>
               <a href="https://github.com/szabomarcel/veglegesremek" class="github"><i class="fa fa-github"></i></a>
-              <a href="#" class="linkedin"><i class="fa fa-linkedin"></i></a>
+              <a href="https://hu.linkedin.com/" class="linkedin"><i class="fa fa-linkedin"></i></a>
             </div>
           </div>
         </div>
