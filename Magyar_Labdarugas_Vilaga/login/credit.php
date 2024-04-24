@@ -27,9 +27,6 @@ if(filter_input(INPUT_POST, "card", FILTER_VALIDATE_BOOL, FILTER_NULL_ON_FAILURE
           <div class="portfolio-info" id="csapat1">
             <h4><p class="card-text"><b>Mérközés: </b></p></h4>
               <p class="card-text"><b>Ár: </b></i></p>
-              <!--<p class="card-text"><b>Alapítva: </b></p>
-              <p class="card-text"><b>Stadion: </b></p>
-              <p class="card-text"><b>Vezetőedző: </b></p>-->
             <a href="kepek/csapatok/DVSC1.png" title="Remodeling 1" data-gallery="portfolio-gallery-remodeling" class="glightbox preview-link"><i class="fa fa-zoom-in"></i></a>
           <a href="kepek/csapatok/DVSC1.png" title="More Details" class="details-link"><i class="fa fa-link fa-stack-1x fa-inverse"></i></a>
         </div>
@@ -42,12 +39,12 @@ if(filter_input(INPUT_POST, "card", FILTER_VALIDATE_BOOL, FILTER_NULL_ON_FAILURE
       </div>
       <div class="form-body">
         <!-- Card Number -->
-        <input type="text" class="card-number" placeholder="Kártya szám:" id="cardnumber" required>
+        <input type="text" class="card-number" placeholder="Kártya szám" id="cardnumber" required>
         
-        <input type="text" class="card-name" placeholder="Kártya név:" id="cardname" required>
+        <input type="text" class="card-name" placeholder="Kártya név" id="cardname" required>
         
         <!-- Date Field -->
-        <input type="text" class="card-date" placeholder="Dátum:" id="expiration_date" required>        
+        <input type="text" class="card-date" placeholder="Dátum" id="expiration_date" required>        
     
         <!-- Card Verification Field -->
         <div class="card-verification">
@@ -59,7 +56,7 @@ if(filter_input(INPUT_POST, "card", FILTER_VALIDATE_BOOL, FILTER_NULL_ON_FAILURE
           </div>
         </div>
         <!-- Buttons -->
-        <button type="submit" class="proceed-btn" name="card">Folytassa</a></button>
+        <button type="submit" class="proceed-btn" name="card">Vásárlás</a></button>
         <button type="button" class="proceed-btn"><a href="#">Fizessen Pay-jel</a></button>
         <button type="button" class="proceed-btn"><a href="index.php?menuItem=felhasznalo">Vissza</a></button>
       </div>

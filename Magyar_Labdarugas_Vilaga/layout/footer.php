@@ -112,13 +112,9 @@
             <div class="copyright">
               © Copyright <strong><span>Szabó Marcell és Tasnádi Richárd</span></strong> készítetette.
             </div>
-            <div class="credits">
-              <!-- All the links in the footer should remain intact. -->
-              <!-- You can delete the links only if you purchased the pro version. -->
-              <!-- Licensing information: https://bootstrapmade.com/license/ -->
-                <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/herobiz-bootstrap-business-template/ -->
+            <!--<div class="credits">              
                 A <a href="https://getbootstrap.com/docs/5.3/getting-started/download/">BootstrapMade</a> tervezte. 
-            </div>
+            </div>-->
           </div>
           <div class="col-md-6">
             <div class="social-links mb-3 mb-lg-0 text-center text-md-end">

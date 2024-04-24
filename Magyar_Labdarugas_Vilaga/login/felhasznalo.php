@@ -1,11 +1,6 @@
 <?php
 try {
     $adatok2 = $db->getKivalasztotttorlottfocistaid('"'.$_SESSION['name'].'"');
-    /*var_dump($adatok2);
-    echo"<br>";
-    var_dump($_SESSION['name']);
-    echo"<br>";
-    var_dump($adatok2['mennyiseg']);*/
 } catch (\Throwable $th) {
     $adatok2 = null;
 }
@@ -50,8 +45,7 @@ if (filter_input(INPUT_POST, "Egyszarvu", FILTER_VALIDATE_BOOL, FILTER_NULL_ON_F
                 <h2 class="fw-bold mb-4">Felhasználó számára módositható adatok</h2>
                     <form method="POST" action="#" enctype="multipart/form-data">
                         <!-- 2 column grid layout with text inputs for the first and last names -->
-                        <div class="form-outline mb-4">
-                            <!--<label for="igazolvany" class="form-label" style="color:white;">Igazolvanyszam: </label>-->
+                        <div class="form-outline mb-4">                            
                             <label class="form-label" for="form3Example8">Írja be az igazolvány számát</label>
                             <input type="text" class="form-control form-control-lg" id="igazolvany" name="igazolvany" placeholder="123456AB" pattern="[1-9]{1}[0-9]{5}[A-Za-z]{2}" value="<?php echo $adatok2['igazolvany']; ?>" required>
                         </div>

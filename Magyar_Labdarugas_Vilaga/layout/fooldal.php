@@ -5,7 +5,7 @@
         <div class="swiper sliderFeaturedPosts">
           <div class="swiper-wrapper mb-5">
             <div class="swiper-slide">
-              <a href="#" class="img-bg d-flex align-items-end d-block w-100" style="background-image: url('kepek/navbar/puskas_arena_03.jpg');"></a>
+              <a class="img-bg d-flex align-items-end d-block w-100" style="background-image: url('kepek/navbar/puskas_arena_03.jpg');"></a>
             </div>
           </div>
           <div class="swiper-pagination"></div>
@@ -85,38 +85,38 @@
               <h3>Trending</h3>
               <ul class="trending-post">
                 <li>
-                  <a href="#">
+                  <a href="https://www.eredmenyek.com/foci/nemetorszag/nemet-kupa/#/dO0vXj1s/draw">
                     <span class="number"></span>
                     <h3>Német Kupa: Dárdaiék felejthetetlen meccset játszottak Némethék ellen</h3>
-                    <span class="author">Jane Cooper</span>
+                    <span class="author">Német Kupa</span>
                   </a>
                 </li>
                 <li>
-                  <a href="#">
+                  <a href="https://www.focikatalogus.hu/joao-felix-focista">
                     <span class="number"></span>
                     <h3>Joao Félix elmondta, melyik magyar futballistát látna szívesen a Barcában</h3>
-                    <span class="author">Wade Warren</span>
+                    <span class="author">Magyar futballista</span>
                   </a>
                 </li>
                 <li>
-                  <a href="#">
+                  <a href="https://cdn.nemzetisport.hu/2024/04/gaViIUusa9wGdztXvFNmh5O86ulveP96WxpUcjqkKfY/fill/1347/758/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzQ3NjdmZmU1ZWYzNzRmNjg4NmJjY2NiMzY3MDVkOTY5.jpg">
                     <span class="number"></span>
                     <h3>Elhunyt a Magyar Kupa-győztes labdarúgó</h3>
-                    <span class="author">Esther Howard</span>
+                    <span class="author">Magyar Kupa-győzetes</span>
                   </a>
                 </li>
                 <li>
-                  <a href="#">
+                  <a href="https://imgresizer.eurosport.com/unsafe/2560x1440/filters:format(jpeg)/origin-imgresizer.eurosport.com/2022/05/23/3378081-69041888-2560-1440.jpg">
                     <span class="number"></span>
                     <h3>Hosszabb kihagyás vár a német válogatott kapusára</h3>
-                    <span class="author">Cameron Williamson</span>
+                    <span class="author">Német válogatott</span>
                   </a>
                 </li>
                 <li>
-                  <a href="#">
+                  <a href="https://i.ytimg.com/vi/TKg2T3Q7lWQ/maxresdefault.jpg">
                     <span class="number"></span>
                     <h3>BBC: Szoboszlai és a kritikák</h3>
-                    <span class="author">Jenny Wilson</span>
+                    <span class="author">Szoboszlai</span>
                   </a>
                 </li>
               </ul>
@@ -158,7 +158,7 @@
         <div class="row">
           <div class="col-lg-4">
             <div class="post-entry-1 border-bottom">
-              <a href="#"><img src="kepek/forma1/Ferrari.jpg" alt="" class="img-fluid"></a>
+              <a><img src="kepek/forma1/Ferrari.jpg" alt="" class="img-fluid"></a>
               <div class="post-meta"><span class="date">Ferrari</span> <span class="mx-1">&bullet;</span> <span>2014. Júl. 10</span></div>
               <h2 class="mb-2"><a href="#">A két pilóták Fernando Alonso, Kimi Raikkönen voltak 2014-ben</a></h2>
               <span class="author mb-3 d-block">Frédéric Vasseur Csapatvezető</span>
@@ -166,7 +166,7 @@
             </div>
 
             <div class="post-entry-1">
-              <div class="post-meta"><span class="date">Culture</span> <span class="mx-1">&bullet;</span> <span>2023. nov. 24.</span></div>
+              <div class="post-meta"><span class="date">Kulturális</span> <span class="mx-1">&bullet;</span> <span>2023. nov. 24.</span></div>
               <h2 class="mb-2"><a href="#">Redbull Csapatának a csapatfőnöke</a></h2>
               <span class="author mb-3 d-block">Christian Horner</span>
             </div>
@@ -174,7 +174,7 @@
           <div class="col-lg-8">
             <div class="post-entry-1">
               <a href="#"><img src="kepek/forma1/Alfaromeo.jpg" alt="" class="img-fluid"></a>
-              <div class="post-meta"><span class="date">Culture</span> <span class="mx-1">&bullet;</span> <span>2023.Dec.04</span></div>
+              <div class="post-meta"><span class="date">Kúlturális</span> <span class="mx-1">&bullet;</span> <span>2023.Dec.04</span></div>
               <h2 class="mb-2"><a href="#">Miután Frederic Vasseur a Ferrarihoz távozott</a></h2>
               <span class="author mb-3 d-block">Frederic Vasseur Csapatveezető</span>
               <p class="mb-4 d-block">Alfa Romeo: Megérte az F1-es szereplés, de most másfelé indulunk
@@ -191,13 +191,13 @@
       <div class="col-md-3">
         <div class="post-entry-1 border-bottom">
           <div class="post-meta"><span class="date">Forma - 1</span> <span class="mx-1">&bullet;</span> <span>2023. Dec. 13.</span></div>
-          <h2 class="mb-2"><a href="#">Verstappent tüzelte a Perez körüli felhajtás</a></h2>
+          <h2 class="mb-2"><a href="https://www.formula1.com/en/drivers/max-verstappen">Verstappent tüzelte a Perez körüli felhajtás</a></h2>
           <span class="author mb-3 d-block">Könnyebb autók, 16 colos gumik</span>
         </div>
 
         <div class="post-entry-1 border-bottom">
           <div class="post-meta"><span class="date">Forma - 1</span> <span class="mx-1">&bullet;</span> <span>2023. dec. 12.</span></div>
-          <h2 class="mb-2"><a href="#">„Amíg nem mondanak mást, maradok” – Famin</a></h2>
+          <h2 class="mb-2"><a href="https://hu.motorsport.com/f1/news/nem-tervez-kinevezni-mas-valakit-a-helyere-az-alpine-ideiglenes-csapatfonoke/10556659/">„Amíg nem mondanak mást, maradok” – Famin</a></h2>
           <span class="author mb-3 d-block">Csupán ideiglenes F1-es csapatfőnöknek nevezték ki az Alpine-nál</span>
         </div>
 
@@ -237,12 +237,12 @@
     <div class="row">
       <div class="col-md-9 order-md-2">
         <div class="d-lg-flex post-entry-2">
-          <a href="#" class="me-4 thumbnail d-inline-block mb-4 mb-lg-0">
+          <a href="kepek/basketball/palya.jpg" class="me-4 thumbnail d-inline-block mb-4 mb-lg-0">
             <img src="kepek/basketball/palya.jpg" alt="" class="img-fluid">
           </a>
           <div>
             <div class="post-meta"><span class="date">Kosár mérközés</span> <span class="mx-1">&bullet;</span> <span>Első játék	1891. Springfield, Massachusetts, (USA)</span></div>
-            <h3><a href="#"></a></h3>
+            <h3><a href="kepek/basketball/kosarlabda.jpg"></a></h3>
             <p id="p">A büntetődobó vonalakat az alapvonalakkal párhuzamosan kell kijelölni. A 3,60 m hosszú vonal távolabbi széle 5,80 m távolságra van az alapvonal belső szélétől. Középpontja a két alapvonal felezőpontját összekötő képzeletbeli egyenesen fekszik. A szigorított területek a pályán kijelölt azon területek, amelyeket az alapvonalak, a büntetődobó vonalak, valamint azok a vonalak határolnak, amelyek külső szélükkel az alapvonal felezőponjától 3 m-re az alapvonalról erednek, és a büntetővonalak külső szélénél végződnek. Ezek a vonalak, kivéve az alapvonalakat, a szigorított terület részei. A büntetődobó sávok a szigorított területek egy 1,80 m sugarú félkörrel megnövelve. A félkörök középpontjai megegyeznek a büntetődobó vonalak középpontjaival.</p>
             <div class="d-flex align-items-center author">
               <div class="photo"><img src="kepek/basketball/kosarlabda.jpg" alt="" class="img-fluid"></div>
@@ -255,7 +255,7 @@
         <div class="row">
           <div class="col-lg-4">
             <div class="post-entry-1 border-bottom">
-              <a href="#"><img src="kepek/basketball/kosarlabda.jpg" alt="" class="img-fluid"></a>
+              <a href="kepek/basketball/kosarlabda.jpg"><img src="kepek/basketball/kosarlabda.jpg" alt="" class="img-fluid"></a>
               <div class="post-meta"><span class="date">Még több a kosárról</span> <span class="mx-1">&bullet;</span> <span>Budapest, 2020</span></div>
               <h2 class="mb-2"><a href="#">11 Work From Home Part-Time Jobs You Can Do Now</a></h2>
               <span class="author mb-3 d-block">Jenny Wilson</span>
@@ -267,7 +267,7 @@
               A gyűrű 3,05 m (10 láb) magasan van a földtől. Szinte kivétel nélkül a bajnokságokon és a nemzetközi játékon ez az elfogadott méret, mióta a játék megszületett, csak a legkisebbek gyűrűjét helyezik időnként alacsonyabbra. A gyűrű belső átmérője 450–459 mm közötti.</p>
             </div>
             <div class="post-entry-1">
-              <a href="#"><img src="kepek/vollayball/ropi.jpg" alt="" class="img-fluid"></a>
+              <a href="kepek/vollayball/ropi.jpg"><img src="kepek/vollayball/ropi.jpg" alt="" class="img-fluid"></a>
               <div class="post-meta"><span class="date">Röplabda mérközésről</span> <span class="mx-1">&bullet;</span> <span>23.Febr.24. </span></div>
               <h2 class="mb-2"><a href="#">A Vasas Óbuda nyerte az alapszakaszt a női röplabda Extraligában</a></h2>
               <span class="author mb-3 d-block">Jenny Wilson</span>
@@ -275,7 +275,7 @@
           </div>
           <div class="col-lg-8">
             <div class="post-entry-1">
-              <a href="#"><img src="kepek/vollayball/valley.jpg" alt="" class="img-fluid"></a>
+              <a href="kepek/vollayball/valley.jpg"><img src="kepek/vollayball/valley.jpg" alt="" class="img-fluid"></a>
               <div class="post-meta"><span class="date">Még több információ</span> <span class="mx-1">&bullet;</span> <span>2023.Febr.03.</span></div>
               <h2 class="mb-2"><a href="#">Második mérkőzését is megnyerte a Kaposvár a férfi röplabda Extraligában</a></h2>
               <span class="author mb-3 d-block">férfi röplabda Extraliga középszakaszában</span>
@@ -287,32 +287,32 @@
       <div class="col-md-3">
         <div class="post-entry-1 border-bottom">
           <div class="post-meta"><span class="date">Kosár</span> <span class="mx-1">&bullet;</span> <span>2023.12.12</span></div>
-          <h2 class="mb-2"><a href="#">Férfi kosár: összecsap egymással az Egyesült Államok és Németország</a></h2>
+          <h2 class="mb-2"><a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTn0cL-Odf_id1HLueRApVHFkKsIWPBkbRk1AstieWpg&s">Férfi kosár: összecsap egymással az Egyesült Államok és Németország</a></h2>
           <span class="author mb-3 d-block">(Nemzeti Sport)</span>
         </div>
         <div class="post-entry-1 border-bottom">
           <div class="post-meta"><span class="date">Kosár</span> <span class="mx-1">&bullet;</span> <span>2023.11.12</span></div>
-          <h2 class="mb-2"><a href="#">Női kosár Eb-sel.: megszenvedtünk a finnekkel, de végül legyőztük őket</a></h2>
+          <h2 class="mb-2"><a href="https://sportagvalaszto.hu/wp-content/uploads/2019/07/547-1526727561.jpg">Női kosár Eb-sel.: megszenvedtünk a finnekkel, de végül legyőztük őket</a></h2>
           <span class="author mb-3 d-block">(Nemzeti Sport)</span>
         </div>
         <div class="post-entry-1 border-bottom">
           <div class="post-meta"><span class="date">Kosár</span> <span class="mx-1">&bullet;</span> <span>Jul 5th '22</span></div>
-          <h2 class="mb-2"><a href="#">	Kiütéses sikerrel aratta 900. győzelmét az edzőlegenda</a></h2>
+          <h2 class="mb-2"><a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4y5y59F4yjEaJ1Bz1e61HO3Gdzg0Y7erzHZZgtYRRaw&s">Kiütéses sikerrel aratta 900. győzelmét az edzőlegenda</a></h2>
           <span class="author mb-3 d-block">(Sport Géza)</span>
         </div>
         <div class="post-entry-1 border-bottom">
           <div class="post-meta"><span class="date">Röplabdázásról</span> <span class="mx-1">&bullet;</span> <span>2023.Dec.11.</span></div>
-          <h2 class="mb-2"><a href="#">Újabb sportdiplomáciai felkérést kapott Baran Ádám</a></h2>
+          <h2 class="mb-2"><a href="https://medallion.hu/wp-content/uploads/2019/11/BG_R%C3%B6plabda.jpg">Újabb sportdiplomáciai felkérést kapott Baran Ádám</a></h2>
           <span class="author mb-3 d-block">MEVZA éves közgyűlésén képviselte a Magyar Röplabda Szövetséget.</span>
         </div>
         <div class="post-entry-1 border-bottom">
           <div class="post-meta"><span class="date">Röplabdázásról</span> <span class="mx-1">&bullet;</span> <span>2022.Dec.17.</span></div>
-          <h2 class="mb-2"><a href="#">A negyeddöntőben búcsúzott a legutóbbi ezüstérmes a női röplabda Magyar Kupában</a></h2>
+          <h2 class="mb-2"><a href="https://pannonhirnok.com/wp-content/uploads/2019/01/F%C3%A9rfi-r%C3%B6plabda-Eb-selejtez%C5%91-M%C3%A1r-csak-matematikai-es%C3%A9ly-maradt-a-tov%C3%A1bbjut%C3%A1sra-715x400.jpg">A negyeddöntőben búcsúzott a legutóbbi ezüstérmes a női röplabda Magyar Kupában</a></h2>
           <span class="author mb-3 d-block">Szent Benedek RA már a negyeddöntőben búcsúzott</span>
         </div>
         <div class="post-entry-1 border-bottom">
           <div class="post-meta"><span class="date">Röplabdázásról</span> <span class="mx-1">&bullet;</span> <span>2023.Jan.21.</span></div>
-          <h2 class="mb-2"><a href="#">Odapörkölt a MÁV Előre a Pénzügyőrnek a férfi röplabda Extraligában</a></h2>
+          <h2 class="mb-2"><a href="https://teamrekreacio.hu/wp-content/uploads/2016/06/roplabda-1.jpg">Odapörkölt a MÁV Előre a Pénzügyőrnek a férfi röplabda Extraligában</a></h2>
           <span class="author mb-3 d-block">Extraliga szombati játéknapján.</span>
         </div>
       </div>
