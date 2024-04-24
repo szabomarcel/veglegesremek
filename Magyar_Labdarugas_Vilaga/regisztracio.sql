@@ -3,9 +3,9 @@
 -- https://www.phpmyadmin.net/
 --
 -- Gép: 127.0.0.1
--- Létrehozás ideje: 2024. Már 21. 14:31
--- Kiszolgáló verziója: 10.4.32-MariaDB
--- PHP verzió: 8.2.12
+-- Létrehozás ideje: 2024. Ápr 24. 12:57
+-- Kiszolgáló verziója: 10.4.28-MariaDB
+-- PHP verzió: 8.2.4
 
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
 START TRANSACTION;
@@ -58,7 +58,7 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`id`, `name`, `email`, `jegyt`, `mennyiseg`, `igazolvany`, `password`, `gender`, `date`) VALUES
-(3, 'Szabó Marcell', 'szabomarcell34@gmail.com', 'egyedi', '21', '123456AB', '3456', 'Kecskemeti TE és Mezökövesd az ára 2000ft', '2023-12-10');
+(3, 'Szabó Marcell', 'szabomarcell@gmail.com', 'egyedi', '21', '123456AB', '3456', 'Kecskemeti TE és Mezökövesd az ára 2000ft', '2023-12-10');
 
 -- --------------------------------------------------------
 
@@ -72,13 +72,6 @@ CREATE TABLE `velemeny` (
   `comment` varchar(50) NOT NULL,
   `csillag` enum('csillag1','csillag2','csillag3','csillag4','csillag5') NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
-
---
--- A tábla adatainak kiíratása `velemeny`
---
-
-INSERT INTO `velemeny` (`velemeny_id`, `name`, `comment`, `csillag`) VALUES
-(3, 'Szabó Marcell', 'Thank you help', 'csillag4');
 
 --
 -- Indexek a kiírt táblákhoz
@@ -118,7 +111,7 @@ ALTER TABLE `card`
 -- AUTO_INCREMENT a táblához `users`
 --
 ALTER TABLE `users`
-  MODIFY `id` int(11) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=19;
+  MODIFY `id` int(11) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=20;
 
 --
 -- AUTO_INCREMENT a táblához `velemeny`
