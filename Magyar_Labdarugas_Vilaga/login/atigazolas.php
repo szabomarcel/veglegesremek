@@ -13,7 +13,7 @@
       </div>
       <div class="col-lg-4 text-center mb-5">
         <hr>
-        <img src="kepek/jatekosok/Szoboszlai_Dominik.jpg" alt="" class="img-fluid w-50 mb-5">
+        <img src="kepek/jatekosok/Szoboszlai_Dominik.jpg" class="img-fluid w-50 mb-5">
         <h4>Szoboszlai Dominik</h4>
         <span class="d-block mb-3 text-uppercase">Született: 2000. október 25. (életkor 23 év)</span>
         <span>2023-as 70 millió eurós, RB Leipzigtól a Liverpoolba történő átigazolásával lényegében saját rekordját döntötte meg. Korábban, 2021-ben 22 millió eurós vételárral ment az RB Salzburgtól az RB Leipzigbe.</span>
@@ -27,7 +27,7 @@
       </div>
       <div class="col-lg-4 text-center mb-5">
         <hr>
-        <img src="kepek/jatekosok/Dzsudzsak_Balazs.jpg" alt="" class="img-fluid w-50 mb-5">
+        <img src="kepek/jatekosok/Dzsudzsak_Balazs.jpg" class="img-fluid w-50 mb-5">
         <h4>Dzsudzsák Balázs</h4>
         <span class="d-block mb-3 text-uppercase">Született: 1986. december 23. (életkor 36 év)</span>
         <p><b>A magyar válogatott labdarúgó vételi árát több összehasonlításban is vizsgálja, így például a korábbi és jelenleg is aktív magyar játékosok tranzakciós értéke, egykori és mai áron számítva, továbbá nemzetközi összehasonlításban, például az idei klubcserék tükrében.</b><br>
@@ -42,7 +42,7 @@
       </div>
       <div class="col-lg-4 text-center mb-5">
         <hr>
-        <img src="kepek/jatekosok/Puskas_Ferenc.jpg" alt="" class="img-fluid w-50 mb-4">
+        <img src="kepek/jatekosok/Puskas_Ferenc.jpg" class="img-fluid w-50 mb-4">
         <h4>Puskás Ferenc</h4>
         <span class="d-block mb-3 text-uppercase">Született: 1927. április 1., Budapest - Meghalt: 2006. november 17., Budapest</span>
         <p>Játékospályafutása: 1939-1956: Kispest, majd Bp. Honvéd, 1958-1967: Real Madrid
@@ -61,7 +61,7 @@
       </div>
       <div class="col-lg-4 text-center mb-5">
         <hr>
-        <img src="kepek/jatekosok/Albert_Florian.jpg" alt="" class="img-fluid w-50 mb-4">
+        <img src="kepek/jatekosok/Albert_Florian.jpg" class="img-fluid w-50 mb-4">
         <h4>Albert Florian</h4>
         <span class="d-block mb-3 text-uppercase">Született: 1941. szeptember 15., Hercegszántó Meghalt: 2011. október 31., Budapest</span>
         <p>Albert Flórián pályafutása alatt végig, 1958-tól 1974-ig a Ferencváros játékosa volt. A Ferencvárosnál bajnoki és különböző kupamérkőzéseit összeszámolva összesen 537 mérkőzésen lépett pályára a felnőtt csapatnál, ezeken 383 gólt szerzett. Háromszor lett gólkirály, négyszer nyert magyar bajnokságot, egyszer nyert Magyar Népköztársasági-kupát. 1965-ben megnyerte a Vásárvárosok Kupáját, miután 1–0-ra győztek az olasz Juventus ellen.</p>
@@ -75,7 +75,7 @@
       </div>
       <div class="col-lg-4 text-center mb-5">
         <hr>
-        <img src="kepek/jatekosok/Balint_Laszlo.jpg" alt="" class="img-fluid w-50 mb-4">
+        <img src="kepek/jatekosok/Balint_Laszlo.jpg" class="img-fluid w-50 mb-4">
         <h4>Bálint László</h4>
         <span class="d-block mb-3 text-uppercase">Született: 1948. február 1. (életkor 75 év), Budapest</span>
         <p><b>gazi fradista, aki a szocialista táborból első magyar futballistaként igazolt külföldre. Középső védőként a sportág egyik honi legendája. Jelenleg lovakat tart. A 76-szoros válogatott Bálint László február elsején lett 75 esztendős.</b>           
@@ -91,7 +91,7 @@
       </div>
       <div class="col-lg-4 text-center mb-5">
         <hr>
-        <img src="kepek/jatekosok/Bene_Ferenc.jpg" alt="" class="img-fluid w-50 mb-4">
+        <img src="kepek/jatekosok/Bene_Ferenc.jpg" class="img-fluid w-50 mb-4">
         <h4>Bene Ferenc</h4>
         <span class="d-block mb-3 text-uppercase">Született: 1944. december 17., Balatonújlak Meghalt: 2006. február 27., Budapest</span>
         <p class="card-text"><b>Az NB II-ben szereplő Vasas decemberben kinevezett új vezetőedzője, ifjabb Bene Ferenc az M4 Sport vadonatúj, Átigazolás című műsorában elmondta, az egyesület célja egy nyugat-európai klubmodell kidolgozása, valamint egy olyan csapat felépítése, amely legkésőbb jövőre fel tud jutni az NB I-be.</b><br>        
@@ -106,7 +106,7 @@
       </div>
       <div class="col-lg-4 text-center mb-5">
         <hr>
-        <img src="kepek/jatekosok/Botka_Endre.jpg" alt="" class="img-fluid w-50 mb-5">
+        <img src="kepek/jatekosok/Botka_Endre.jpg" class="img-fluid w-50 mb-5">
         <h4>Botka Endre</h4>
         <span class="d-block mb-3 text-uppercase">Született: 1994. augusztus 25. (életkor 29 év), Budapest</span>
           <p class="card-text">A Budapest Honvéd csapatában debütált az NB I-ben. 2017 januárjában igazolt át az FTC csapatába, így – bár a szezon első felében a Honvédban lejátszott mérkőzéseinek köszönhetően – részese volt a kispestiek bajnoki győzelmének, azt azonban már nem ünnepelhette együtt egykori társaival.
@@ -123,7 +123,7 @@
       </div>
       <div class="col-lg-4 text-center mb-5">
         <hr>
-        <img src="kepek/jatekosok/Fenyvesi_Mate.jpg" alt="" class="img-fluid w-50 mb-5">
+        <img src="kepek/jatekosok/Fenyvesi_Mate.jpg" class="img-fluid w-50 mb-5">
         <h4>Fenyvesi Máté</h4>
         <span class="d-block mb-3 text-uppercase">Született: 1933. szeptember 20., Magyarország Meghalt: 2022. február 17.</span>
           <p class="card-text"><i>88 éves korában meghalt Fenyvesi Máté, az FTC egykori kiváló, válogatott labdarúgója, sportvezetője, a klub örökös bajnoka.</i>
@@ -140,7 +140,7 @@
       </div>
       <div class="col-lg-4 text-center mb-5">
         <hr>
-        <img src="kepek/jatekosok/Fiola_Attila.jpg" alt="" class="img-fluid w-50 mb-5">
+        <img src="kepek/jatekosok/Fiola_Attila.jpg" class="img-fluid w-50 mb-5">
         <h4>Fióla Attila</h4>
         <span class="d-block mb-3 text-uppercase">Született: 1990. február 17. (életkor 33 év), Szekszárd</span>
           <p class="card-text"><b>Mi vár Fehérváron az újpesti igazolásokra? 23 érkezőből összesen 5 vált be, avagy Fiola esete nagyon ritka.</b>
@@ -157,7 +157,7 @@
       </div>
       <div class="col-lg-4 text-center mb-5">
         <hr>
-        <img src="kepek/jatekosok/Garaba_Imre.jpg" alt="" class="img-fluid w-50 mb-5">
+        <img src="kepek/jatekosok/Garaba_Imre.jpg" class="img-fluid w-50 mb-5">
         <h4>Garaba Imre</h4>
         <span class="d-block mb-3 text-uppercase">Született: 1958. július 29. (életkor 65 év), Vác</span>
         <p class="card-text"><b>Budapesti Honvéd SE, 1979-1987</b>
@@ -173,7 +173,7 @@
       </div>
       <div class="col-lg-4 text-center mb-5">
         <hr>
-        <img src="kepek/jatekosok/Horvath_Krisztofer.jpg" alt="" class="img-fluid w-50 mb-5">
+        <img src="kepek/jatekosok/Horvath_Krisztofer.jpg" class="img-fluid w-50 mb-5">
         <h4>Horváth Krisztofer</h4>
         <span class="d-block mb-3 text-uppercase">Született: 2002. január 8. (életkor 21 év), Hévíz</span>
           <p class="card-text">Kedden hivatalossá vált, hogy közös megegyezéssel megszűnt <b>Horváth Krisztofer</b> debreceni kölcsönszerződése. A 21 éves futballista az olasz Torino kölcsönjátékosaként tavaly augusztusban érkezett a DVSC-hez, melynek színeiben 7 első osztályú bajnokin lépett pályára, a kupában pedig 2 mérkőzésen 1 gólt ért el - írja a dvsc.hu.
@@ -188,7 +188,7 @@
       </div>
       <div class="col-lg-4 text-center mb-5">
         <hr>
-        <img src="kepek/jatekosok/Kalmar_Zsolt.jpg" alt="" class="img-fluid w-50 mb-5">
+        <img src="kepek/jatekosok/Kalmar_Zsolt.jpg" class="img-fluid w-50 mb-5">
         <h4>Kalmár Zsolt</h4>
         <span class="d-block mb-3 text-uppercase">Született: 1995. június 9. (életkor 28 év), Győr</span>
         <p class="card-text">Bejelentették Kalmár Zsolt érkezését
@@ -207,7 +207,7 @@
       </div>
       <div class="col-lg-4 text-center mb-5">
         <hr>
-        <img src="kepek/jatekosok/Kata_Mihaly.jpg" alt="" class="img-fluid w-50 mb-5">
+        <img src="kepek/jatekosok/Kata_Mihaly.jpg" class="img-fluid w-50 mb-5">
         <h4>Kata Mihály</h4>
         <span class="d-block mb-3 text-uppercase">Született: 2002. április 13. (életkor 21 év), Budapest</span>
         <p class="card-text">A jelenleg az NB I második helyén álló MTK klubigazgatója, Dr. Selei András a klubhonlapon értékelte a csapat eddigi szereplését, az átigazolásokat, a csatárkérdést, de a sportvezető beszélt arról is, mi a legfontosabb cél, mit értenek értékteremtés alatt, és természetesen szóba került Kata Mihály sikeres debütálása a válogatottban, a játékos további sorsa, valamint a "fiatalpercek" is témát szolgáltattak.<br>
@@ -223,7 +223,7 @@
       </div>
       <div class="col-lg-4 text-center mb-5">
         <hr>
-        <img src="kepek/jatekosok/Kerkesz_Milos.jpg" alt="" class="img-fluid w-50 mb-5">
+        <img src="kepek/jatekosok/Kerkesz_Milos.jpg" class="img-fluid w-50 mb-5">
         <h4>Kerkesz Milos</h4>
         <span class="d-block mb-3 text-uppercase">Született: 2003. november 7. (életkor 20 év), Verbász, Szerbia</span>
         <p class="card-text"><b>Sajtóhírek szerint a Premier League-ben szereplő Bournemouth is megegyezett a magyar válogatott Kerkez Milossal a személyes feltételekről.</b><br>
@@ -239,7 +239,7 @@
       </div>
       <div class="col-lg-4 text-center mb-5">
         <hr>
-        <img src="kepek/jatekosok/Lang_Adam.jpg" alt="" class="img-fluid w-50 mb-5">
+        <img src="kepek/jatekosok/Lang_Adam.jpg" class="img-fluid w-50 mb-5">
         <h4>Lang Ádám</h4>
         <span class="d-block mb-3 text-uppercase">Született: 1993. január 17. (életkor 30 év), Veszprém</span>
         <p class="card-text">Lang Ádám, az Omonia Nicosia labdarúgócsapatának hátvédje a következő két évben maradna jelenlegi klubjánál, a válogatottban pedig szeretne legalább olyan teljesítményt nyújtani, mint eddig.
@@ -257,7 +257,7 @@
       </div>
       <div class="col-lg-4 text-center mb-5">
         <hr>
-        <img src="kepek/jatekosok/Matrai_Sandor.jpg" alt="" class="img-fluid w-50 mb-5">
+        <img src="kepek/jatekosok/Matrai_Sandor.jpg" class="img-fluid w-50 mb-5">
         <h4>Mátrai Sándor</h4>
         <span class="d-block mb-3 text-uppercase">Született: 1932. november 20., Nagyszénás Meghalt: 2002. május 29., Budapest</span>
         <p><em>A labdarúgó NB I-ben szereplő Ferencváros hivatalos honlapján tudatta, hogy nem vezettek eredményre a Benficával folytatott tárgyalások Csoboth Kevin átigazolása kapcsán, így a zöld-fehérek a megoldás érdekében a FIFA vitarendező szervéhez fordulnak. 
@@ -272,7 +272,7 @@
       </div>
       <div class="col-lg-4 text-center mb-5">
         <hr>
-        <img src="kepek/jatekosok/Nagy_Adam.jpg" alt="" class="img-fluid w-50 mb-5">
+        <img src="kepek/jatekosok/Nagy_Adam.jpg" class="img-fluid w-50 mb-5">
         <h4>Nagy Ádám</h4>
         <span class="d-block mb-3 text-uppercase">Született: 1995. június 17. (életkor 28 év), Budapest</span>
         <p class="card-text"><i>A magyar válogatott parádés teljesítményt nyújtott az utóbbi meccsein, ennek köszönhetően kijutott az Eb-re, valamint a Nemzetek Ligájában feljutott a legmagasabb osztályba. Együttesünkben Nagy Ádám ezúttal is letette a névjegyét. A 25 esztendős futballista 2016 és 2019 között a Bologna csapatát erősítette, majd ezt követően igazolt a Bristol Cityhez. Nagy a tuttomercatoweb.com-nak elmondta, szívesen visszatérne Olaszországba.
@@ -287,7 +287,7 @@
       </div>
       <div class="col-lg-4 text-center mb-5">
         <hr>
-        <img src="kepek/jatekosok/Sandor_Karoly.jpg" alt="" class="img-fluid w-50 mb-5">
+        <img src="kepek/jatekosok/Sandor_Karoly.jpg" class="img-fluid w-50 mb-5">
         <h4>Sándor Károly</h4>
         <span class="d-block mb-3 text-uppercase">Született: 1928. november 26., Szeged Meghalt: 2014. szeptember 10., Budapest</span>
         <p class="card-text">Gyors felfutásairól és éles szögből elért góljairól emlékezetes. Szinte mindenki csak becenevén emlegette: Csikar.
@@ -303,7 +303,7 @@
       </div>
       <div class="col-lg-4 text-center mb-5">
         <hr>
-        <img src="kepek/jatekosok/Sipos_Ferenc.jpg" alt="" class="img-fluid w-50 mb-5">
+        <img src="kepek/jatekosok/Sipos_Ferenc.jpg" class="img-fluid w-50 mb-5">
         <h4>Sipos Ferenc</h4>
         <span class="d-block mb-3 text-uppercase">Született: 1932. december 13., Budapest Meghalt: 1997. március 17., Budapest</span>
         <p class="card-text">Sipos tartja a magyar rekordot: 1957. szeptember 15. és 1963. május 19. között egyetlen hivatalos válogatott találkozót sem hagyott ki. Így sorozatban 57 mérkőzésen lépett pályára. Utolsó meccse a válogatottban az 1966-os Magyarország-Ausztria (3–1) mérkőzés volt.<br>
@@ -318,7 +318,7 @@
       </div>
       <div class="col-lg-4 text-center mb-5">
         <hr>
-        <img src="kepek/jatekosok/Szalai_Adam.jpg" alt="" class="img-fluid w-50 mb-5">
+        <img src="kepek/jatekosok/Szalai_Adam.jpg" class="img-fluid w-50 mb-5">
         <h4>Szalai Ádám</h4>
         <span class="d-block mb-3 text-uppercase">Született: 1987. december 9. (életkor 36 év), Budapest</span>
         <p class="card-text">A magyar válogatott Szalai Attila a Hoffenheim labdarúgócsapatában folytatja pályafutását. A 25 éves védő átigazolását a német klub a közösségi oldalán jelentette be, és a videóban szerepelt Szalai Ádám is, aki 2014 és 2019 között volt a Hoffenheim játékosa. A gödi nevelésű középhátvéd az Austria Wienben lett profi játékos, az osztrák klub után Mezőkövesden, majd a ciprusi Apollon Limasszolban játszott, mielőtt 2021 januárjában Törökországba igazolt, és a Fenerbahcében 117 mérkőzésen szerepelt. </p>
@@ -332,7 +332,7 @@
       </div>
       <div class="col-lg-4 text-center mb-5">
         <hr>
-        <img src="kepek/jatekosok/Vinczak_Vilmos.jpg" alt="" class="img-fluid w-50 mb-5">
+        <img src="kepek/jatekosok/Vinczak_Vilmos.jpg" class="img-fluid w-50 mb-5">
         <h4>Vinczák Vilmos</h4>
         <span class="d-block mb-3 text-uppercase">Született: 1983. június 20. (életkor 40 év), Miskolc</span>
         <p class="card-text"><b>Felcsút – Mozgalmas napon van túl a Puskás Akadémia.</b><br>
@@ -564,7 +564,7 @@
     <div class="row gy-4">
       <div class="col-lg-6">
         <h3>Sok szeretettel várjuk a vendégeinket.</h3>
-        <img src="assets/img/about.jpg" class="img-fluid rounded-4 mb-4" alt="">
+        <img src="assets/img/about.jpg" class="img-fluid rounded-4 mb-4">
         <p>Célunk az, hogy a legjobb minőségben és egyedi választékban kínáljuk vevőink felé a focit és megszeressék. Cégünk 2023 óta folyamatosan működik, ez is garancia arra, hogy hosszú távon gondolkodunk. Ha kérdésük van örömmel állunk mindig rendelkezésedre!</p>
         <p>TEgy futballcsapat (...) nem 11 egyéni játékos, aki összevissza szaladgál a pályán, hogy a lehető legtöbb gólt szerezze, és ehhez, ha kell, elszedik a labdát a saját csapattársaiktól is. Ehelyett 11 játékos csapatáról van szó, akik összehangolják cselekvésüket annak érdekében, hogy gólt érjenek el. A rendes fociban a csatároknak és a hátvédeknek más-más szerepük van, s ehhez a feladathoz kell ragaszkodniuk, nem pedig, mint a grundon, csak a labda után rohangálnak. Az igazán sikeres csapatoknál mindegyik játékos annyira rá van hangolva, hogy a többiek mit játszanak a csapatban, hogy pontosan tudják, bármely pillanatban ki hol lesz; pontosan tudják, hogy akinél a labda van, hova fogja azt rúgni, s még a labda érkezése előtt már azon a helyen várják azt. Ehhez arra van szükség, hogy kívülről tudják, mit is gondol a másik.</p>
       </div>
@@ -582,7 +582,7 @@
           <p>"Ha meghalok, és újjászületek, megint focista akarok lenni. És ismét Diego Armando Maradona. Olyan játékos vagyok, aki örömet okozott az embereknek, és ez nekem elég."</p>
 
           <div class="position-relative mt-4">
-            <img src="assets/img/about-2.jpg" class="img-fluid rounded-4" alt="">
+            <img src="assets/img/about-2.jpg" class="img-fluid rounded-4">
             <a href="https://www.youtube.com/watch?v=LXb3EKWsInQ" class="glightbox play-btn"></a>
           </div>
         </div>
@@ -595,14 +595,14 @@
   <div class="container" data-aos="zoom-out">
     <div class="clients-slider swiper">
       <div class="swiper-wrapper align-items-center">
-        <div class="swiper-slide"><img src="assets/img/clients/client-1.png" class="img-fluid" alt=""></div>
-        <div class="swiper-slide"><img src="assets/img/clients/client-2.png" class="img-fluid" alt=""></div>
-        <div class="swiper-slide"><img src="assets/img/clients/client-3.png" class="img-fluid" alt=""></div>
-        <div class="swiper-slide"><img src="assets/img/clients/client-4.png" class="img-fluid" alt=""></div>
-        <div class="swiper-slide"><img src="assets/img/clients/client-5.png" class="img-fluid" alt=""></div>
-        <div class="swiper-slide"><img src="assets/img/clients/client-6.png" class="img-fluid" alt=""></div>
-        <div class="swiper-slide"><img src="assets/img/clients/client-7.png" class="img-fluid" alt=""></div>
-        <div class="swiper-slide"><img src="assets/img/clients/client-8.png" class="img-fluid" alt=""></div>
+        <div class="swiper-slide"><img src="assets/img/clients/client-1.png" class="img-fluid"></div>
+        <div class="swiper-slide"><img src="assets/img/clients/client-2.png" class="img-fluid"></div>
+        <div class="swiper-slide"><img src="assets/img/clients/client-3.png" class="img-fluid"></div>
+        <div class="swiper-slide"><img src="assets/img/clients/client-4.png" class="img-fluid"></div>
+        <div class="swiper-slide"><img src="assets/img/clients/client-5.png" class="img-fluid"></div>
+        <div class="swiper-slide"><img src="assets/img/clients/client-6.png" class="img-fluid"></div>
+        <div class="swiper-slide"><img src="assets/img/clients/client-7.png" class="img-fluid"></div>
+        <div class="swiper-slide"><img src="assets/img/clients/client-8.png" class="img-fluid"></div>
       </div>
     </div>
   </div>

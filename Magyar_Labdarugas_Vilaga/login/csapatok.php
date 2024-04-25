@@ -6,7 +6,7 @@
       <h1>Ezen az oldalon mindent megtalálsz amit tudni szeretnél a Magyar futballal kapcsolatban</h1>
     </div>
     <div class="col-lg-6 order-1 order-lg-2 hero-img" data-aos="zoom-in" data-aos-delay="200">
-      <img src="kepek/mlsz.png" class="animated" alt="" id="mlsz">
+      <img src="kepek/mlsz.png" class="animated" id="mlsz">
     </div>
   </div>
 </div>
@@ -16,27 +16,27 @@
   <div class="container">
     <div class="row" data-aos="zoom-in">
       <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
-        <img src="kepek/szponzorok/hell.png" id="szponzorlogok" alt="">
+        <img src="kepek/szponzorok/hell.png" id="szponzorlogok">
       </div>
 
       <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
-        <img src="kepek/szponzorok/mastergood.png" id="szponzorlogok" alt="">
+        <img src="kepek/szponzorok/mastergood.png" id="szponzorlogok">
       </div>
 
       <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
-        <img src="kepek/szponzorok/meszaros.png" id="szponzorlogok" alt="">
+        <img src="kepek/szponzorok/meszaros.png" id="szponzorlogok">
       </div>
 
       <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
-        <img src="kepek/szponzorok/thome.png" id="szponzorlogok" alt="">
+        <img src="kepek/szponzorok/thome.png" id="szponzorlogok">
       </div>
 
       <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
-        <img src="kepek/szponzorok/tippmix.png" id="szponzorlogok" alt="">
+        <img src="kepek/szponzorok/tippmix.png" id="szponzorlogok">
       </div>
 
       <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
-        <img src="kepek/szponzorok/zsory.png" id="szponzorlogok" alt="">
+        <img src="kepek/szponzorok/zsory.png" id="szponzorlogok">
       </div>
 
     </div>

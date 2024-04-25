@@ -24,12 +24,12 @@
     <div class="row g-5">
       <div class="col-lg-4">
         <div class="post-entry-1 lg">
-          <a href="kepek/jatekosok/Szoboszlai_Dominik.jpg" title="Repairs 3" data-gallery="portfolio-gallery-book" class="glightbox preview-link"><img src="kepek/jatekosok/Szoboszlai_Dominik.jpg" alt="" class="img-fluid"><i class="fa fa-zoom-in"></i></a>
+          <a href="kepek/jatekosok/Szoboszlai_Dominik.jpg" title="Repairs 3" data-gallery="portfolio-gallery-book" class="glightbox preview-link"><img src="kepek/jatekosok/Szoboszlai_Dominik.jpg" class="img-fluid"><i class="fa fa-zoom-in"></i></a>
           <div class="post-meta"><span class="date">Sport</span> <span class="mx-1">&bullet;</span> <span>2023.09.27.</span></div>
           <h2><a href="kepek/jatekosok/Szoboszlai_Dominik.jpg">Szoboszlai Dominik labda rúgásai</a></h2>
           <p class="mb-4 d-block szd">Szerdán este megszerezte második gólját az angol labdarúgó-bajnokságban a Liverpool FC magyar válogatott sztárja, Szoboszlai Dominik. A 23 éves játékos a Sheffield United elleni, a „vörösök” szempontjából nem túl könnyű mérkőzésen állította be a végeredményt. Íme!</p>
           <div class="d-flex align-items-center author">
-            <div class="photo"><img src="kepek/jatekosok/Matrai_Sandor.jpg" alt="" class="img-fluid"></div>
+            <div class="photo"><img src="kepek/jatekosok/Matrai_Sandor.jpg" class="img-fluid"></div>
             <div class="name">
               <h3 class="m-0 p-0"><a href="kepek/jatekosok/Matrai_Sandor.jpg">Mátrai Ferenc</a></h3>
             </div>
@@ -40,20 +40,20 @@
         <div class="row g-5">
           <div class="col-lg-4 border-start custom-border">
             <div class="post-entry-1">
-              <a href="kepek/jatekosok/Albert_Florian.jpg"><img src="kepek/jatekosok/Albert_Florian.jpg" alt="" class="img-fluid"></a>
+              <a href="kepek/jatekosok/Albert_Florian.jpg"><img src="kepek/jatekosok/Albert_Florian.jpg" class="img-fluid"></a>
               <div class="post-meta"><span class="date">Sport</span> <span class="mx-1">&bullet;</span> <span>2007.12.21 </span></div>
               <h2><a href="https://dlsz.hu/albert-florian-1941-2011-aranylabdas-futballista">Albert Flórián (Hercegszántó, 1941. szeptember 15. – Budapest, 2011. október 31.) az egyetlen magyar aranylabdás (Ballon D'Or) válogatott labdarúgó, játékos posztja: középcsatár és középpályás, a Nemzet Sportolója. Becenevei Császár és Flóri voltak. 2007. december 21-én délben átkeresztelték az Üllői úti stadiont, a neve Albert Flórián Stadion lett.
                 Az 1950-es évek végétől az első kiemelkedő képességű játékos. Nagyon fiatalon lett elismert labdarúgó. Kiválóan cselezett, labdáit vonzotta a kapu. Önéletrajzaiban önkritikusan megemlíti, hogy nagyon szeretett játszani, de nem szeretett edzeni. Életpályája konfliktusokkal terhelt volt. 1974. március 17-én fejezte be az aktív játékot.</a></h2>
             </div>
             <hr>
             <div class="post-entry-1">
-              <a href="kepek/jatekosok/Botka_Endre.jpg"><img src="kepek/jatekosok/Botka_Endre.jpg" alt="" class="img-fluid"></a>
+              <a href="kepek/jatekosok/Botka_Endre.jpg"><img src="kepek/jatekosok/Botka_Endre.jpg" class="img-fluid"></a>
               <div class="post-meta"><span class="date">Sport</span> <span class="mx-1">&bullet;</span> <span>2017 Jan</span></div>
               <h2><a href="kepek/jatekosok/Botka_Endre.jpg">Egykori csapatának szurkolói olyannyira zokon vették távozását, hogy mezét elégették – Botka azóta négy magyar bajnoki címmel és egy kupagyőzelemmel kárpótolhatta magát, illetve játszhatott a zöld-fehéreknél az UEFA Bajnokok Ligájában is.</a></h2>
             </div>
             <hr>
             <div class="post-entry-1">
-              <a href="kepek/jatekosok/Kalmar_Zsolt.jpg"><img src="kepek/jatekosok/Kalmar_Zsolt.jpg" alt="" class="img-fluid"></a>
+              <a href="kepek/jatekosok/Kalmar_Zsolt.jpg"><img src="kepek/jatekosok/Kalmar_Zsolt.jpg" class="img-fluid"></a>
               <div class="post-meta"><span class="date">Sport</span> <span class="mx-1">&bullet;</span> <span>2023.11.26.</span></div>
               <h2><a href="kepek/jatekosok/Kalmar_Zsolt.jpg">Kalmár Zsolt a Fehérvár FC–Kecskemét NB I-es bajnoki mérkőzés első félidejében sérült meg. Labda és ellenfél nem volt a közelben, a válogatott középpályás meghúzódott.</a></h2>
             </div>
@@ -61,19 +61,19 @@
           </div>            
           <div class="col-lg-4 border-start custom-border">
             <div class="post-entry-1">
-              <a href="kepek/jatekosok/Puskas_Ferenc.jpg"><img src="kepek/jatekosok/Puskas_Ferenc.jpg" alt="" class="img-fluid"></a>
+              <a href="kepek/jatekosok/Puskas_Ferenc.jpg"><img src="kepek/jatekosok/Puskas_Ferenc.jpg" class="img-fluid"></a>
               <div class="post-meta"><span class="date">Sport</span> <span class="mx-1">&bullet;</span> <span>1948-1965</span></div>
               <h2><a href="kepek/jatekosok/Puskas_Ferenc.jpg">Elismerései: Európa leggólerősebb játékosa (1948), világválogatott (1963), Európa-válogatott (1965), FIFA Hall of Fame tagja (1998), a 20. század legjobb magyar játékosa (2001), a Nemzet Sportolója (2004)</a></h2>
             </div>
             <hr>
             <div class="post-entry-1">
-              <a href="kepek/jatekosok/Sipos_Ferenc.jpg"><img src="kepek/jatekosok/Sipos_Ferenc.jpg" alt="" class="img-fluid"></a>
+              <a href="kepek/jatekosok/Sipos_Ferenc.jpg"><img src="kepek/jatekosok/Sipos_Ferenc.jpg" class="img-fluid"></a>
               <div class="post-meta"><span class="date">Sport</span> <span class="mx-1">&bullet;</span> <span>Mar 1st '22</span></div>
               <h2><a href="kepek/jatekosok/Sipos_Ferenc.jpg">Sipos Ferencen kívül csak két olyan magyar labdarúgó van, Grosics Gyula és Mátrai Sándor, akik három világbajnokságon is részt vettek (Grosics 1954, 1958, 1962 - Sipos és Mátrai 1958, 1962, 1966). 1962-ben ötödik, 1966-ban hatodik helyezést ért el a csapattal. 1964-ben a spanyolországi Nemzetek Európa Kupájában, a mai Európa-bajnokság elődjén bronzérmes lett a válogatottal.</a></h2>
             </div>
             <hr>
             <div class="post-entry-1">
-              <a href="kepek/jatekosok/Vinczak_Vilmos.jpg"><img src="kepek/jatekosok/Vinczak_Vilmos.jpg" alt="" class="img-fluid"></a>
+              <a href="kepek/jatekosok/Vinczak_Vilmos.jpg"><img src="kepek/jatekosok/Vinczak_Vilmos.jpg" class="img-fluid"></a>
               <div class="post-meta"><span class="date">Sport</span> <span class="mx-1">&bullet;</span> <span>Jul 5th '22</span></div>
               <h2><a href="kepek/jatekosok/Vinczak_Vilmos.jpg">Vanczák 2016-ban tíz év légióskodás után tért haza Magyarországra, és a Puskás Akadémiához igazolt, majd 2018-ban nálunk fejezte be aktív játékospályafutását, hogy asszisztens edzőként folytassa a munkát első csapatunknál. Hornyák Zsolt szakmai stábjában kivette a részét az elmúlt esztendők sikereiből, egy negyedik helyezés mellett két bronzérmet, illetve egy ezüstöt is szerzett NB I-es alakulatunkkal. A jövőben vezetőedzői szerepkörben dolgozik tovább klubunk sikereiért, harmadosztályú férfi együttesünk az ő irányításával kezdi meg a felkészülést a következő évadra.</a></h2>
               <hr>
@@ -139,15 +139,15 @@
       <div class="col-md-9">
 
         <div class="d-lg-flex post-entry-2">
-          <a href="#" class="me-4 thumbnail mb-4 mb-lg-0 d-inline-block">
-            <img src="kepek/forma1/Mercedes.jpg" alt="" class="img-fluid">
+          <a href="kepek/forma1/Mercedes.jpg" class="me-4 thumbnail mb-4 mb-lg-0 d-inline-block">
+            <img src="kepek/forma1/Mercedes.jpg" class="img-fluid">
           </a>
           <div>
             <div class="post-meta"><span class="date">Mercedes</span> <span class="mx-1">&bullet;</span> <span> 2023. Júl. 5.</span></div>
-            <h2 class="mb-2"><a href="#">HAMILTONT AGGASZTJA A RED BULL ELŐNYE: „AUGUSZTUS ÓTA NEM FEJLESZTETTEK, DE 17 MÁSODPERCCEL NYERTEK”</a></h2>
+            <p class="mb-2">Hamiltont Aaggasztja a red bull előnye: „Auguszrus óta nem fejlesztettek, de 17 másodperccel nyertek”</a></p>
             <p>Toto Wolff szerint felér egy győzelemmel a Mercedes számára, hogy sikerült megelőzniük a Ferrarit a konstruktőrök között. Elégedetten értékelt az Abu-Dzabiban sorozatban negyedik győzelmét ünneplő Max Verstappen, valamint az egyéni pontversenyben negyedik helyen záró Fernando Alonso is. Lewis Hamilton viszont csalódott a 2023-as szezon miatt, és egyelőre a jövő kapcsán sem optimista.</p>
             <div class="d-flex align-items-center author">
-              <div class="photo"><img src="kepek/forma1/Ferrari.jpg" alt="" class="img-fluid"></div>
+              <div class="photo"><img src="kepek/forma1/Ferrari.jpg" class="img-fluid"></div>
               <div class="name">
                 <h3 class="m-0 p-0">Ferrari F1</h3>
               </div>
@@ -158,24 +158,24 @@
         <div class="row">
           <div class="col-lg-4">
             <div class="post-entry-1 border-bottom">
-              <a><img src="kepek/forma1/Ferrari.jpg" alt="" class="img-fluid"></a>
+              <a><img src="kepek/forma1/Ferrari.jpg" class="img-fluid"></a>
               <div class="post-meta"><span class="date">Ferrari</span> <span class="mx-1">&bullet;</span> <span>2014. Júl. 10</span></div>
-              <h2 class="mb-2"><a href="#">A két pilóták Fernando Alonso, Kimi Raikkönen voltak 2014-ben</a></h2>
+              <h2 class="mb-2"><a href="https://formula.hu/f1/2014/11/10/alonso-nem-vagyok-duhos-kimire">A két pilóták Fernando Alonso, Kimi Raikkönen voltak 2014-ben</a></h2>
               <span class="author mb-3 d-block">Frédéric Vasseur Csapatvezető</span>
               <p class="mb-4 d-block">A 2014-es Japán Nagydíj egészen vasárnap helyi idő szerint délután fél ötig a szezon egyik csúcspontjának tűnt. Roppantul érdekfeszítő beszédtémáktól pezsgett a paddock, elég csak a nagy bejelentésre gondolni, miszerint Sebastian Vettel elhagyja a Red Bullt, a szabadedzésen először gördült a pályára Max Verstappen, ráadásul ott volt az állandó izgalom az időjárás miatt, mely azt is kérdésessé tette, vajon megrendezhetik-e a versenyt, s ha igen, akkor az eredeti időpontban kerülhet-e sor rá.</p>
             </div>
 
             <div class="post-entry-1">
               <div class="post-meta"><span class="date">Kulturális</span> <span class="mx-1">&bullet;</span> <span>2023. nov. 24.</span></div>
-              <h2 class="mb-2"><a href="#">Redbull Csapatának a csapatfőnöke</a></h2>
+              <h2 class="mb-2"><a href="https://www.origo.hu/sport/f1/2024/03/a-red-bull-csapatfonoke-verstappenrol-senki-sem-lehet-nagyobb-a-csapatnal">Redbull Csapatának a csapatfőnöke</a></h2>
               <span class="author mb-3 d-block">Christian Horner</span>
             </div>
           </div>
           <div class="col-lg-8">
             <div class="post-entry-1">
-              <a href="#"><img src="kepek/forma1/Alfaromeo.jpg" alt="" class="img-fluid"></a>
+              <a href="kepek/forma1/Alfaromeo.jpg"><img src="kepek/forma1/Alfaromeo.jpg" class="img-fluid"></a>
               <div class="post-meta"><span class="date">Kúlturális</span> <span class="mx-1">&bullet;</span> <span>2023.Dec.04</span></div>
-              <h2 class="mb-2"><a href="#">Miután Frederic Vasseur a Ferrarihoz távozott</a></h2>
+              <h2 class="mb-2"><a href="https://formula.hu/parc-ferme/37244/25">Miután Frederic Vasseur a Ferraritól távozott</a></h2>
               <span class="author mb-3 d-block">Frederic Vasseur Csapatveezető</span>
               <p class="mb-4 d-block">Alfa Romeo: Megérte az F1-es szereplés, de most másfelé indulunk
               23.12.04 15:34
@@ -203,25 +203,25 @@
 
         <div class="post-entry-1 border-bottom">
           <div class="post-meta"><span class="date">Forma - 1</span> <span class="mx-1">&bullet;</span> <span>2023. november 28.</span></div>
-          <h2 class="mb-2"><a href="#">„Nagy a potenciál” – így értékel a Ferrari</a></h2>
+          <h2 class="mb-2"><a href="https://formula.hu/f1/2023/11/28/nagy-a-potencial-igy-ertekeli-a-ferrari-2023-as-evet-vasseur">„Nagy a potenciál” – így értékel a Ferrari</a></h2>
           <span class="author mb-3 d-block">2023-ban: Fred Vasseur szerint hatékonyabbá kell válniuk 2024-re</span>
         </div>
 
         <div class="post-entry-1 border-bottom">
           <div class="post-meta"><span class="date">Forma - 1</span> <span class="mx-1">&bullet;</span> <span>2023. november 26.</span></div>
-          <h2 class="mb-2"><a href="#">„Túléltem” – Hamilton letaglózva nyilatkozott</a></h2>
+          <h2 class="mb-2"><a href="https://formula.hu/f1/2023/11/26/tuleltem-hamilton-letaglozva-nyilatkozott">„Túléltem” – Hamilton letaglózva nyilatkozott</a></h2>
           <span class="author mb-3 d-block">mondta Lewis Hamilton, aki nem tud örülni a konstruktőri 2. helynek Red Bull miatt</span>
         </div>
 
         <div class="post-entry-1 border-bottom">
           <div class="post-meta"><span class="date">Forma - 1</span> <span class="mx-1">&bullet;</span> <span>2023. november 21.</span></div>
-          <h2 class="mb-2"><a href="#">Wolff: Ez jól összefoglalta a szezonunkat</a></h2>
+          <h2 class="mb-2"><a href="https://formula.hu/f1/2023/11/21/wolff-ez-jol-osszefoglalta-a-szezonunkat">Wolff: Ez jól összefoglalta a szezonunkat</a></h2>
           <span class="author mb-3 d-block">Még a dobogót is elcsíphették volna, ehelyett csak tíz pontot gyűjtöttek.</span>
         </div>
 
         <div class="post-entry-1 border-bottom">
           <div class="post-meta"><span class="date">Forma - 1</span> <span class="mx-1">&bullet;</span> <span>2023. október 29.</span></div>
-          <h2 class="mb-2"><a href="#">Azonnali megoldást a bokszutcai feltartásra!</a></h2>
+          <h2 class="mb-2"><a href="https://formula.hu/f1/2023/10/29/azonnali-megoldast-a-bokszutcai-feltartasra">Azonnali megoldást a bokszutcai feltartásra!</a></h2>
           <span class="author mb-3 d-block">Nagydíjon ismét tömörülés alakult ki a bokszutca kijáratában</span>
         </div>
       </div>
@@ -238,14 +238,14 @@
       <div class="col-md-9 order-md-2">
         <div class="d-lg-flex post-entry-2">
           <a href="kepek/basketball/palya.jpg" class="me-4 thumbnail d-inline-block mb-4 mb-lg-0">
-            <img src="kepek/basketball/palya.jpg" alt="" class="img-fluid">
+            <img src="kepek/basketball/palya.jpg" class="img-fluid">
           </a>
           <div>
             <div class="post-meta"><span class="date">Kosár mérközés</span> <span class="mx-1">&bullet;</span> <span>Első játék	1891. Springfield, Massachusetts, (USA)</span></div>
             <h3><a href="kepek/basketball/kosarlabda.jpg"></a></h3>
             <p id="p">A büntetődobó vonalakat az alapvonalakkal párhuzamosan kell kijelölni. A 3,60 m hosszú vonal távolabbi széle 5,80 m távolságra van az alapvonal belső szélétől. Középpontja a két alapvonal felezőpontját összekötő képzeletbeli egyenesen fekszik. A szigorított területek a pályán kijelölt azon területek, amelyeket az alapvonalak, a büntetődobó vonalak, valamint azok a vonalak határolnak, amelyek külső szélükkel az alapvonal felezőponjától 3 m-re az alapvonalról erednek, és a büntetővonalak külső szélénél végződnek. Ezek a vonalak, kivéve az alapvonalakat, a szigorított terület részei. A büntetődobó sávok a szigorított területek egy 1,80 m sugarú félkörrel megnövelve. A félkörök középpontjai megegyeznek a büntetődobó vonalak középpontjaival.</p>
             <div class="d-flex align-items-center author">
-              <div class="photo"><img src="kepek/basketball/kosarlabda.jpg" alt="" class="img-fluid"></div>
+              <div class="photo"><img src="kepek/basketball/kosarlabda.jpg" class="img-fluid"></div>
               <div class="name">
                 <h3 class="m-0 p-0">Kosár</h3>
               </div>
@@ -255,10 +255,9 @@
         <div class="row">
           <div class="col-lg-4">
             <div class="post-entry-1 border-bottom">
-              <a href="kepek/basketball/kosarlabda.jpg"><img src="kepek/basketball/kosarlabda.jpg" alt="" class="img-fluid"></a>
+              <a href="kepek/basketball/kosarlabda.jpg"><img src="kepek/basketball/kosarlabda.jpg" class="img-fluid"></a>
               <div class="post-meta"><span class="date">Még több a kosárról</span> <span class="mx-1">&bullet;</span> <span>Budapest, 2020</span></div>
-              <h2 class="mb-2"><a href="#">11 Work From Home Part-Time Jobs You Can Do Now</a></h2>
-              <span class="author mb-3 d-block">Jenny Wilson</span>
+              <h2 class="mb-2"><a href="https://hu.wikipedia.org/wiki/Kos%C3%A1rlabda">A kosárlabda egy olyan labdajáték, amelyet két ötfős csapat játszik.</a></h2>
               <p class="mb-4 d-block"><b>Kosárlabdapálya: </b><br>
               A kosárlabdapálya a nemzetközi (FIBA) játékokon 28 m × 15 m méretű, az amerikai Nemzeti Kosárlabda-szövetségben(NBA) ez 28,65 m × 15,24 m.<br>
               <b>Palánk: </b><br>
@@ -267,17 +266,16 @@
               A gyűrű 3,05 m (10 láb) magasan van a földtől. Szinte kivétel nélkül a bajnokságokon és a nemzetközi játékon ez az elfogadott méret, mióta a játék megszületett, csak a legkisebbek gyűrűjét helyezik időnként alacsonyabbra. A gyűrű belső átmérője 450–459 mm közötti.</p>
             </div>
             <div class="post-entry-1">
-              <a href="kepek/vollayball/ropi.jpg"><img src="kepek/vollayball/ropi.jpg" alt="" class="img-fluid"></a>
+              <a href="kepek/vollayball/ropi.jpg"><img src="kepek/vollayball/ropi.jpg" class="img-fluid"></a>
               <div class="post-meta"><span class="date">Röplabda mérközésről</span> <span class="mx-1">&bullet;</span> <span>23.Febr.24. </span></div>
-              <h2 class="mb-2"><a href="#">A Vasas Óbuda nyerte az alapszakaszt a női röplabda Extraligában</a></h2>
-              <span class="author mb-3 d-block">Jenny Wilson</span>
+              <h2 class="mb-2"><a href="https://www.nemzetisport.hu/roplabda/2024/02/noi-roplabda-extraliga-veretlenul-nyerte-a-vasas-az-alapszakaszt">A Vasas Óbuda nyerte az alapszakaszt a női röplabda Extraligában</a></h2>
             </div>
           </div>
           <div class="col-lg-8">
             <div class="post-entry-1">
-              <a href="kepek/vollayball/valley.jpg"><img src="kepek/vollayball/valley.jpg" alt="" class="img-fluid"></a>
+              <a href="kepek/vollayball/valley.jpg"><img src="kepek/vollayball/valley.jpg" class="img-fluid"></a>
               <div class="post-meta"><span class="date">Még több információ</span> <span class="mx-1">&bullet;</span> <span>2023.Febr.03.</span></div>
-              <h2 class="mb-2"><a href="#">Második mérkőzését is megnyerte a Kaposvár a férfi röplabda Extraligában</a></h2>
+              <h2 class="mb-2"><a href="https://www.nemzetisport.hu/roplabda/2023/02/ferfi-ropi-extraliga-masodik-merkozeset-is-megnyerte-a-kaposvar-az-alsohazban">Második mérkőzését is megnyerte a Kaposvár a férfi röplabda Extraligában</a></h2>
               <span class="author mb-3 d-block">férfi röplabda Extraliga középszakaszában</span>
               <p class="mb-4 d-block">A Kaposvár 3-1-re legyőzte a Kecskemét együttesét pénteken a férfi röplabda Extraliga középszakaszában, az alsóház 2. fordulójában.</p>
             </div>
