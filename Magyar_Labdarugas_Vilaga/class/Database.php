@@ -36,11 +36,11 @@ class Database {
         return false;
     }
 
-    public function register($id, $name, $email, $jegyt, $mennyiseg, $igazolvany, $pass1, $gender, $date) {
+    public function register($id, $name, $email, $jegyt, $mennyiseg, $igazolvany, $pass1, $merkozes, $date) {
         
         //$password = password_hash($pass, PASSWORD_BCRYPT);
-        $stmt = $this->db->prepare('INSERT INTO `users`(`id`, `name`, `email`, `jegyt`, `mennyiseg`, `igazolvany`, `password`, `gender`, `date`) VALUES (?,?,?,?,?,?,?,?,?)');
-        $stmt->bind_param("issssssss", $id, $name, $email, $jegyt, $mennyiseg, $igazolvany, $pass1, $gender, $date);
+        $stmt = $this->db->prepare('INSERT INTO `users`(`id`, `name`, `email`, `jegyt`, `mennyiseg`, `igazolvany`, `password`, `merkozes`, `date`) VALUES (?,?,?,?,?,?,?,?,?)');
+        $stmt->bind_param("issssssss", $id, $name, $email, $jegyt, $mennyiseg, $igazolvany, $pass1, $merkozes, $date);
         if ($stmt->execute()) {
             //echo $stmt->affected_rows();
             $_SESSION['login'] = true;

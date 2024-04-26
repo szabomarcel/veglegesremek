@@ -4,7 +4,7 @@
     $pass1 = filter_input(INPUT_POST, "password");
     $pass2 = filter_input(INPUT_POST, "InputPassword2");
     $email = filter_input(INPUT_POST, "email");        
-    $gender = filter_input(INPUT_POST, "gender");
+    $merkozes = filter_input(INPUT_POST, "merkozes");
     $jegyt = filter_input(INPUT_POST, "jegyt");
     $date = filter_input(INPUT_POST, "date");
     $mennyiseg = filter_input(INPUT_POST, "mennyiseg");
@@ -14,7 +14,7 @@
       $_SESSION['login'] !== false;
       $_SESSION['name'] = $name;
       //-- regisztráció inditása
-      $db -> register($id, $name, $email, $jegyt, $mennyiseg, $igazolvany, $pass1, $gender, $date);
+      $db -> register($id, $name, $email, $jegyt, $mennyiseg, $igazolvany, $pass1, $merkozes, $date);
       header("Location: index.php"); // Átvált a nyitólapra.
     }else{
       echo '<p>Nem egyezik meg a jelszó</p>';
@@ -81,32 +81,32 @@
                       <h6 class="mb-0 me-4">Melyik mérközésre szeretnél menni: </h6>
 
                         <div class="form-check form-check-inline mb-0 me-4">
-                          <input type="checkbox" id="vehicle1" name="gender" value="Kecskemeti TE és Mezökövesd az ára 2000ft">
+                          <input type="checkbox" id="vehicle1" name="merkozes" value="Kecskemeti TE és Mezökövesd az ára 2000ft">
                           <label for="vehicle1" name="vehicle1"> Kecskemeti TE és Mezökövesd az ára 2000ft</label><br><br>
                         </div>
 
                         <div class="form-check form-check-inline mb-0 me-4">
-                          <input type="checkbox" id="vehicle2" name="gender" value="Puskás Akadémia és Paks az ára 2300ft">
+                          <input type="checkbox" id="vehicle2" name="merkozes" value="Puskás Akadémia és Paks az ára 2300ft">
                           <label for="vehicle2" name="vehicle2"> Puskás Akadémia és Paks az ára 2300ft</label><br><br>
                         </div>
 
                         <div class="form-check form-check-inline mb-0">
-                          <input type="checkbox" id="vehicle3" name="gender" value="Diósgyőri VTK és Debreceni VSC az ára 2500ft">
+                          <input type="checkbox" id="vehicle3" name="merkozes" value="Diósgyőri VTK és Debreceni VSC az ára 2500ft">
                           <label for="vehicle3" name="vehicle3"> Diósgyőri VTK és Debreceni VSC az ára 2500ft</label><br><br>
                         </div>
 
                         <div class="form-check form-check-inline mb-0">
-                          <input type="checkbox" id="vehicle4" name="gender" value="Újpest és MTK Budapest az ára 2100ft">
+                          <input type="checkbox" id="vehicle4" name="merkozes" value="Újpest és MTK Budapest az ára 2100ft">
                           <label for="vehicle4" name="vehicle4"> Újpest és MTK Budapest az ára 2100ft</label><br><br>
                         </div>
 
                         <div class="form-check form-check-inline mb-0">
-                          <input type="checkbox" id="vehicle5" name="gender" value="Fehérvár FC és Zalaegerszeg az ára 1900ft">
+                          <input type="checkbox" id="vehicle5" name="merkozes" value="Fehérvár FC és Zalaegerszeg az ára 1900ft">
                           <label for="vehicle5" name="vehicle5"> Fehérvár FC és Zalaegerszeg az ára 1900ft</label><br><br>
                         </div>
 
                         <div class="form-check form-check-inline mb-0">
-                          <input type="checkbox" id="vehicle6" name="gender" value="Ferencvárosi TC és Kisvárda az ára 2100ft">
+                          <input type="checkbox" id="vehicle6" name="merkozes" value="Ferencvárosi TC és Kisvárda az ára 2100ft">
                           <label for="vehicle6" name="vehicle6"> Ferencvárosi TC és Kisvárda az ára 2100ft</label><br><br>
                         </div>
 
