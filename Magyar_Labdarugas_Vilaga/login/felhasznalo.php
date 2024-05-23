@@ -94,7 +94,7 @@ if (filter_input(INPUT_POST, "Egyszarvu", FILTER_VALIDATE_BOOL, FILTER_NULL_ON_F
                             </div>
                         </div>    
                         <!--<button type="submit" class="btn btn-info btn-block mb-4" value="1" name="Vasarlas">Vásárlás</button>-->
-                        <a href="index.php?menuItem=card&gender=<?php echo $adatok2['gender'];?>" class="btn btn-info btn-block mb-4">Vásárlás</a>
+                        <a href="index.php?menuItem=card&gender=<?php echo $adatok2['merkozes'];?>" class="btn btn-info btn-block mb-4">Vásárlás</a>
                         <button type="submit" class="btn btn-info btn-block mb-4" value="1" name="Adatmodositas">Módosítás</button>
                         <button type="submit" class="btn btn-info btn-block mb-4" value="1" name="Egyszarvu">Törlés</button>
                     </form>
